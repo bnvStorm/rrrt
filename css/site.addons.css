@@ -1,0 +1,25 @@
+.search {
+    display: none !important;
+}
+.videoWrap{
+    margin-bottom: 0;
+}
+.ready{
+    margin-top: 200px;
+}
+.footer_1{
+	padding-top: 30px;
+}
+.ab_agency{
+	padding-top: 50px;
+	    padding-bottom: 265px;
+}
+.sec_title{
+    text-align: center;
+}
+.logo img{
+    max-width: 80px;
+}
+a:focus{
+    color: #E62B4A;
+}
