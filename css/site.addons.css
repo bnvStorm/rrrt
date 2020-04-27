@@ -23,3 +23,9 @@
 a:focus{
     color: #E62B4A;
 }
+.flipper img{
+    max-width: 64px;
+    margin-bottom: 17px;
+    margin-left: auto;
+    margin-right: auto;
+}

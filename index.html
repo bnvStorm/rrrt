@@ -53,14 +53,14 @@
                         <nav class="mainmenu text-center">
                             <ul>
                                 <li class="menu-item-has-children">
-                                    <a href="#">Главная</a>
+                                    <a href="/">Главная</a>
                                     <!-- <ul class="sub-menu">
                                         <li><a href="index.html">Home 01</a></li>
                                         <li><a href="index2.html">Home 02</a></li>
                                         <li><a href="index3.html">Home 03</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="#">О компании</a></li>
+                                <li><a href="#ab_agency">О компании</a></li>
                                  <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="services.html">Service</a></li>
@@ -82,7 +82,7 @@
                                         <li><a href="blog_single.html">Blog Single</a></li>
                                     </ul> 
                                 </li>-->
-                                <li><a href="#">Контакты</a></li>
+                                <li><a href="#ContactPage">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -138,14 +138,14 @@
                             <div class="dl-menu__wrap dl-menuwrapper">
                                 <ul class="dl-menu dl-menuopen">
                                     <li class="menu-item-has-children">
-                                        <a href="#">Главная</a>
+                                        <a href="/">Главная</a>
                                         <!-- <ul class="dl-submenu">javascript:void(0);
                                             <li><a href="index.html">Home 01</a></li>
                                             <li><a href="index2.html">Home 02</a></li>
                                             <li><a href="index3.html">Home 03</a></li>
                                         </ul> -->
                                     </li>
-                                    <li><a href="#">О компании</a></li>
+                                    <li><a href="#ab_agency">О компании</a></li>
                                     <!-- <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                                         <ul class="dl-submenu">
                                             <li><a href="services.html">Service</a></li>
@@ -169,7 +169,7 @@
                                             <li><a href="blog_single.html">Blog Single</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="#">Контакты</a></li>
+                                    <li><a href="#ContactPage">Контакты</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -262,7 +262,7 @@
                                  data-lineheight=""
                                  data-fontweight="400"
                                  data-textAlign="center"
-                                 ><a href="#" class="common_btn"><span>Ссылка</span></a></div>
+                                 ><a href="#" class="common_btn"  data-toggle="modal" data-target="#myModal"><span>Ссылка</span></a></div>
                         </li>
                        
                     </ul><!-- END SLIDES LIST -->
@@ -285,15 +285,65 @@
                 </div>
                 <div class="row custom_column">
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="#" class="icon_box_1 text-center">
+                        <a class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
-                                    <i class="mei-web-design"></i>
-                                    <h3>Элемент</h3>
+                                    <!-- <i class="mei-web-design"></i> -->
+                                    <img src="images/icons/1.png" alt="">
+                                    <h3>Работаем в регионах</h3>
                                 </div>
                                 <div class="back">
-                                    <i class="mei-web-design"></i>
-                                    <h3>Элемент</h3>
+                                    <!-- <i class="mei-web-design"></i> -->
+                                    <img src="images/icons/blck/1.png" alt="">
+                                    <h3>Работаем в регионах</h3>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3">
+                        <a  class="icon_box_1 text-center">
+                            <div class="flipper">
+                                <div class="front">
+                                    <!-- <i class="mei-computer-graphic"></i> -->
+                                    <img src="images/icons/2.png" alt="">
+                                    <h3>Моментальные выплаты</h3>
+                                </div>
+                                <div class="back">
+                                    <!-- <i class="mei-computer-graphic"></i> -->
+                                    <img src="images/icons/blck/2.png" alt="">
+                                    <h3>Моментальные выплаты</h3>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3">
+                        <a  class="icon_box_1 text-center">
+                            <div class="flipper">
+                                <div class="front">
+                                    <img src="images/icons/3.png" alt="">
+                                    <!-- <i class="mei-development-1"></i> -->
+                                    <h3>Работа с физическими лицами</h3>
+                                </div>
+                                <div class="back">
+                                    <img src="images/icons/blck/3.png" alt="">
+                                    <!-- <i class="mei-development-1"></i> -->
+                                    <h3>Работа с физическими лицами</h3>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-sm-4 col-md-3">
+                        <a  class="icon_box_1 text-center">
+                            <div class="flipper">
+                                <div class="front">
+                                    <!-- <i class="mei-development"></i> -->
+                                    <img src="images/icons/5.png" alt="">
+                                    <h3>Сеть пунктов приема</h3>
+                                </div>
+                                <div class="back">
+                                    <!-- <i class="mei-development"></i> -->
+                                    <img src="images/icons/blck/5.png" alt="">
+                                    <h3>Сеть пунктов приема</h3>
                                 </div>
                             </div>
                         </a>
@@ -302,54 +352,14 @@
                         <a href="#" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
-                                    <i class="mei-computer-graphic"></i>
-                                    <h3>Элемент</h3>
+                                    <!-- <i class="mei-app-development"></i> -->
+                                    <img src="images/icons/6.png" alt="">
+                                    <h3>Сотрудничаем с предприятиями всех форм собственности</h3>
                                 </div>
                                 <div class="back">
-                                    <i class="mei-computer-graphic"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="#" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-development-1"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-development-1"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="#" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-development"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-development"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="#" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-app-development"></i>
-                                    <h3>Элемент</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-app-development"></i>
-                                    <h3>Элемент</h3>
+                                    <!-- <i class="mei-app-development"></i> -->
+                                    <img src="images/icons/blck/6.png" alt="">
+                                    <h3>Сотрудничаем с предприятиями всех форм собственности</h3>
                                 </div>
                             </div>
                         </a>
@@ -360,12 +370,12 @@
         <!-- Services Section -->
 
         <!-- About Agency Section -->
-        <section class="commonSection ab_agency">
+        <section class="commonSection ab_agency" id="ab_agency">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-md-6 PR_79">
                         <h4 class="sub_title">тут может быть</h4>
-                        <h2 class="sec_title MB_45">Ваш текст</h2>
+                        <h2 class="sec_title MB_45">О компании</h2>
                         <p class="sec_desc">
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
@@ -379,7 +389,7 @@
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
                         </p>
-                        <a class="common_btn red_bg" href="#"><span>Ссылка</span></a>
+                        <a class="common_btn red_bg" href="#" data-toggle="modal" data-target="#myModal"><span>Ссылка</span></a>
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="ab_img1">
@@ -819,7 +829,7 @@
         </section> -->
         <!-- Ready Section -->
 
-<section>
+<section class="commonSection qasec">
     <div class="container">
         <div class="row">
           <div class="sec_title"> Вопрос - ответ </div> 
@@ -837,10 +847,10 @@
       <!-- Содержимое 1 панели -->
       <div class="panel-body">
         <p>К сожалению, нет. 
-            Но вы можете обратиться к менеджерам компании «Казахстанский оператор по управлению отходами». 
-            Напишите запрос на e-mail in@qwmo.net 
-            Укажите в теле письма перечень опасных отходов, которые вам необходимо сдать и объемы этих отходов.
-            В течение 2-3 дней специально для вас разработают коммерческое предложение. В том случае, если вы будете согласны с условиями КП, компания заключит с вами договор и решить проблему с утилизацией этих видов отходов.
+            Но вы можете обратиться к менеджерам компании «Казахстанский оператор по управлению отходами». <br>
+            Напишите запрос на e-mail <a href="mailto:in@qwmo.net">in@qwmo.net</a> <br>
+            Укажите в теле письма перечень опасных отходов, которые вам необходимо сдать и объемы этих отходов. <br>
+            В течение 2-3 дней специально для вас разработают коммерческое предложение. В том случае, если вы будете согласны с условиями КП, компания заключит с вами договор и решить проблему с утилизацией этих видов отходов. <br>
             Здесь хотелось бы еще раз напомнить, что в соответствие с требованиями экологического кодекса данные виды отходов утилизируются надлежащим способом (демеркуризация – для ламп, измельчение – для шин). Данные виды отходов не могут быть утилизированы в ящик для сбора твердо-бытовых отходов. В противном случае фискальными органами будет наложен большой штраф на владельца предприятия, организации, производства или на частное лицо.
             </p>
       </div>
@@ -890,11 +900,11 @@
     <div id="collapse4" class="panel-collapse collapse">
       <!-- Содержимое 3 панели -->
       <div class="panel-body">
-        <p>Михайловский рынок: +7 708 439 54 00 
-            Рынок Kazameta: +7 708 439 74 20 
-            Рынок Буратино (Пришахтинск): +7 708 439 84 64 
-            Супермаркет Ёжик (Пришахтинск): +7 708 439 87 34 
-            улица Механическая, строение 1/1: +7 708 439 87 54
+        <p>Михайловский рынок: <a href="tel:+7 708 439 54 00">+7 708 439 54 00</a>  <br>
+            Рынок Kazameta: +7 708 439 74 20  <br>
+            Рынок Буратино (Пришахтинск): +7 708 439 84 64 <br>
+            Супермаркет Ёжик (Пришахтинск): +7 708 439 87 34 <br>
+            улица Механическая, строение 1/1: +7 708 439 87 54 <br>
             <br>
             В ближайшее время будут установлены еще несколько пунктов приема по городу. Заходите на наш сайт чаще и будьте в курсе всех событий.
 Обязательно созвонитесь с сотрудником пункта предварительно и задайте все интересующие вас вопросы. <br>
@@ -1031,7 +1041,7 @@
 
         
         <!-- Contact Section -->
-        <section class="commonSection ContactPage">
+        <section class="commonSection ContactPage" id="ContactPage">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -1115,7 +1125,45 @@
                 </div>
             </div>
         </section>
-        
+        <!-- Button trigger modal -->
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    <h4 class="modal-title" id="myModalLabel">Обратная ссвязь</h4>
+  </div>
+  <div class="modal-body">
+    <form action="#" method="post" class="contactFrom" id="contactForm">
+        <div class="row">
+            <div class="col-lg-6 col-sm-6">
+                <input class="input-form required" type="text" name="f_name" id="f_name" placeholder="Имя">
+            </div>
+            <div class="col-lg-6 col-sm-6">
+                <input class="input-form required" type="text" name="l_name" id="l_name" placeholder="Фамилия">
+            </div>
+            <div class="col-lg-6 col-sm-6">
+                <input class="input-form required" type="email" name="email" id="email" placeholder="Email">
+            </div>
+            <div class="col-lg-6 col-sm-6">
+                <input class="input-form" type="text" name="phone" id="phone" placeholder="Телефон">
+            </div>
+            <div class="col-lg-12 col-sm-12">
+                <textarea class="input-form required" name="con_message" id="con_message" placeholder="Ваше сообщение"></textarea>
+            </div>
+        </div>
+        <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="common_btn" data-dismiss="modal"><span>Закрыть</span>  </button>
+    <!-- <button type="button" class="common_btn"><span>Сохранить изменения</span></button> -->
+  </div>
+</div>
+</div>
+</div>
         <!-- Footer Section -->
         <footer class="footer_1">
             <div class="container">
