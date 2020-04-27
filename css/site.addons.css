@@ -11,8 +11,8 @@
 	padding-top: 30px;
 }
 .ab_agency{
-	padding-top: 50px;
-	    padding-bottom: 265px;
+	padding-top: 100px;
+	    padding-bottom: 165px;
 }
 .sec_title{
     text-align: center;
@@ -28,4 +28,8 @@ a:focus{
     margin-bottom: 17px;
     margin-left: auto;
     margin-right: auto;
+}
+.front{
+    min-height: 215px;
+    padding: 25px;
 }
