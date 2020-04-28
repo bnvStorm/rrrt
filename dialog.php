@@ -146,8 +146,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - contact</h4>
-                            <h2>Contact us</h2>
+                            <h4><a href="#">Диалог</a></h4>
+                            <h2>Задавайте вопросы!</h2>
                         </div>
                     </div>
                 </div>
@@ -375,9 +375,9 @@
                     <div class="col-lg-12 text-center">
                         <h4 class="sub_title">Свяжитесь с нами</h4>
                         <h2 class="sec_title">Напишите или позвоните</h2>
-                        <p class="sec_desc">
+                        <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p>
+                        </p> -->
                     </div>
                 </div>
                 <div class="row">
