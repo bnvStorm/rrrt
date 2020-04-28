@@ -43,7 +43,7 @@
                                     </ul>  -->
                                 </li>
                                 <li><a href="dialog">Диалог</a></li>
-                                <li><a href="https://trrr.kz/contact">Контакты</a></li>
+                                <li><a href="https://trrr.kz/contacts">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
