@@ -311,7 +311,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-sm-12 text-center">
                         <div class="copyright">
-                            © copyright 2019 by <a href="#">Layerdrops.com</a>
+                             © TRRR technology 2020
                         </div>
                     </div>
                 </div>

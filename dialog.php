@@ -503,7 +503,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-sm-12 text-center">
                         <div class="copyright">
-                            © copyright 2020 <a href="#">RRRT</a>
+                             © TRRR technology 2020
                         </div>
                     </div>
                 </div>
