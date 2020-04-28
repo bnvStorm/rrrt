@@ -1,37 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="#b4ef8f" name="theme-color">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-164363587-2');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript" >
-           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-           ym(62377525, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-           });
-        </script>
-        <noscript><div><img src="https://mc.yandex.ru/watch/62377525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
-
+<?php include 'head.php';?>
          <!-- SEO -->
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
@@ -229,8 +196,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - Blog</h4>
-                            <h2>Blog Posts</h2>
+                            <h4><a href="#">home</a> - portfolio</h4>
+                            <h2>portfolio</h2>
                         </div>
                     </div>
                 </div>
@@ -238,146 +205,73 @@
         </section>
         <!-- Page Banner -->
 
-        <!-- Blog Section -->
-        <section class="commonSection blogPage">
+        <!-- Portfolio Section -->
+        <section class="commonSection porfolioPage">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-sm-8">
-                        <div class="row">
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/1.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">26 NOV</a>
-                                        <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/2.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">20 NOV</a>
-                                        <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/3.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">16 NOV</a>
-                                        <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/4.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">10 NOV</a>
-                                        <h2><a href="blog_single.html">a deep understanding of our audience</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/5.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">9 NOV</a>
-                                        <h2><a href="blog_single.html">We build and activate brands insight</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-12 col-md-6">
-                                <div class="latestBlogItem">
-                                    <div class="lbi_thumb">
-                                        <img src="images/blog/6.jpg" alt="">
-                                    </div>
-                                    <div class="lbi_details">
-                                        <a href="#" class="lbid_date">7 NOV</a>
-                                        <h2><a href="blog_single.html">experiences that connect with people</a></h2>
-                                        <a class="learnM" href="blog_single.html">Learn More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="meipaly_paginations text-center">
-                                    <a class="prev" href="#"><i class="fa fa-angle-left"></i></a>
-                                    <span class="current">01</span>
-                                    <a href="#">02</a>
-                                    <a href="#">5</a>
-                                    <a class="next" href="#"><i class="fa fa-angle-right"></i></a>
-                                </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/1.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-4 sidebar">
-                        <aside class="widget search-widget">
-                            <form method="post" action="#" class="searchform">
-                                <input type="search" placeholder="Search here..." name="s" id="s">
-                            </form>
-                        </aside>
-                        <aside class="widget recent_posts">
-                            <h3 class="widget_title">Latest Posts</h3>
-                            <div class="meipaly_post_widget">
-                                <div class="mpw_item">
-                                    <img src="images/blog/11.jpg" alt="">
-                                    <a href="#">basic rules of running web agency</a>
-                                </div>
-                                <div class="mpw_item">
-                                    <img src="images/blog/11.jpg" alt="">
-                                    <a href="#">Introducing latest mopaly features</a>
-                                </div>
-                                <div class="mpw_item">
-                                    <img src="images/blog/13.jpg" alt="">
-                                    <a href="#">become the best sale marketer</a>
-                                </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/2.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
                             </div>
-                        </aside>
-                        <aside class="widget categories">
-                            <h3 class="widget_title">Categories</h3>
-                            <div class="meipaly_categorie_widget">
-                                <ul>
-                                    <li><a href="#">Business</a></li>
-                                    <li><a href="#">Introductions</a></li>
-                                    <li><a href="#">One Page Template</a></li>
-                                    <li><a href="#">Parallax Effects</a></li>
-                                    <li><a href="#">New Technologies</a></li>
-                                    <li><a href="#">Video Backgrounds</a></li>
-                                </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/3.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
                             </div>
-                        </aside>
-                        <aside class="widget">
-                            <h3 class="widget_title">Tags:</h3>
-                            <div class="meipaly_tagcloude_widget">
-                                <a href="#">Business,</a> <a href="#">Agency,</a> <a href="#">Digital,</a> <a href="#">Technology,</a>
-                                <a href="#">Parallax,</a> <a href="#">Innovative,</a> <a href="#">Professional,</a>
-                                <a href="#">Experience,</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/4.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
                             </div>
-                        </aside>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/5.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-md-4">
+                        <div class="singlefolio">
+                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <div class="folioHover">
+                                <a class="cate" href="#">Graphic</a>
+                                <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt_30">
+                    <div class="col-lg-12 text-center">
+                        <a class="common_btn red_bg" href="#"><span>Load More</span></a>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Blog Section -->
+        <!-- Portfolio Section -->
 
         <!-- Footer Section -->
         <footer class="footer_1">

@@ -1,37 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="#b4ef8f" name="theme-color">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-164363587-2');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript" >
-           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-           ym(62377525, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-           });
-        </script>
-        <noscript><div><img src="https://mc.yandex.ru/watch/62377525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
-
+<?php include 'head.php';?>
          <!-- SEO -->
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
@@ -230,8 +197,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - Services</h4>
-                            <h2>Services</h2>
+                            <h4><a href="#">home</a> - Blog</h4>
+                            <h2>Blog detail</h2>
                         </div>
                     </div>
                 </div>
@@ -239,294 +206,159 @@
         </section>
         <!-- Page Banner -->
 
-        <!-- Services Section -->
-        <section class="service_section_2 commonSection">
+        <!-- Blog Detail Section -->
+        <section class="commonSection blogDetails">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="icon_box_2 text-center">
-                            <h3>Modren Design</h3>
-                            <p>
-                                Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
-                            </p>
-                            <div class="iconWrap">
-                                <i class="mei-settings"></i>
+                    <div class="col-lg-8 col-sm-8">
+                        <div class="single_blog">
+                            <div class="blog_thumb">
+                                <img src="images/blog/7.jpg" alt=""/>
                             </div>
-                            <a href="service_detail.html">discover more</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="icon_box_2 text-center">
-                            <h3>Digital products</h3>
-                            <p>
-                                Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
-                            </p>
-                            <div class="iconWrap">
-                                <i class="mei-pie-chart"></i>
+                            <div class="blog_headings">
+                                <span class="blog_date">20 nov</span>
+                                <h2>Become the best sale marketer</h2>
+                                <p class="blog_metas">
+                                    <a href="#">By layerdrops</a>-<a href="#">30 Likes</a>-<a href="#">2 Comments</a>
+                                </p>
                             </div>
-                            <a href="service_detail.html">discover more</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="icon_box_2 text-center">
-                            <h3>Marketing Strategy</h3>
-                            <p>
-                                Phaseus sit amet tristique lorem ipsum is simply free text ligua donec culis leo sus cipit.
-                            </p>
-                            <div class="iconWrap">
-                                <i class="mei-transfer"></i>
+                            <div class="blog_details">
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, 
+                                    by injected humour, or randomised words which don't look even slightly believable. If you are going to use a 
+                                    passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. 
+                                    All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the 
+                                    first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+                                    of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is
+                                    therefore always free from repetition, injected humour, or non-characteristic words etc.
+                                </p>
+                                <p>
+                                    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                                    The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 
+                                    'Content here, content here', making it look like readable English. Many desktop publishing packages and web 
+                                    page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover
+                                    many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, 
+                                    sometimes on purpose injected humour and the like.
+                                </p>
                             </div>
-                            <a href="service_detail.html">discover more</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Services Section -->
-
-        <!-- Services Section -->
-        <section class="service_section commonSection">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h4 class="sub_title red_color">Services we are offering</h4>
-                        <h2 class="sec_title white">We design digital products that<br> help grow businesses.</h2>
-                        <p class="sec_desc color_aaa">
-                            We are committed to providing our customers with exceptional service<br> while offering our employees the best training.
-                        </p>
-                    </div>
-                </div>
-                <div class="row custom_column">
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-web-design"></i>
-                                    <h3>Website Development</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-web-design"></i>
-                                    <h3>Website Development</h3>
-                                </div>
+                            <div class="blog_tagitems">
+                                <span>Tags:</span><a href="#">Business</a>, <a href="#">Agency</a>, <a href="#">Digital</a>, <a href="#">Technology</a>
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-computer-graphic"></i>
-                                    <h3>Graphic Designing</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-computer-graphic"></i>
-                                    <h3>Graphic Designing</h3>
-                                </div>
+                            <div class="post_author">
+                                <img src="images/blog/8.jpg" alt="">
+                                <h3><a href="#">Christine Eve</a></h3>
+                                <p>
+                                    Lorem Ipsum is simply dummy text of the rinting and typesetting been the industry standard dummy text ever sincer nullam condimentum purus.
+                                </p>
+                                <a href="#">View all posts</a>
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-development-1"></i>
-                                    <h3>Digital Marketing</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-development-1"></i>
-                                    <h3>Digital Marketing</h3>
-                                </div>
+                            <div class="comment_area">
+                                <h3>2 Comments</h3>
+                                <ol>
+                                    <li>
+                                        <div class="single-comment">
+                                            <img src="images/blog/9.jpg" alt="">
+                                            <div class="authorDetails">
+                                                <h5><a href="#">David Martin</a></h5>
+                                                <span>20 Nov, 2018   -   4:00 pm</span>
+                                            </div>
+                                            <div class="comment">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the rinting and typesetting been the
+                                                    industry standard dummy text ever sincer condimentum purus. 
+                                                    In non ex at ligula fringilla lobortis et not the aliquet.
+                                                </p>
+                                            </div>
+                                            <a class="common_btn red_bg" href="#"><span>Reply</span></a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="single-comment">
+                                            <img src="images/blog/10.jpg" alt="">
+                                            <div class="authorDetails">
+                                                <h5><a href="#">Jessica Brown</a></h5>
+                                                <span>20 Nov, 2018   -   4:00 pm</span>
+                                            </div>
+                                            <div class="comment">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the rinting and typesetting been the
+                                                    industry standard dummy text ever sincer condimentum purus. 
+                                                    In non ex at ligula fringilla lobortis et not the aliquet.
+                                                </p>
+                                            </div>
+                                            <a class="common_btn red_bg" href="#"><span>Reply</span></a>
+                                        </div>
+                                    </li>
+                                </ol>
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-development"></i>
-                                    <h3>SEo & Content Writing</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-development"></i>
-                                    <h3>SEo & Content Writing</h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
-                            <div class="flipper">
-                                <div class="front">
-                                    <i class="mei-app-development"></i>
-                                    <h3>App Development</h3>
-                                </div>
-                                <div class="back">
-                                    <i class="mei-app-development"></i>
-                                    <h3>App Development</h3>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Services Section -->
-
-        <!-- what we Do Section -->
-        <section class="commonSection what_wedo_2">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">what we do</h4>
-                        <h2 class="sec_title">Let’s create something</h2>
-                        <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="single_wedo">
-                            <img src="images/home_1/6.jpg" alt=""/>
-                            <div class="overlay_wedo">
-                                <a href="#">web development</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="single_wedo">
-                            <img src="images/home_1/7.jpg" alt=""/>
-                            <div class="overlay_wedo">
-                                <a href="#">digital marketing</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="single_wedo">
-                            <img src="images/home_1/8.jpg" alt=""/>
-                            <div class="overlay_wedo">
-                                <a href="#">product branding</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- what we Do Section -->
-
-        <!-- FunFact Section -->
-        <section class="commonSection funfact">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
-                        <div class="singlefunfact text-center">
-                            <h1 data-counter="8705" class="timer"><span class="countSpan">8</span>705</h1>
-                            <h3>Projects Completed</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
-                        <div class="singlefunfact text-center">
-                            <h1 data-counter="480" class="timer"><span class="countSpan"></span>480</h1>
-                            <h3>Active Clients</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3 noPadding BR">
-                        <div class="singlefunfact text-center">
-                            <h1 data-counter="626" class="timer"><span class="countSpan"></span>626</h1>
-                            <h3>Cups of Coffee</h3>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3 noPadding">
-                        <div class="singlefunfact text-center">
-                            <h1 data-counter="9774" class="timer"><span class="countSpan">9</span>774</h1>
-                            <h3>Happy Clients</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- FunFact Section -->
-
-        <!-- Trust Clients Section -->
-        <section class="commonSection trustClient pb_120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="CL_content">
-                            <img src="images/home_1/4.jpg" alt="">
-                            <div class="abc_inner">
-                                <div class="row">
-                                    <div class="col-lg-5 col-sm-5 col-md-5">
-                                    </div>
-                                    <div class="col-lg-7 col-sm-7 col-md-7">
-                                        <div class="abci_content">
-                                            <h2>We are trusted by more than 8900 clients</h2>
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidi-dunt ut labore et dolore magna aliqua.
-                                                Ut enim ad minim veniam, quis nostrud exercita-tion ullamco laboris nisi ut aliquip ex ea commodo.
-                                            </p>
-                                            <a class="common_btn red_bg" href="#"><span>Learn More</span></a>
+                            <div class="commentForm">
+                                <h3>Leave a Comment</h3>
+                                <form action="#" method="post">
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <input required="" class="input-form" type="text" name="name" placeholder="Your Name">
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <input required="" class="input-form" type="email" name="email" placeholder="Email Address">
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <textarea required="" class="input-form" name="comment" placeholder="Write Message"></textarea>
                                         </div>
                                     </div>
+                                    <a class="common_btn red_bg" href="#"><span>Send Message</span></a>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-4 sidebar">
+                        <aside class="widget search-widget">
+                            <form method="post" action="#" class="searchform">
+                                <input type="search" placeholder="Search here..." name="s" id="s">
+                            </form>
+                        </aside>
+                        <aside class="widget recent_posts">
+                            <h3 class="widget_title">Latest Posts</h3>
+                            <div class="meipaly_post_widget">
+                                <div class="mpw_item">
+                                    <img src="images/blog/11.jpg" alt="">
+                                    <a href="#">basic rules of running web agency</a>
+                                </div>
+                                <div class="mpw_item">
+                                    <img src="images/blog/11.jpg" alt="">
+                                    <a href="#">Introducing latest mopaly features</a>
+                                </div>
+                                <div class="mpw_item">
+                                    <img src="images/blog/13.jpg" alt="">
+                                    <a href="#">become the best sale marketer</a>
                                 </div>
                             </div>
-                        </div>
+                        </aside>
+                        <aside class="widget categories">
+                            <h3 class="widget_title">Categories</h3>
+                            <div class="meipaly_categorie_widget">
+                                <ul>
+                                    <li><a href="#">Business</a></li>
+                                    <li><a href="#">Introductions</a></li>
+                                    <li><a href="#">One Page Template</a></li>
+                                    <li><a href="#">Parallax Effects</a></li>
+                                    <li><a href="#">New Technologies</a></li>
+                                    <li><a href="#">Video Backgrounds</a></li>
+                                </ul>
+                            </div>
+                        </aside>
+                        <aside class="widget">
+                            <h3 class="widget_title">Tags:</h3>
+                            <div class="meipaly_tagcloude_widget">
+                                <a href="#">Business,</a> <a href="#">Agency,</a> <a href="#">Digital,</a> <a href="#">Technology,</a>
+                                <a href="#">Parallax,</a> <a href="#">Innovative,</a> <a href="#">Professional,</a>
+                                <a href="#">Experience,</a>
+                            </div>
+                        </aside>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Trust Clients Section -->
-
-
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="client_slider">
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/1.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/2.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/3.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/4.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/5.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/1.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/2.png" alt=""/>
-                                </a>
-                            </div>
-                            <div class="singleClient">
-                                <a href="#">
-                                    <img src="images/client/3.png" alt=""/>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Client Section -->
+        <!-- Blog Detail Section -->
 
         <!-- Footer Section -->
         <footer class="footer_1">

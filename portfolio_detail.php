@@ -1,43 +1,9 @@
-<!DOCTYPE HTML>
-<html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="#b4ef8f" name="theme-color">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-164363587-2');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript" >
-           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-           ym(62377525, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-           });
-        </script>
-        <noscript><div><img src="https://mc.yandex.ru/watch/62377525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
-
+<?php include 'head.php';?>
          <!-- SEO -->
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <!-- SEO -->
-
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
@@ -52,6 +18,7 @@
         <link rel="stylesheet" type="text/css" href="css/theme.css"/>
         <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
         <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange"/>
+        <link rel="stylesheet" type="text/css" href="css/site.addons.css">
         <!-- End Include All CSS -->
 
         <!-- Favicon Icon -->
@@ -76,43 +43,45 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
                         <div class="logo">
-                            <a href="index.html"><img src="images/logo.png" alt=""/></a>
+                            <a href="index.html" style="color: #fff;">
+                                <img src="../images/logo.png" alt="">
+                            </a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-7 col-md-7">
                         <nav class="mainmenu text-center">
                             <ul>
                                 <li class="menu-item-has-children">
-                                    <a href="#">home</a>
-                                    <ul class="sub-menu">
+                                    <a href="/">Главная</a>
+                                    <!-- <ul class="sub-menu">
                                         <li><a href="index.html">Home 01</a></li>
                                         <li><a href="index2.html">Home 02</a></li>
                                         <li><a href="index3.html">Home 03</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
-                                <li><a href="about.html">About</a></li>
-                                <li class="menu-item-has-children"><a href="#">Services</a>
+                                <li><a href="about.html">О компании</a></li>
+                                 <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="services.html">Service</a></li>
-                                        <li><a href="service_detail.html">Service Detail</a></li>
+                                        <li><a href="#">Service Detail</a></li>
                                     </ul>
-                                </li>
-                                <li class="menu-item-has-children"><a href="#">Portfolio</a>
-                                    <ul class="sub-menu">
+                                </li> -->
+                                  <li class="menu-item-has-children"><a href="#">Новости</a>
+                                   <ul class="sub-menu">
                                         <li><a href="portfolio.html">Portfolio v1</a></li>
                                         <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                        <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
-                                    </ul>
+                                        <li><a href="#">Portfolio Detail</a></li>
+                                    </ul> 
                                 </li>
-                                <li class="menu-item-has-children"><a href="#">Blog</a>
-                                    <ul class="sub-menu">
+                                <li class="menu-item-has-children"><a href="portfolio.html">Витрина</a>
+                                     <ul class="sub-menu">
                                         <li><a href="blog.html">Blog v1</a></li>
                                         <li><a href="blog2.html">Blog v2</a></li>
                                         <li><a href="blog3.html">Blog v3</a></li>
                                         <li><a href="blog_single.html">Blog Single</a></li>
-                                    </ul>
+                                    </ul> 
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.html">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -230,8 +199,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - Blog</h4>
-                            <h2>Blog Posts</h2>
+                            <h4><a href="#">home</a> - portfolio</h4>
+                            <h2>portfolio detail</h2>
                         </div>
                     </div>
                 </div>
@@ -239,109 +208,130 @@
         </section>
         <!-- Page Banner -->
 
-        <!-- Blog Section -->
-        <section class="commonSection blogPage">
+        <!-- Portfolio Detail Section -->
+        <section class="commonSection porfolioDetail">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-sm-12 col-md-8">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/14.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">28 NOV</a>
-                                <h2><a href="blog_single.html">How to Approach Social Media as a Small Business.</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                    <div class="col-lg-8 col-sm-7 col-md-8">
+                        <div class="portDetailThumb">
+                            <img src="images/portfolio/7.jpg" alt=""/>
+                        </div>
+                        <div class="portDetailThumb">
+                            <img src="images/portfolio/8.jpg" alt=""/>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/1.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">26 NOV</a>
-                                <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                    <div class="col-lg-4 col-sm-5 col-md-4">
+                        <div class="singlePortfoio_content">
+                            <h3>Design Styles</h3>
+                            <p>
+                                Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus 
+                                aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet,
+                                massa fringilla leo orci dolors sit amet elit amet.
+                            </p>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/2.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">20 NOV</a>
-                                <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                        <div class="singlePortfoio_content">
+                            <h4>Clients:</h4>
+                            <p>Jessica Brown</p>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/3.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">16 NOV</a>
-                                <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                        <div class="singlePortfoio_content">
+                            <h4>Category:</h4>
+                            <p><a href="#">Graphic,</a> <a href="#">Illustrations</a></p>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/4.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">10 NOV</a>
-                                <h2><a href="blog_single.html">a deep understanding of our audience</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                        <div class="singlePortfoio_content">
+                            <h4>Date:</h4>
+                            <p>8 Nov, 2018</p>
                         </div>
-                    </div>
-                    <div class="col-lg-8 col-sm-12 col-md-8">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/15.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">9 NOV</a>
-                                <h2><a href="blog_single.html">Multiple customers in various industries and segments</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="latestBlogItem">
-                            <div class="lbi_thumb">
-                                <img src="images/blog/6.jpg" alt="">
-                            </div>
-                            <div class="lbi_details">
-                                <a href="#" class="lbid_date">7 NOV</a>
-                                <h2><a href="blog_single.html">experiences that connect with people</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
-                            </div>
+                        <div class="singlePortfoio_content">
+                            <h4>Follow:</h4>
+                            <ul>
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Twitter</a></li>
+                                <li><a href="#">Youtube</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="meipaly_paginations text-center">
-                            <a class="prev" href="#"><i class="fa fa-angle-left"></i></a>
-                            <span class="current">01</span>
-                            <a href="#">02</a>
-                            <a href="#">5</a>
-                            <a class="next" href="#"><i class="fa fa-angle-right"></i></a>
+                        <div class="nextprevPagination">
+                            <div class="row">
+                                <div class="col-lg-6 col-sm-6 col-xs-6 text-left">
+                                    <a class="prevFolio" href="#"><i class="fa fa-angle-left"></i>Previous</a>
+                                </div>
+                                <div class="col-lg-6 col-sm-6 col-xs-6 text-right">
+                                    <a class="nextFolio" href="#">Next<i class="fa fa-angle-right"></i></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Blog Section -->
+        <!-- Portfolio Detail Section -->
+
+        <!-- Related Portfolio Section -->
+        <section class="commonSection relatedPortfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h4 class="sub_title">our portfolio</h4>
+                        <h2 class="sec_title">related work</h2>
+                        <p class="sec_desc">
+                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="related_slider">
+                            <div class="singlefolio">
+                                <img src="images/portfolio/1.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                            <div class="singlefolio">
+                                <img src="images/portfolio/2.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                            <div class="singlefolio">
+                                <img src="images/portfolio/3.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                            <div class="singlefolio">
+                                <img src="images/portfolio/4.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                            <div class="singlefolio">
+                                <img src="images/portfolio/5.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                            <div class="singlefolio">
+                                <img src="images/portfolio/6.jpg" alt=""/>
+                                <div class="folioHover">
+                                    <a class="cate" href="#">Graphic</a>
+                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Related Portfolio Section -->
 
         <!-- Footer Section -->
         <footer class="footer_1">

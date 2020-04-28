@@ -1,42 +1,10 @@
-<!DOCTYPE HTML>
-<html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="#b4ef8f" name="theme-color">
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-164363587-2');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript" >
-           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-           ym(62377525, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-           });
-        </script>
-        <noscript><div><img src="https://mc.yandex.ru/watch/62377525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
-
+<?php include 'head.php';?>
          <!-- SEO -->
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <!-- SEO -->
+
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
@@ -51,7 +19,6 @@
         <link rel="stylesheet" type="text/css" href="css/theme.css"/>
         <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
         <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange"/>
-        <link rel="stylesheet" type="text/css" href="css/site.addons.css">
         <!-- End Include All CSS -->
 
         <!-- Favicon Icon -->
@@ -76,45 +43,43 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
                         <div class="logo">
-                            <a href="index.html" style="color: #fff;">
-                                <img src="../images/logo.png" alt="">
-                            </a>
+                            <a href="index.html"><img src="images/logo.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-7 col-md-7">
                         <nav class="mainmenu text-center">
                             <ul>
                                 <li class="menu-item-has-children">
-                                    <a href="/">Главная</a>
-                                    <!-- <ul class="sub-menu">
+                                    <a href="javascript:void(0);">home</a>
+                                    <ul class="sub-menu">
                                         <li><a href="index.html">Home 01</a></li>
                                         <li><a href="index2.html">Home 02</a></li>
                                         <li><a href="index3.html">Home 03</a></li>
-                                    </ul> -->
+                                    </ul>
                                 </li>
-                                <li><a href="about.html">О компании</a></li>
-                                 <!--<li class="menu-item-has-children"><a href="#">Services</a>
+                                <li><a href="about.html">About</a></li>
+                                <li class="menu-item-has-children"><a href="javascript:void(0);">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="services.html">Service</a></li>
-                                        <li><a href="#">Service Detail</a></li>
+                                        <li><a href="service_detail.html">Service Detail</a></li>
                                     </ul>
-                                </li> -->
-                                  <li class="menu-item-has-children"><a href="#">Новости</a>
-                                   <ul class="sub-menu">
+                                </li>
+                                <li class="menu-item-has-children"><a href="javascript:void(0);">Portfolio</a>
+                                    <ul class="sub-menu">
                                         <li><a href="portfolio.html">Portfolio v1</a></li>
                                         <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                        <li><a href="#">Portfolio Detail</a></li>
-                                    </ul> 
+                                        <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                    </ul>
                                 </li>
-                                <li class="menu-item-has-children"><a href="portfolio.html">Витрина</a>
-                                     <ul class="sub-menu">
+                                <li class="menu-item-has-children"><a href="javascript:void(0);">Blog</a>
+                                    <ul class="sub-menu">
                                         <li><a href="blog.html">Blog v1</a></li>
                                         <li><a href="blog2.html">Blog v2</a></li>
                                         <li><a href="blog3.html">Blog v3</a></li>
                                         <li><a href="blog_single.html">Blog Single</a></li>
-                                    </ul> 
+                                    </ul>
                                 </li>
-                                <li><a href="contact.html">Контакты</a></li>
+                                <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -232,8 +197,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - portfolio</h4>
-                            <h2>portfolio detail</h2>
+                            <h4><a href="#">home</a> - Services</h4>
+                            <h2>Service Detail</h2>
                         </div>
                     </div>
                 </div>
@@ -241,130 +206,94 @@
         </section>
         <!-- Page Banner -->
 
-        <!-- Portfolio Detail Section -->
-        <section class="commonSection porfolioDetail">
+        <!-- Services Details Section -->
+        <section class="commonSection service_detail">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-sm-7 col-md-8">
-                        <div class="portDetailThumb">
-                            <img src="images/portfolio/7.jpg" alt=""/>
-                        </div>
-                        <div class="portDetailThumb">
-                            <img src="images/portfolio/8.jpg" alt=""/>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-5 col-md-4">
-                        <div class="singlePortfoio_content">
-                            <h3>Design Styles</h3>
+                    <div class="col-lg-8 col-sm-8">
+                        <div class="serviceArea">
+                            <img src="images/s1.jpg" alt=""/>
+                            <h2>Graphic Designing</h2>
                             <p>
-                                Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus 
-                                aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet,
-                                massa fringilla leo orci dolors sit amet elit amet.
+                                Need something changed or is there something not quite working the way you envisaged? Is your van a 
+                                little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and
+                                typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                                It has survived not only five centuries, but also the leap into electronic typesetting, 
+                                remaining essentially unchanged. 
+                            </p>
+                            <div class="row gaping">
+                                <div class="col-lg-6 col-sm-12 col-md-6">
+                                    <img src="images/s2.jpg" alt=""/>
+                                </div>
+                                <div class="col-lg-6 col-sm-12 col-md-6">
+                                    <h3>planning & strategy</h3>
+                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                                    <ul>
+                                        <li><i class="fa fa-check-square"></i>Research beyond the business plan</li>
+                                        <li><i class="fa fa-check-square"></i>Marketing options and rates</li>
+                                        <li><i class="fa fa-check-square"></i>The ability to turnaround consulting</li>
+                                        <li><i class="fa fa-check-square"></i>Help companies into more profitable</li>
+                                        <li><i class="fa fa-check-square"></i>Customer engagement matters</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <p>
+                                Need something changed or is there something not quite working the way you envisaged? Is your van a
+                                little old and tired and need refreshing? Lorem Ipsum is simply dummy text of the printing and 
+                                typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                                It has survived not only five centuries, but also the leap into electronic typesetting,
+                                remaining essentially unchanged.
+                            </p>
+                            <p>
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
+                                standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 
+                                to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
+                                typesetting, remaining essentially unchanged.
                             </p>
                         </div>
-                        <div class="singlePortfoio_content">
-                            <h4>Clients:</h4>
-                            <p>Jessica Brown</p>
-                        </div>
-                        <div class="singlePortfoio_content">
-                            <h4>Category:</h4>
-                            <p><a href="#">Graphic,</a> <a href="#">Illustrations</a></p>
-                        </div>
-                        <div class="singlePortfoio_content">
-                            <h4>Date:</h4>
-                            <p>8 Nov, 2018</p>
-                        </div>
-                        <div class="singlePortfoio_content">
-                            <h4>Follow:</h4>
-                            <ul>
-                                <li><a href="#">Facebook</a></li>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">Youtube</a></li>
-                            </ul>
-                        </div>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="nextprevPagination">
-                            <div class="row">
-                                <div class="col-lg-6 col-sm-6 col-xs-6 text-left">
-                                    <a class="prevFolio" href="#"><i class="fa fa-angle-left"></i>Previous</a>
-                                </div>
-                                <div class="col-lg-6 col-sm-6 col-xs-6 text-right">
-                                    <a class="nextFolio" href="#">Next<i class="fa fa-angle-right"></i></a>
-                                </div>
+                    <div class="col-lg-4 col-sm-4 sidebar">
+                        <aside class="widget categories">
+                            <h3 class="widget_title">Services</h3>
+                            <div class="meipaly_categorie_widget">
+                                <ul>
+                                    <li><a href="#">Website Development</a></li>
+                                    <li><a href="#">Graphic Designing</a></li>
+                                    <li><a href="#">Digital Marketing</a></li>
+                                    <li><a href="#">SEO & Content Writting</a></li>
+                                    <li><a href="#">App Development</a></li>
+                                </ul>
                             </div>
-                        </div>
+                        </aside>
+                        <aside class="widget categories">
+                            <div class="meipaly_services_help">
+                                <h4>need meipaly help?</h4>
+                                <p>Prefer speaking with a human to filling out a form? call corporate office and we will connect you with a team member who can help.</p>
+                                <h2>666 888 000</h2>
+                            </div>
+                        </aside>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Portfolio Detail Section -->
+        <!-- Services Details Section -->
 
-        <!-- Related Portfolio Section -->
-        <section class="commonSection relatedPortfolio">
+        <!-- Ready Section -->
+        <section class="commonSection ready">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">our portfolio</h4>
-                        <h2 class="sec_title">related work</h2>
-                        <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p>
+                    <div class="col-lg-9 col-sm-8 col-md-9">
+                        <h2 class="sec_title white">Let's Get Your Project Started!</h2>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="related_slider">
-                            <div class="singlefolio">
-                                <img src="images/portfolio/1.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                            <div class="singlefolio">
-                                <img src="images/portfolio/2.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                            <div class="singlefolio">
-                                <img src="images/portfolio/3.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                            <div class="singlefolio">
-                                <img src="images/portfolio/4.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                            <div class="singlefolio">
-                                <img src="images/portfolio/5.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                            <div class="singlefolio">
-                                <img src="images/portfolio/6.jpg" alt=""/>
-                                <div class="folioHover">
-                                    <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-lg-3  col-sm-4 col-md-3 text-right">
+                        <a class="common_btn" href="contact.html"><span>Contact with us</span></a>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Related Portfolio Section -->
+        <!-- Ready Section -->
 
         <!-- Footer Section -->
         <footer class="footer_1">
