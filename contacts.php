@@ -142,8 +142,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">home</a> - contact</h4>
-                            <h2>Contact us</h2>
+                            <h4><a href="#">Контакты</a></h4>
+                            <h2>Свяжитесь с нами</h2>
                         </div>
                     </div>
                 </div>
@@ -152,14 +152,14 @@
         <!-- Page Banner -->
 
         <!-- Contact Section -->
-        <section class="commonSection ContactPage">
+        <section class="commonSection ContactPage" id="ContactPage">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Contact with us</h4>
-                        <h2 class="sec_title">write us a message</h2>
+                        <h4 class="sub_title">Свяжитесь с нами</h4>
+                        <h2 class="sec_title">Напишите или позвоните</h2>
                         <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+                            Самый быстрый способ связаться с нами<br> это позвонить по указанным номерам
                         </p>
                     </div>
                 </div>
@@ -168,28 +168,27 @@
                         <form action="#" method="post" class="contactFrom" id="contactForm">
                             <div class="row">
                                 <div class="col-lg-6 col-sm-6">
-                                    <input class="input-form required" type="text" name="f_name" id="f_name" placeholder="First Name">
+                                    <input class="input-form required" type="text" name="f_name" id="f_name" placeholder="Имя">
                                 </div>
                                 <div class="col-lg-6 col-sm-6">
-                                    <input class="input-form required" type="text" name="l_name" id="l_name" placeholder="Last Name">
+                                    <input class="input-form required" type="text" name="l_name" id="l_name" placeholder="Фамилия">
                                 </div>
                                 <div class="col-lg-6 col-sm-6">
-                                    <input class="input-form required" type="email" name="email" id="email" placeholder="Email Address">
+                                    <input class="input-form required" type="email" name="email" id="email" placeholder="Email">
                                 </div>
                                 <div class="col-lg-6 col-sm-6">
-                                    <input class="input-form" type="text" name="phone" id="phone" placeholder="Phone Number">
+                                    <input class="input-form" type="text" name="phone" id="phone" placeholder="Телефон">
                                 </div>
                                 <div class="col-lg-12 col-sm-12">
-                                    <textarea class="input-form required" name="con_message" id="con_message" placeholder="Write Message"></textarea>
+                                    <textarea class="input-form required" name="con_message" id="con_message" placeholder="Ваше сообщение"></textarea>
                                 </div>
                             </div>
-                            <button class="common_btn red_bg" type="submit" id="con_submit"><span>Send Message</span></button>
+                            <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
                         </form>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Contact Section -->
 
         <!-- Contact Map Section -->
         <section class="gmapsection">
@@ -203,10 +202,9 @@
         </section>
         <!-- Contact Map Section -->
 
-        <!-- Our Client 2 Section -->
         <section class="commonSection client_2">
             <div class="container">
-                <div class="row">
+<!--                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h4 class="sub_title">our offices</h4>
                         <h2 class="sec_title">offices near you</h2>
@@ -214,44 +212,44 @@
                             We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
                         </p>
                     </div>
-                </div>
+                </div> -->
                 <div class="row">
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
-                            <h3>austin</h3>
-                            <p>22 Texas West Hills</p>
-                            <p>needhelp@meipaly.com</p>
-                            <p>666 888 000</p>
+                            <h3>Усть-Каменогорск</h3>
+                            <p>ул. Колотушкина</p>
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
-                            <h3>boston</h3>
-                            <p>5 Federal Street Boston</p>
-                            <p>needhelp@meipaly.com</p>
-                            <p>666 888 000</p>
+                            <h3>Экибастуз</h3>
+                            <p>ул.Молотушнкина</p>
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
-                            <h3>new york</h3>
-                            <p>8th Broklyn New York</p>
-                            <p>needhelp@meipaly.com</p>
-                            <p>666 888 000</p>
+                            <h3>Костанай</h3>
+                            <p>ул. Молодушкина</p>
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
-                            <h3>baltimore</h3>
-                            <p>3 Lombabr 50 baltimore</p>
-                            <p>needhelp@meipaly.com</p>
-                            <p>666 888 000</p>
+                            <h3>Семей</h3>
+                            <p>ул. Веселая</p>
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Our Client 2 Section -->
+        <!-- Button trigger modal -->
 
         <!-- Footer Section -->
         <footer class="footer_1">
@@ -261,14 +259,13 @@
                         <aside class="widget aboutwidget">
                             <a href="#"><img src="images/foo_logo.png" alt=""></a>
                             <p>
-                                Welcome to our web design agency. Lorem ipsum is simply free text dolor sit amet consectetur adipisicing elit. 
-                                Tempore corrupti temporibus fuga earum asperiores, alias excepturi sit mpedit fugit laudantium.
+                                TRRR Technology это лидер в области переработки вторресурсов в Карагандинской области. 
                             </p>
                         </aside>
                     </div>
                     <div class="col-lg-4 col-sm-4 col-md-4">
                         <aside class="widget contact_widgets">
-                            <h3 class="widget_title">contact</h3>
+                            <h3 class="widget_title">Контакты</h3>
                             <p>
                                 66 Broklyn Street, New York<br>
                                 United States of America
@@ -279,7 +276,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-2 col-md-3">
                         <aside class="widget social_widget">
-                            <h3 class="widget_title">social</h3>
+                            <h3 class="widget_title">Соц сети</h3>
                             <ul>
                                 <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
                                 <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
