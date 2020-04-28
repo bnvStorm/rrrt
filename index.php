@@ -3,6 +3,7 @@
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
+        <link rel="canonical" href="https://trrr.kz/"/>
         <!-- SEO -->
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
@@ -43,7 +44,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-2 col-md-2">
                         <div class="logo">
-                            <a href="index.html" style="color: #fff;">
+                            <a href="index" style="color: #fff;">
                                 <img src="../images/logo.png" alt="">
                             </a>
                         </div>
@@ -54,35 +55,35 @@
                                 <li class="menu-item-has-children">
                                     <a href="/">Главная</a>
                                     <!-- <ul class="sub-menu">
-                                        <li><a href="index.html">Home 01</a></li>
-                                        <li><a href="index2.html">Home 02</a></li>
-                                        <li><a href="index3.html">Home 03</a></li>
+                                        <li><a href="index">Home 01</a></li>
+                                        <li><a href="index2">Home 02</a></li>
+                                        <li><a href="index3">Home 03</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="about.html">О компании</a></li>
+                                <li><a href="about">О компании</a></li>
                                  <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Service</a></li>
+                                        <li><a href="services">Service</a></li>
                                         <li><a href="#">Service Detail</a></li>
                                     </ul>
                                 </li> -->
                                   <li class="menu-item-has-children"><a href="#">Новости</a>
                                    <!-- <ul class="sub-menu">
-                                        <li><a href="portfolio.html">Portfolio v1</a></li>
-                                        <li><a href="portfolio2.html">Portfolio v2</a></li>
+                                        <li><a href="portfolio">Portfolio v1</a></li>
+                                        <li><a href="portfolio2">Portfolio v2</a></li>
                                         <li><a href="#">Portfolio Detail</a></li>
                                     </ul>  -->
                                 </li>
-                                <li class="menu-item-has-children"><a href="portfolio.html">Витрина</a>
+                                <li class="menu-item-has-children"><a href="portfolio">Витрина</a>
                                      <!-- <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog v1</a></li>
-                                        <li><a href="blog2.html">Blog v2</a></li>
-                                        <li><a href="blog3.html">Blog v3</a></li>
-                                        <li><a href="blog_single.html">Blog Single</a></li>
+                                        <li><a href="blog">Blog v1</a></li>
+                                        <li><a href="blog2">Blog v2</a></li>
+                                        <li><a href="blog3">Blog v3</a></li>
+                                        <li><a href="blog_single">Blog Single</a></li>
                                     </ul>  -->
                                 </li>
-                                <li><a href="dialog.html">Диалог</a></li>
-                                <li><a href="contact.html">Контакты</a></li>
+                                <li><a href="dialog">Диалог</a></li>
+                                <li><a href="contact">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -125,7 +126,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-left">
                         <div class="logo2">
-                            <a href="index.html">
+                            <a href="index">
                                 <!-- <img src="images/logo.png" alt=""> -->
                                 Логотип
                             </a>
@@ -140,33 +141,33 @@
                                     <li class="menu-item-has-children">
                                         <a href="/">Главная</a>
                                         <!-- <ul class="dl-submenu">javascript:void(0);
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index2.html">Home 02</a></li>
-                                            <li><a href="index3.html">Home 03</a></li>
+                                            <li><a href="index">Home 01</a></li>
+                                            <li><a href="index2">Home 02</a></li>
+                                            <li><a href="index3">Home 03</a></li>
                                         </ul> -->
                                     </li>
-                                    <li><a href="about.html">О компании</a></li>
+                                    <li><a href="about">О компании</a></li>
                                     <!-- <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="services.html">Service</a></li>
+                                            <li><a href="services">Service</a></li>
                                             <li><a href="#">Service Detail</a></li>
                                         </ul>
                                     </li> -->
                                     <!-- <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Portfolio</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="portfolio.html">Portfolio v1</a></li>
-                                            <li><a href="portfolio2.html">Portfolio v2</a></li>
+                                            <li><a href="portfolio">Portfolio v1</a></li>
+                                            <li><a href="portfolio2">Portfolio v2</a></li>
                                             <li><a href="#">Portfolio Detail</a></li>
                                         </ul>
                                     </li> -->
                                     <!-- <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Blog</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="blog.html">Blog v1</a></li>
-                                            <li><a href="blog2.html">Blog v2</a></li>
-                                            <li><a href="blog3.html">Blog v3</a></li>
-                                            <li><a href="blog_single.html">Blog Single</a></li>
+                                            <li><a href="blog">Blog v1</a></li>
+                                            <li><a href="blog2">Blog v2</a></li>
+                                            <li><a href="blog3">Blog v3</a></li>
+                                            <li><a href="blog_single">Blog Single</a></li>
                                         </ul>
                                     </li> -->
                                     <li><a href="#ContactPage">Контакты</a></li>
@@ -779,8 +780,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">26 NOV</a>
-                                <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">basic rules of running web  agency business</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -791,8 +792,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">20 NOV</a>
-                                <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">Become the best sale marketer</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -804,8 +805,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">16 NOV</a>
-                                <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">Introducing latest mopaly features</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>

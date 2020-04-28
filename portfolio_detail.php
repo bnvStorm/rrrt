@@ -3,6 +3,7 @@
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
+        <link rel="canonical" href="https://trrr.kz/portfolio_detail"/>
         <!-- SEO -->
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
@@ -43,7 +44,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
                         <div class="logo">
-                            <a href="index.html" style="color: #fff;">
+                            <a href="index" style="color: #fff;">
                                 <img src="../images/logo.png" alt="">
                             </a>
                         </div>
@@ -54,34 +55,34 @@
                                 <li class="menu-item-has-children">
                                     <a href="/">Главная</a>
                                     <!-- <ul class="sub-menu">
-                                        <li><a href="index.html">Home 01</a></li>
-                                        <li><a href="index2.html">Home 02</a></li>
-                                        <li><a href="index3.html">Home 03</a></li>
+                                        <li><a href="index">Home 01</a></li>
+                                        <li><a href="index2">Home 02</a></li>
+                                        <li><a href="index3">Home 03</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="about.html">О компании</a></li>
+                                <li><a href="about">О компании</a></li>
                                  <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Service</a></li>
+                                        <li><a href="services">Service</a></li>
                                         <li><a href="#">Service Detail</a></li>
                                     </ul>
                                 </li> -->
                                   <li class="menu-item-has-children"><a href="#">Новости</a>
                                    <ul class="sub-menu">
-                                        <li><a href="portfolio.html">Portfolio v1</a></li>
-                                        <li><a href="portfolio2.html">Portfolio v2</a></li>
+                                        <li><a href="portfolio">Portfolio v1</a></li>
+                                        <li><a href="portfolio2">Portfolio v2</a></li>
                                         <li><a href="#">Portfolio Detail</a></li>
                                     </ul> 
                                 </li>
-                                <li class="menu-item-has-children"><a href="portfolio.html">Витрина</a>
+                                <li class="menu-item-has-children"><a href="portfolio">Витрина</a>
                                      <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog v1</a></li>
-                                        <li><a href="blog2.html">Blog v2</a></li>
-                                        <li><a href="blog3.html">Blog v3</a></li>
-                                        <li><a href="blog_single.html">Blog Single</a></li>
+                                        <li><a href="blog">Blog v1</a></li>
+                                        <li><a href="blog2">Blog v2</a></li>
+                                        <li><a href="blog3">Blog v3</a></li>
+                                        <li><a href="blog_single">Blog Single</a></li>
                                     </ul> 
                                 </li>
-                                <li><a href="contact.html">Контакты</a></li>
+                                <li><a href="contact">Контакты</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -124,7 +125,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-left">
                         <div class="logo2">
-                            <a href="index.html"><img src="images/logo.png" alt=""></a>
+                            <a href="index"><img src="images/logo.png" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -136,36 +137,36 @@
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">home</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index2.html">Home 02</a></li>
-                                            <li><a href="index3.html">Home 03</a></li>
+                                            <li><a href="index">Home 01</a></li>
+                                            <li><a href="index2">Home 02</a></li>
+                                            <li><a href="index3">Home 03</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about">About</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="services.html">Service</a></li>
-                                            <li><a href="service_detail.html">Service Detail</a></li>
+                                            <li><a href="services">Service</a></li>
+                                            <li><a href="service_detail">Service Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Portfolio</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="portfolio.html">Portfolio v1</a></li>
-                                            <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                            <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                            <li><a href="portfolio">Portfolio v1</a></li>
+                                            <li><a href="portfolio2">Portfolio v2</a></li>
+                                            <li><a href="portfolio_detail">Portfolio Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Blog</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="blog.html">Blog v1</a></li>
-                                            <li><a href="blog2.html">Blog v2</a></li>
-                                            <li><a href="blog3.html">Blog v3</a></li>
-                                            <li><a href="blog_single.html">Blog Single</a></li>
+                                            <li><a href="blog">Blog v1</a></li>
+                                            <li><a href="blog2">Blog v2</a></li>
+                                            <li><a href="blog3">Blog v3</a></li>
+                                            <li><a href="blog_single">Blog Single</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -288,42 +289,42 @@
                                 <img src="images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                             <div class="singlefolio">
                                 <img src="images/portfolio/2.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                             <div class="singlefolio">
                                 <img src="images/portfolio/3.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                             <div class="singlefolio">
                                 <img src="images/portfolio/4.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                             <div class="singlefolio">
                                 <img src="images/portfolio/5.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                             <div class="singlefolio">
                                 <img src="images/portfolio/6.jpg" alt=""/>
                                 <div class="folioHover">
                                     <a class="cate" href="#">Graphic</a>
-                                    <h4><a href="portfolio_detail.html">Design Styles</a></h4>
+                                    <h4><a href="portfolio_detail">Design Styles</a></h4>
                                 </div>
                             </div>
                         </div>

@@ -1,44 +1,12 @@
-<!DOCTYPE HTML>
-<html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta content="#b4ef8f" name="theme-color">
-
-
+<?php include 'head.php';?> 
          <!-- SEO -->
         <title>КазВторРесурс</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
+        <link rel="canonical" href="https://trrr.kz/blog"/>
+
         <!-- SEO -->
-        
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
 
-          gtag('config', 'UA-164363587-2');
-        </script>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-
-        <!-- Yandex.Metrika counter -->
-        <script type="text/javascript" >
-           (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-           m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-           (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-           ym(62377525, "init", {
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-           });
-        </script>
-        <noscript><div><img src="https://mc.yandex.ru/watch/62377525" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-        <!-- /Yandex.Metrika counter -->
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
         <link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
@@ -77,7 +45,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
                         <div class="logo">
-                            <a href="index.html"><img src="images/logo.png" alt=""/></a>
+                            <a href="index"><img src="images/logo.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-7 col-md-7">
@@ -86,34 +54,34 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home 01</a></li>
-                                        <li><a href="index2.html">Home 02</a></li>
-                                        <li><a href="index3.html">Home 03</a></li>
+                                        <li><a href="index">Home 01</a></li>
+                                        <li><a href="index2">Home 02</a></li>
+                                        <li><a href="index3">Home 03</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About</a></li>
+                                <li><a href="about">About</a></li>
                                 <li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Service</a></li>
-                                        <li><a href="service_detail.html">Service Detail</a></li>
+                                        <li><a href="services">Service</a></li>
+                                        <li><a href="service_detail">Service Detail</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="#">Portfolio</a>
                                     <ul class="sub-menu">
-                                        <li><a href="portfolio.html">Portfolio v1</a></li>
-                                        <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                        <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                        <li><a href="portfolio">Portfolio v1</a></li>
+                                        <li><a href="portfolio2">Portfolio v2</a></li>
+                                        <li><a href="portfolio_detail">Portfolio Detail</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="#">Blog</a>
                                     <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog v1</a></li>
-                                        <li><a href="blog2.html">Blog v2</a></li>
-                                        <li><a href="blog3.html">Blog v3</a></li>
-                                        <li><a href="blog_single.html">Blog Single</a></li>
+                                        <li><a href="blog">Blog v1</a></li>
+                                        <li><a href="blog2">Blog v2</a></li>
+                                        <li><a href="blog3">Blog v3</a></li>
+                                        <li><a href="blog_single">Blog Single</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -156,7 +124,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-left">
                         <div class="logo2">
-                            <a href="index.html"><img src="images/logo.png" alt=""></a>
+                            <a href="index"><img src="images/logo.png" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -168,36 +136,36 @@
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">home</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index2.html">Home 02</a></li>
-                                            <li><a href="index3.html">Home 03</a></li>
+                                            <li><a href="index">Home 01</a></li>
+                                            <li><a href="index2">Home 02</a></li>
+                                            <li><a href="index3">Home 03</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about">About</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="services.html">Service</a></li>
-                                            <li><a href="service_detail.html">Service Detail</a></li>
+                                            <li><a href="services">Service</a></li>
+                                            <li><a href="service_detail">Service Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Portfolio</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="portfolio.html">Portfolio v1</a></li>
-                                            <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                            <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                            <li><a href="portfolio">Portfolio v1</a></li>
+                                            <li><a href="portfolio2">Portfolio v2</a></li>
+                                            <li><a href="portfolio_detail">Portfolio Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Blog</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="blog.html">Blog v1</a></li>
-                                            <li><a href="blog2.html">Blog v2</a></li>
-                                            <li><a href="blog3.html">Blog v3</a></li>
-                                            <li><a href="blog_single.html">Blog Single</a></li>
+                                            <li><a href="blog">Blog v1</a></li>
+                                            <li><a href="blog2">Blog v2</a></li>
+                                            <li><a href="blog3">Blog v3</a></li>
+                                            <li><a href="blog_single">Blog Single</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -251,8 +219,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">26 NOV</a>
-                                <h2><a href="blog_single.html">basic rules of running web  agency business</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">basic rules of running web  agency business</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -263,8 +231,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">20 NOV</a>
-                                <h2><a href="blog_single.html">Become the best sale marketer</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">Become the best sale marketer</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -275,8 +243,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">16 NOV</a>
-                                <h2><a href="blog_single.html">Introducing latest mopaly features</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">Introducing latest mopaly features</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -287,8 +255,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">10 NOV</a>
-                                <h2><a href="blog_single.html">a deep understanding of our audience</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">a deep understanding of our audience</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -299,8 +267,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">9 NOV</a>
-                                <h2><a href="blog_single.html">We build and activate brands insight</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">We build and activate brands insight</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -311,8 +279,8 @@
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">7 NOV</a>
-                                <h2><a href="blog_single.html">experiences that connect with people</a></h2>
-                                <a class="learnM" href="blog_single.html">Learn More</a>
+                                <h2><a href="blog_single">experiences that connect with people</a></h2>
+                                <a class="learnM" href="blog_single">Learn More</a>
                             </div>
                         </div>
                     </div>

@@ -43,7 +43,7 @@
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
                         <div class="logo">
-                            <a href="index.html"><img src="images/logo.png" alt=""/></a>
+                            <a href="index"><img src="images/logo.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-7 col-md-7">
@@ -52,34 +52,34 @@
                                 <li class="menu-item-has-children">
                                     <a href="#">home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home 01</a></li>
-                                        <li><a href="index2.html">Home 02</a></li>
-                                        <li><a href="index3.html">Home 03</a></li>
+                                        <li><a href="index">Home 01</a></li>
+                                        <li><a href="index2">Home 02</a></li>
+                                        <li><a href="index3">Home 03</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About</a></li>
+                                <li><a href="about">About</a></li>
                                 <li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="services.html">Service</a></li>
-                                        <li><a href="service_detail.html">Service Detail</a></li>
+                                        <li><a href="services">Service</a></li>
+                                        <li><a href="service_detail">Service Detail</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="#">Portfolio</a>
                                     <ul class="sub-menu">
-                                        <li><a href="portfolio.html">Portfolio v1</a></li>
-                                        <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                        <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                        <li><a href="portfolio">Portfolio v1</a></li>
+                                        <li><a href="portfolio2">Portfolio v2</a></li>
+                                        <li><a href="portfolio_detail">Portfolio Detail</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children"><a href="#">Blog</a>
                                     <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog v1</a></li>
-                                        <li><a href="blog2.html">Blog v2</a></li>
-                                        <li><a href="blog3.html">Blog v3</a></li>
-                                        <li><a href="blog_single.html">Blog Single</a></li>
+                                        <li><a href="blog">Blog v1</a></li>
+                                        <li><a href="blog2">Blog v2</a></li>
+                                        <li><a href="blog3">Blog v3</a></li>
+                                        <li><a href="blog_single">Blog Single</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -122,7 +122,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-left">
                         <div class="logo2">
-                            <a href="index.html"><img src="images/logo.png" alt=""></a>
+                            <a href="index"><img src="images/logo.png" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -134,36 +134,36 @@
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">home</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="index.html">Home 01</a></li>
-                                            <li><a href="index2.html">Home 02</a></li>
-                                            <li><a href="index3.html">Home 03</a></li>
+                                            <li><a href="index">Home 01</a></li>
+                                            <li><a href="index2">Home 02</a></li>
+                                            <li><a href="index3">Home 03</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="about">About</a></li>
                                     <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="services.html">Service</a></li>
-                                            <li><a href="service_detail.html">Service Detail</a></li>
+                                            <li><a href="services">Service</a></li>
+                                            <li><a href="service_detail">Service Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Portfolio</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="portfolio.html">Portfolio v1</a></li>
-                                            <li><a href="portfolio2.html">Portfolio v2</a></li>
-                                            <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                            <li><a href="portfolio">Portfolio v1</a></li>
+                                            <li><a href="portfolio2">Portfolio v2</a></li>
+                                            <li><a href="portfolio_detail">Portfolio Detail</a></li>
                                         </ul>
                                     </li>
                                     <li class="menu-item-has-children">
                                         <a href="javascript:void(0);">Blog</a>
                                         <ul class="dl-submenu">
-                                            <li><a href="blog.html">Blog v1</a></li>
-                                            <li><a href="blog2.html">Blog v2</a></li>
-                                            <li><a href="blog3.html">Blog v3</a></li>
-                                            <li><a href="blog_single.html">Blog Single</a></li>
+                                            <li><a href="blog">Blog v1</a></li>
+                                            <li><a href="blog2">Blog v2</a></li>
+                                            <li><a href="blog3">Blog v3</a></li>
+                                            <li><a href="blog_single">Blog Single</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                             <div class="iconWrap">
                                 <i class="mei-settings"></i>
                             </div>
-                            <a href="service_detail.html">discover more</a>
+                            <a href="service_detail">discover more</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
@@ -231,7 +231,7 @@
                             <div class="iconWrap">
                                 <i class="mei-pie-chart"></i>
                             </div>
-                            <a href="service_detail.html">discover more</a>
+                            <a href="service_detail">discover more</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
@@ -243,7 +243,7 @@
                             <div class="iconWrap">
                                 <i class="mei-transfer"></i>
                             </div>
-                            <a href="service_detail.html">discover more</a>
+                            <a href="service_detail">discover more</a>
                         </div>
                     </div>
                 </div>
@@ -265,7 +265,7 @@
                 </div>
                 <div class="row custom_column">
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="service_detail" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-web-design"></i>
@@ -279,7 +279,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="service_detail" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-computer-graphic"></i>
@@ -293,7 +293,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="service_detail" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-development-1"></i>
@@ -307,7 +307,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="service_detail" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-development"></i>
@@ -321,7 +321,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
-                        <a href="service_detail.html" class="icon_box_1 text-center">
+                        <a href="service_detail" class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
                                     <i class="mei-app-development"></i>
