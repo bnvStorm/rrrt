@@ -39,3 +39,15 @@
         })(window,document,'https://cdn-ru.bitrix24.kz/b3194113/crm/site_button/loader_8_v20kqp.js');
 </script>
 <!-- bitrix24 chat -->
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://trrr.kz/">
+<meta property="og:title" content="TRRR Technology">
+<meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
+<meta property="og:image" content="">
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://trrr.kz/">
+<meta property="twitter:title" content="TRRR Technology">
+<meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
+<meta property="twitter:image" content="">
