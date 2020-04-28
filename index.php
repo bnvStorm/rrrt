@@ -41,7 +41,7 @@
         <?php include 'menu.php';?>
 
         <!-- Search From -->
-        <div class="searchFixed popupBG">
+<!--         <div class="searchFixed popupBG">
             <div class="container-fluid">
                 <a href="" id="sfCloser" class="sfCloser"></a>
                 <div class="searchForms">
@@ -57,86 +57,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Search From -->
 
         <!-- PopUP Menu -->
-        <div class="popup popup__menu">
-            <a href="" id="close-popup" class="close-popup"></a>
-            <div class="container mobileContainer">
-                <div class="row">
-                    <div class="col-lg-12 text-left">
-                        <div class="logo2">
-                            <a href="index">
-                                <!-- <img src="images/logo.png" alt=""> -->
-                                Логотип
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="popup-inner">
-                            <div class="dl-menu__wrap dl-menuwrapper">
-                                <ul class="dl-menu dl-menuopen">
-                                    <li class="menu-item-has-children">
-                                        <a href="/">Главная</a>
-                                        <!-- <ul class="dl-submenu">javascript:void(0);
-                                            <li><a href="index">Home 01</a></li>
-                                            <li><a href="index2">Home 02</a></li>
-                                            <li><a href="index3">Home 03</a></li>
-                                        </ul> -->
-                                    </li>
-                                    <li><a href="about">О компании</a></li>
-                                    <!-- <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="services">Service</a></li>
-                                            <li><a href="#">Service Detail</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <!-- <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Portfolio</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="portfolio">Portfolio v1</a></li>
-                                            <li><a href="portfolio2">Portfolio v2</a></li>
-                                            <li><a href="#">Portfolio Detail</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <!-- <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Blog</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="blog">Blog v1</a></li>
-                                            <li><a href="blog2">Blog v2</a></li>
-                                            <li><a href="blog3">Blog v3</a></li>
-                                            <li><a href="blog_single">Blog Single</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <li><a href="#ContactPage">Контакты</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
-                        <ul class="footer__contacts text-left">
-                            <li>Телефон: 8 777 123 45 67</li>
-                            <li>Email: test@test.com</li>
-                            <li>Адрес: ул.Первая,дом 2</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
-                        <div class="popUp_social text-right">
-                            <ul>
-                                <!-- <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li> -->
-                                <!-- <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li> -->
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<?php include 'pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Revolution Slider -->
@@ -148,6 +73,21 @@
                         <li data-transition="random" data-masterspeed="1000">
                             <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
                             <img src="images/slider/1_1.jpg" alt="Sky" class="rev-slidebg">
+                                 <div class="rs-background-video-layer"
+                                       data-aspectratio="4:3"
+                                       data-autoplay="true"
+                                       data-autoplayonlyfirsttime="false"
+                                       data-forceCover="1"
+                                       data-forcerewind="on"
+                                       data-videoattributes="background=1&amp;title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;api=1"
+                                       data-videocontrols="none"
+                                       data-videoheight="100%"
+                                       data-videoloop="loop"
+                                       data-videowidth="100%"
+                                       data-vimeoid="412348885"
+                                       data-volume="mute">
+                                
+                                       </div>
                             <div class="tp-caption tp-resizeme normalWraping layer_1" 
 
                                  data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -181,14 +121,14 @@
                                  data-whitesapce="['normal']"
                                  data-word-wrap="['normal']"
                                  data-white-break="['break-all']"
-                                 data-fontsize="['110', '70', '60', '40']"
-                                 data-lineheight="['112', '80', '65', '50']"
+                                 data-fontsize="['110', '70', '60', '40', '30']"
+                                 data-lineheight="['112', '80', '65', '50', '25']"
                                  data-fontweight="700"
-                                 data-letterspacing="['4.4', '4.4', '2', '1']"
+                                 data-letterspacing="['4.4', '4.4', '2', '1', '1']"
                                  data-color="#FFF"
                                  data-textAlign="center"
                                  >Ваш текст</div>
-                            <div class="tp-caption tp-resizeme normalWraping layer_3"
+                       <!--      <div class="tp-caption tp-resizeme normalWraping layer_3"
 
                                  data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
                                  {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
@@ -204,7 +144,7 @@
                                  data-lineheight=""
                                  data-fontweight="400"
                                  data-textAlign="center"
-                                 ><a href="#" class="common_btn"  data-toggle="modal" data-target="#myModal"><span>Ссылка</span></a></div>
+                                 ><a href="#" class="common_btn"  data-toggle="modal" data-target="#myModal"><span>Связаться с нами</span></a></div> -->
                         </li>
                        
                     </ul><!-- END SLIDES LIST -->
@@ -218,11 +158,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title red_color">Тут может быть</h4>
-                        <h2 class="sec_title white">Ваш текст</h2>
-                        <p class="sec_desc color_aaa">
+                        <h2 class="sub_title red_color">Мы специализируемся</h2>
+                        <h4 class="sec_title white">на</h4>
+                 <!--        <p class="sec_desc color_aaa">
                             и тут тоже
-                        </p>
+                        </p> -->
                     </div>
                 </div>
                 <div class="row custom_column">
@@ -331,7 +271,7 @@
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
                         </p>
-                        <a class="common_btn red_bg" href="#" data-toggle="modal" data-target="#myModal"><span>Ссылка</span></a>
+                        <a class="common_btn red_bg" href="about" data-toggle="modal" data-target="#myModal"><span>Подробнее</span></a>
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="ab_img1">
@@ -891,91 +831,16 @@
         <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
     </form>
   </div>
-  <div class="modal-footer">
+<!--   <div class="modal-footer">
     <button type="button" class="common_btn" data-dismiss="modal"><span>Закрыть</span>  </button>
-    <!-- <button type="button" class="common_btn"><span>Сохранить изменения</span></button> -->
-  </div>
+  </div> -->
 </div>
 </div>
 </div>
         <!-- Footer Section -->
-        <footer class="footer_1">
-            <div class="container">
-<!--                 <div class="row">
-                    <div class="col-lg-5 col-sm-6 col-md-5">
-                        <aside class="widget aboutwidget">
-                            <a href="#" style="color: #fff;">
-                         
-                                Лого
-                            </a>
-                            <p>
-                                Описание
-                            </p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-4 col-sm-4 col-md-4">
-                        <aside class="widget contact_widgets">
-                            <h3 class="widget_title">Контакты</h3>
-                            <p>
-                                Адрес
-                            </p>
-                            <p>T: 666 888 000</p>
-                            <p>E: <a href="#">test@test.com</a></p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-3 col-sm-2 col-md-3">
-                        <aside class="widget social_widget">
-                            <h3 class="widget_title">Соц.сети</h3>
-                            <ul>
-                                <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                    
-                            </ul>
-                        </aside>
-                    </div>
-                </div> -->
-                <div class="row">
-                    <div class="col-lg-12 col-sm-12 text-center">
-                        <div class="copyright">
-                            © TRRR technology 2020
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+       <?php include 'footer.php';?>
         <!-- Footer Section -->
 
-        <!-- Bact To To -->
-        <a id="backToTop" href="#" class=""><i class="fa fa-angle-double-up"></i></a>
-        <!-- Bact To To -->
 
-        <!-- Include All JS -->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/modernizr.custom.js"></script>
-        <script src="js/gmaps.js"></script>
-        <script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-        <script src="js/jquery.themepunch.revolution.min.js"></script>
-        <script src="js/jquery.themepunch.tools.min.js"></script>
-        <!-- Rev slider Add on Start -->
-        <script src="js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="js/extensions/revolution.extension.carousel.min.js"></script>
-        <script src="js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script src="js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script src="js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="js/extensions/revolution.extension.video.min.js"></script>
-        <!-- Rev slider Add on End -->
-        <script src="js/dlmenu.js"></script>
-        <script src="js/jquery.magnific-popup.js"></script>
-        <script src="js/mixer.js"></script>
-        <script src="js/jquery.easing.1.3.js"></script>
-        <script src="js/owl.carousel.js"></script>
-        <script src="js/slick.js"></script>
-        <script src="js/jquery.appear.js"></script>
-        <script src="js/theme.js"></script>
-        <!-- Include All JS -->
     </body>
 </html>

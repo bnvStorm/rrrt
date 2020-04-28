@@ -20,6 +20,7 @@
         <link rel="stylesheet" type="text/css" href="css/theme.css"/>
         <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
         <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange"/>
+        <link rel="stylesheet" href="css/site.addons.css">
         <!-- End Include All CSS -->
 
         <!-- Favicon Icon -->
@@ -117,8 +118,8 @@
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
                         <ul class="footer__contacts text-left">
-                            <li>Phone: 666 888 000</li>
-                            <li>Email: needhelp@meipaly.com</li>
+                            <li>Phone: 123 456</li>
+                            <li>Email: needhelp@test.com</li>
                             <li>Address: 66 Broklyn Street, New York United States of America</li>
                         </ul>
                     </div>
@@ -137,7 +138,7 @@
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
-        <section class="pageBanner">
+        <section class="pageBanner contacts_up">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -218,32 +219,32 @@
                         <div class="singleClient_2">
                             <h3>Усть-Каменогорск</h3>
                             <p>ул. Колотушкина</p>
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
                             <h3>Экибастуз</h3>
                             <p>ул.Молотушнкина</p>
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
                             <h3>Костанай</h3>
                             <p>ул. Молодушкина</p>
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3">
                         <div class="singleClient_2">
                             <h3>Семей</h3>
                             <p>ул. Веселая</p>
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                 </div>
@@ -252,81 +253,10 @@
         <!-- Button trigger modal -->
 
         <!-- Footer Section -->
-        <footer class="footer_1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-5 col-sm-6 col-md-5">
-                        <aside class="widget aboutwidget">
-                            <a href="#"><img src="images/foo_logo.png" alt=""></a>
-                            <p>
-                                TRRR Technology это лидер в области переработки вторресурсов в Карагандинской области. 
-                            </p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-4 col-sm-4 col-md-4">
-                        <aside class="widget contact_widgets">
-                            <h3 class="widget_title">Контакты</h3>
-                            <p>
-                                66 Broklyn Street, New York<br>
-                                United States of America
-                            </p>
-                            <p>P: 666 888 000</p>
-                            <p>E: <a href="#">needhelp@meipaly.com</a></p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-3 col-sm-2 col-md-3">
-                        <aside class="widget social_widget">
-                            <h3 class="widget_title">Соц сети</h3>
-                            <ul>
-                                <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
-                            </ul>
-                        </aside>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12 col-sm-12 text-center">
-                        <div class="copyright">
-                             © TRRR technology 2020
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+<?php include 'footer.php';?>
         <!-- Footer Section -->
 
-        <!-- Bact To To -->
-        <a id="backToTop" href="#" class=""><i class="fa fa-angle-double-up"></i></a>
-        <!-- Bact To To -->
 
-        <!-- Include All JS -->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/modernizr.custom.js"></script>
-        <script src="js/gmaps.js"></script>
-        <script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-        <script src="js/jquery.themepunch.revolution.min.js"></script>
-        <script src="js/jquery.themepunch.tools.min.js"></script>
-        <!-- Rev slider Add on Start -->
-        <script src="js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="js/extensions/revolution.extension.carousel.min.js"></script>
-        <script src="js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script src="js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script src="js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="js/extensions/revolution.extension.video.min.js"></script>
-        <!-- Rev slider Add on End -->
-        <script src="js/dlmenu.js"></script>
-        <script src="js/jquery.magnific-popup.js"></script>
-        <script src="js/mixer.js"></script>
-        <script src="js/jquery.easing.1.3.js"></script>
-        <script src="js/owl.carousel.js"></script>
-        <script src="js/slick.js"></script>
-        <script src="js/jquery.appear.js"></script>
-        <script src="js/theme.js"></script>
         <!-- Include All JS -->
     </body>
 </html>
