@@ -1,6 +1,6 @@
 <?php include 'head.php';?>
          <!-- SEO -->
-        <title>КазВторРесурс</title>
+        <title>TRRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <link rel="canonical" href="https://trrr.kz/contact"/>
