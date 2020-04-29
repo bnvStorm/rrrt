@@ -1,6 +1,6 @@
 <?php include 'head.php';?>
          <!-- SEO -->
-        <title>TRRR Technology</title>
+        <title>RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <link rel="canonical" href="https://trrr.kz/contact"/>
@@ -62,79 +62,7 @@
         <!-- Search From -->
 
         <!-- PopUP Menu -->
-        <div class="popup popup__menu">
-            <a href="" id="close-popup" class="close-popup"></a>
-            <div class="container mobileContainer">
-                <div class="row">
-                    <div class="col-lg-12 text-left">
-                        <div class="logo2">
-                            <a href="index"><img src="images/logo.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="popup-inner">
-                            <div class="dl-menu__wrap dl-menuwrapper">
-                                <ul class="dl-menu dl-menuopen">
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">home</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="index">Home 01</a></li>
-                                            <li><a href="index2">Home 02</a></li>
-                                            <li><a href="index3">Home 03</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="about">About</a></li>
-                                    <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="services">Service</a></li>
-                                            <li><a href="service_detail">Service Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Portfolio</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="portfolio">Portfolio v1</a></li>
-                                            <li><a href="portfolio2">Portfolio v2</a></li>
-                                            <li><a href="portfolio_detail">Portfolio Detail</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Blog</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="blog">Blog v1</a></li>
-                                            <li><a href="blog2">Blog v2</a></li>
-                                            <li><a href="blog3">Blog v3</a></li>
-                                            <li><a href="blog_single">Blog Single</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="contact">Contact</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
-                        <ul class="footer__contacts text-left">
-                            <li>Phone: 123 456</li>
-                            <li>Email: needhelp@test.com</li>
-                            <li>Address: 66 Broklyn Street, New York United States of America</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
-                        <div class="popUp_social text-right">
-                            <ul>
-                                <li><a href="#"><i class="fa fa-twitter"></i>Twitter</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                                <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       <?php include 'pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
@@ -152,7 +80,78 @@
         </section>
         <!-- Page Banner -->
 
-        <!-- Contact Section -->
+      
+
+        <!-- Contact Map Section -->
+        <section class="gmapsection">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12 noPadding">
+                        <div class="gmap" id="gmap_2"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact Map Section -->
+
+        <section class="commonSection client_2">
+            <div class="container">
+<!--                 <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h4 class="sub_title">our offices</h4>
+                        <h2 class="sec_title">offices near you</h2>
+                        <p class="sec_desc">
+                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
+                        </p>
+                    </div>
+                </div> -->
+            <div class="row">
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Усть-Каменогорск</h3>
+                           <!--  <p>ул. Колотушкина</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Экибастуз</h3>
+                       <!--      <p>ул.Молотушнкина</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Костанай</h3>
+                         <!--    <p>ул. Молодушкина</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Семей</h3>
+                          <!--   <p>ул. Веселая</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+          
+                    </div>
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Нур-Султан</h3>
+                          <!--   <p>ул. Веселая</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Button trigger modal -->
+  <!-- Contact Section -->
         <section class="commonSection ContactPage" id="ContactPage">
             <div class="container">
                 <div class="row">
@@ -190,73 +189,8 @@
                 </div>
             </div>
         </section>
-
-        <!-- Contact Map Section -->
-        <section class="gmapsection">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12 noPadding">
-                        <div class="gmap" id="gmap_2"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Contact Map Section -->
-
-        <section class="commonSection client_2">
-            <div class="container">
-<!--                 <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">our offices</h4>
-                        <h2 class="sec_title">offices near you</h2>
-                        <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p>
-                    </div>
-                </div> -->
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-3">
-                        <div class="singleClient_2">
-                            <h3>Усть-Каменогорск</h3>
-                            <p>ул. Колотушкина</p>
-                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
-                        <div class="singleClient_2">
-                            <h3>Экибастуз</h3>
-                            <p>ул.Молотушнкина</p>
-                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
-                        <div class="singleClient_2">
-                            <h3>Костанай</h3>
-                            <p>ул. Молодушкина</p>
-                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
-                        <div class="singleClient_2">
-                            <h3>Семей</h3>
-                            <p>ул. Веселая</p>
-                            <p><a href="mailto:needhelp@test.com">needhelp@test.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Button trigger modal -->
-
         <!-- Footer Section -->
 <?php include 'footer.php';?>
         <!-- Footer Section -->
-
-
-        <!-- Include All JS -->
     </body>
 </html>
