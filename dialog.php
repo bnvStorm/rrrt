@@ -42,7 +42,7 @@
         <?php include 'menu.php';?>
 
         <!-- Search From -->
-        <div class="searchFixed popupBG">
+    <!--     <div class="searchFixed popupBG">
             <div class="container-fluid">
                 <a href="" id="sfCloser" class="sfCloser"></a>
                 <div class="searchForms">
@@ -58,90 +58,15 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Search From -->
 
         <!-- PopUP Menu -->
-        <div class="popup popup__menu">
-            <a href="" id="close-popup" class="close-popup"></a>
-            <div class="container mobileContainer">
-                <div class="row">
-                    <div class="col-lg-12 text-left">
-                        <div class="logo2">
-                            <a href="index">
-                                <!-- <img src="images/logo.png" alt=""> -->
-                                Логотип
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="popup-inner">
-                            <div class="dl-menu__wrap dl-menuwrapper">
-                                <ul class="dl-menu dl-menuopen">
-                                    <li class="menu-item-has-children">
-                                        <a href="/">Главная</a>
-                                        <!-- <ul class="dl-submenu">javascript:void(0);
-                                            <li><a href="index">Home 01</a></li>
-                                            <li><a href="index2">Home 02</a></li>
-                                            <li><a href="index3">Home 03</a></li>
-                                        </ul> -->
-                                    </li>
-                                    <li><a href="about">О компании</a></li>
-                                    <!-- <li class="menu-item-has-children"><a href="javascript:void(0);">services</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="services">Service</a></li>
-                                            <li><a href="#">Service Detail</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <!-- <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Portfolio</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="portfolio">Portfolio v1</a></li>
-                                            <li><a href="portfolio2">Portfolio v2</a></li>
-                                            <li><a href="#">Portfolio Detail</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <!-- <li class="menu-item-has-children">
-                                        <a href="javascript:void(0);">Blog</a>
-                                        <ul class="dl-submenu">
-                                            <li><a href="blog">Blog v1</a></li>
-                                            <li><a href="blog2">Blog v2</a></li>
-                                            <li><a href="blog3">Blog v3</a></li>
-                                            <li><a href="blog_single">Blog Single</a></li>
-                                        </ul>
-                                    </li> -->
-                                    <li><a href="#ContactPage">Контакты</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
-                        <ul class="footer__contacts text-left">
-                            <li>Телефон: 8 777 123 45 67</li>
-                            <li>Email: test@test.com</li>
-                            <li>Адрес: ул.Первая,дом 2</li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
-                        <div class="popUp_social text-right">
-                            <ul>
-                                <!-- <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li> -->
-                                <!-- <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li> -->
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include 'pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
-        <section class="pageBanner">
+        <section class="pageBanner dialog_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -230,10 +155,13 @@
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
                         <p>Михайловский рынок: <a href="tel:+7 708 439 54 00">+7 708 439 54 00</a>  <br>
-                            Рынок Kazameta: +7 708 439 74 20  <br>
-                            Рынок Буратино (Пришахтинск): +7 708 439 84 64 <br>
-                            Супермаркет Ёжик (Пришахтинск): +7 708 439 87 34 <br>
-                            улица Механическая, строение 1/1: +7 708 439 87 54 <br>
+                            <img src="images/map/mih.jpg" alt=""> <br>
+                            Рынок Kazameta: <a href="tel:+7 708 439 74 20">+7 708 439 74 20</a>  <br>
+                            <img src="images/map/kzmet.jpg" alt=""> <br>
+                            Рынок Буратино (Пришахтинск): <a href="tel:+7 708 439 84 64">+7 708 439 84 64</a> <br><img src="images/map/prishah.jpg" alt=""> <br>
+                            Супермаркет Ёжик (Пришахтинск): <a href="tel:+7 708 439 87 34">+7 708 439 87 34</a> <br><img src="images/map/ezhik.jpg" alt=""> <br>
+                            улица Механическая, строение 1/1: <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a> <br>
+                            <img src="images/map/mech.jpg" alt=""> <br>
                             <br>
                             В ближайшее время будут установлены еще несколько пунктов приема по городу. Заходите на наш сайт чаще и будьте в курсе всех событий.
                 Обязательно созвонитесь с сотрудником пункта предварительно и задайте все интересующие вас вопросы. <br>
@@ -256,7 +184,7 @@
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
                         <p>К сожалению, такие отходы не подлежат переработке.
-                            Если перед вами встал вопрос, подлежит ли тот или иной вид отходов переработке, позвоните нашим специалистам по телефону +7 708 439 87 54.
+                            Если перед вами встал вопрос, подлежит ли тот или иной вид отходов переработке, позвоните нашим специалистам по телефону <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>.
                             
                             </p>
                       </div>
@@ -286,7 +214,7 @@
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">Как происходит оплата за сданное вторичное сырье физическими лицами? </a>
                       </h4>
                     </div>
-                    <div id="collapseThree" class="panel-collapse collapse">
+                    <div id="collapse7" class="panel-collapse collapse">
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
                         <p>Вы можете получить деньги наличными в момент сдачи сырья, либо моментальным переводом на карту любого банка РК.</p>
@@ -303,8 +231,8 @@
                     <div id="collapse8" class="panel-collapse collapse">
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
-                        <p>Вы отсылаете заявку на e-mail vsa@qwmo.net с перечнем сырья, которое вы собираетесь регулярно передавать нам на переработку. <br>
-                            Связываетесь с менеджером по телефону +7 708 439 87 54. <br>
+                        <p>Вы отсылаете заявку на e-mail <a href="mailto:vsa@qwmo.net">vsa@qwmo.net</a> с перечнем сырья, которое вы собираетесь регулярно передавать нам на переработку. <br>
+                            Связываетесь с менеджером по телефону <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>. <br>
                             Вам отправляется коммерческое предложение. <br>
                             Если вы согласны с условиями коммерческого предложения, высылаете свои реквизиты для составления договора нашими юристами. <br>
                             В течение трех дней договор будет готов. <br>
@@ -351,10 +279,10 @@
                     <!-- Заголовок 3 панели -->
                     <div class="panel-heading">
                       <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">«У меня есть какой-то пластик, какие-то трубы, но я не знаю, что это»? </a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">«У меня есть какой-то пластик, какие-то трубы, но я не знаю, что это»? </a>
                       </h4>
                     </div>
-                    <div id="collapse10" class="panel-collapse collapse">
+                    <div id="collapse11" class="panel-collapse collapse">
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
                         <p>Вы можете сделать фотографию скопившегося вторичного сырья и отправить фото на e-mail vsa@qwmo.net 
@@ -406,84 +334,8 @@
                 </div>
             </div>
         </section>
+<!-- Footer Section -->
+<?php include 'footer.php';?>
         <!-- Footer Section -->
-        <footer class="footer_1">
-            <div class="container">
-<!--                 <div class="row">
-                    <div class="col-lg-5 col-sm-6 col-md-5">
-                        <aside class="widget aboutwidget">
-                            <a href="#" style="color: #fff;">
-                         
-                                Лого
-                            </a>
-                            <p>
-                                Описание
-                            </p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-4 col-sm-4 col-md-4">
-                        <aside class="widget contact_widgets">
-                            <h3 class="widget_title">Контакты</h3>
-                            <p>
-                                Адрес
-                            </p>
-                            <p>T: 666 888 000</p>
-                            <p>E: <a href="#">test@test.com</a></p>
-                        </aside>
-                    </div>
-                    <div class="col-lg-3 col-sm-2 col-md-3">
-                        <aside class="widget social_widget">
-                            <h3 class="widget_title">Соц.сети</h3>
-                            <ul>
-                                <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                    
-                            </ul>
-                        </aside>
-                    </div>
-                </div> -->
-                <div class="row">
-                    <div class="col-lg-12 col-sm-12 text-center">
-                        <div class="copyright">
-                             © TRRR technology 2020
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- Footer Section -->
-
-        <!-- Bact To To -->
-        <a id="backToTop" href="#" class=""><i class="fa fa-angle-double-up"></i></a>
-        <!-- Bact To To -->
-
-        <!-- Include All JS -->
-        <script src="js/jquery.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/modernizr.custom.js"></script>
-        <script src="js/gmaps.js"></script>
-        <script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-        <script src="js/jquery.themepunch.revolution.min.js"></script>
-        <script src="js/jquery.themepunch.tools.min.js"></script>
-        <!-- Rev slider Add on Start -->
-        <script src="js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="js/extensions/revolution.extension.carousel.min.js"></script>
-        <script src="js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script src="js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script src="js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="js/extensions/revolution.extension.video.min.js"></script>
-        <!-- Rev slider Add on End -->
-        <script src="js/dlmenu.js"></script>
-        <script src="js/jquery.magnific-popup.js"></script>
-        <script src="js/mixer.js"></script>
-        <script src="js/jquery.easing.1.3.js"></script>
-        <script src="js/owl.carousel.js"></script>
-        <script src="js/slick.js"></script>
-        <script src="js/jquery.appear.js"></script>
-        <script src="js/theme.js"></script>
-        <!-- Include All JS -->
     </body>
 </html>

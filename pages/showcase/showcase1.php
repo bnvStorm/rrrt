@@ -65,13 +65,13 @@
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
-        <section class="pageBanner">
+        <section class="pageBanner showcase_bg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                          <!--    <h4><a href="#">home</a> - portfolio</h4> -->
-                            <h4>АКМ 1</h4>
+                            <h2>АКМ 1</h2>
                         </div>
                     </div>
                 </div>

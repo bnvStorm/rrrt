@@ -66,7 +66,7 @@
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
-        <section class="pageBanner contacts_up">
+        <section class="pageBanner cont_bg contacts_up">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -111,7 +111,7 @@
                             <h3>Усть-Каменогорск</h3>
                            <!--  <p>ул. Колотушкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
@@ -119,7 +119,7 @@
                             <h3>Экибастуз</h3>
                        <!--      <p>ул.Молотушнкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
@@ -127,7 +127,7 @@
                             <h3>Костанай</h3>
                          <!--    <p>ул. Молодушкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
@@ -135,7 +135,7 @@
                             <h3>Семей</h3>
                           <!--   <p>ул. Веселая</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
           
                     </div>
@@ -144,7 +144,7 @@
                             <h3>Нур-Султан</h3>
                           <!--   <p>ул. Веселая</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                            <p><a href="tel:123 456">123 456</a></p>
                         </div>
                     </div>
                 </div>

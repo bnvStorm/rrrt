@@ -1,6 +1,9 @@
 .search {
     display: none !important;
 }
+.pageBanner {
+    background: none;
+}
 .bgblack{
         background: url(../images/bg/2.jpg) no-repeat center center / cover;
 }
@@ -64,22 +67,32 @@ a:focus{
 .singleClient_fix{
     width: 20%;
 }
-
-/*ABOUT*/
-.pageBanner {
-    background: url(../images/bg/about.jpg) no-repeat center center / cover;
+.about_bg{
+     background: url(../images/slider/1_2.jpg) no-repeat center center / cover;
 }
+.news_bg{
+     background: url(../images/slider/1_3.jpg) no-repeat;
+     -webkit-background-size: cover;
+     background-size: cover;
+     background-position-x: 100%;
+     background-position-y: 100%;
+}
+.showcase_bg{
+     background: url(../images/slider/1_4.jpg) no-repeat center center / cover;
+}
+.dialog_bg{
+     background: url(../images/slider/1_5.jpg) no-repeat center center / cover;
+}
+.cont_bg{
+     background: url(../images/slider/1_6.jpg) no-repeat center center / cover;
+}
+/*ABOUT*/
+
 .testimoniTab ul li a span{
     width: 150px;
     height: 150px;
 }
 /*showcase*/
-.showcase{
-    background: url(../images/slider/1_1.jpg) no-repeat center center / cover;
-}
-.contacts_up{
-    background: url(../images/bg/contacts.png) no-repeat center center / cover;
-}
 .container__showcase{
     width: 100%;
     max-width: 960px;
@@ -126,8 +139,18 @@ a:focus{
     -webkit-transition: all 0.4s ease-out;
         background: rgba(124, 45, 132, 0.8);
 }
-    
-
+ .error-block__body {
+        display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 101px;
+  }  
+/*dialog*/
+.panel-collapse img{
+    max-width: 960px;
+    margin: 20px 0;
+}
 @media(max-width:960px) {
     .singleClient_fix{
          width: 50%;
