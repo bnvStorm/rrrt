@@ -18,9 +18,9 @@
                             <div class="dl-menu__wrap dl-menuwrapper">
                                 <ul class="dl-menu dl-menuopen">
                                     <li class="menu-item-has-children"><a href="/">Главная</a></li>
-                                    <li><a href="about">О нас</a></li>
-                                    <li><a href="about">Новости</a></li>
-                                    <li><a href="portfolio">Витрина</a></li>
+                                    <li><a href="aboutus">О нас</a></li>
+                                    <li><a href="news">Новости</a></li>
+                                    <li><a href="showcase">Витрина</a></li>
                                     <li><a href="dialog">Диалог</a></li>
                                     <li><a href="https://trrr.kz/contacts">Контакты</a></li>
                                 </ul>

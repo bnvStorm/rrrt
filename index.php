@@ -204,12 +204,12 @@
                                 <div class="front">
                                     <img src="images/icons/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
-                                    <h3>Работа с физическими лицами</h3>
+                                    <h3>работа с физическими и юридическими лицами</h3>
                                 </div>
                                 <div class="back">
                                     <img src="images/icons/blck/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
-                                    <h3>Работа с физическими лицами</h3>
+                                    <h3>работа с физическими и юридическими лицами</h3>
                                 </div>
                             </div>
                         </a>
@@ -286,7 +286,7 @@
         </section>
         <!-- About Agency Section -->
         <!-- What We Do Section -->
-      <section class="commonSection what_wedo">
+<!--       <section class="commonSection what_wedo">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -308,86 +308,74 @@
                         </div>
                     </div>
                 </div>
-                 <!-- <div class="row">
-                    <div class="col-lg-4 col-sm-5 col-md-4">
-                        <h4 class="sub_title">don’t miss out our latest updates</h4>
-                        <h2 class="sec_title">Subscribe us</h2>
-                    </div>
-                    <div class="col-lg-8 col-sm-7 col-md-8">
-                        <form action="" method="post" class="subscribefrom">
-                            <input type="email" placeholder="Enter your email" name="email">
-                            <button class="common_btn red_bg" type="submit" name="submit"><span>Subscribe now</span></button>
-                        </form>
-                    </div>
-                </div>  -->
             </div>
-        </section> 
+        </section>  -->
         <!-- What We Do Section -->
 
         <!-- Portfolio Section -->
         <section class="commonSection porfolio">
-            <div class="container">
+            <div class="container container__showcase">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Работы или товары</h4>
-                        <h2 class="sec_title">Продукция</h2>
-                        <p class="sec_desc">
+                        <h4 class="sub_title">Виды</h4>
+                        <h2 class="sec_title">покупаемого сырья</h2>
+                   <!--      <p class="sec_desc">
                             Картинки,много картинок
-                        </p>
+                        </p> -->
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio red">
                             <img src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
-                                <h4><a href="#">АКМ 1</a></h4>
+                                <h4><a href="pages/showcase/showcase1">АКМ 1</a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio ylw">
                             <img src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
-                                <h4><a href="#">Другие акамуляторы</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Другие акамуляторы</a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio purple">
                             <img src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
-                                <h4><a href="#">Масло</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Масло</a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio red">
                             <img src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="#">Макулатура</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Макулатура</a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio ylw">
                             <img src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
                                 <a class="cate" href="#">цветной и простой</a>
-                                <h4><a href="#">полиэтилен </a></h4>
+                                <h4><a href="pages/showcase/showcase1">полиэтилен </a></h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio">
+                        <div class="singlefolio purple">
                             <img src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="#">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
                             </div>
                         </div>
                     </div>
@@ -764,34 +752,43 @@
                     </div>
                 </div> -->
                 <div class="row">
-                    <div class="col-lg-3 col-sm-6 col-md-3">
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Усть-Каменогорск</h3>
-                            <p>ул. Колотушкина</p>
+                           <!--  <p>ул. Колотушкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
                             <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Экибастуз</h3>
-                            <p>ул.Молотушнкина</p>
+                       <!--      <p>ул.Молотушнкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
                             <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Костанай</h3>
-                            <p>ул. Молодушкина</p>
+                         <!--    <p>ул. Молодушкина</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
                             <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 col-md-3">
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Семей</h3>
-                            <p>ул. Веселая</p>
+                          <!--   <p>ул. Веселая</p> -->
+                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
+                            <p><a href="tel:666 888 000">666 888 000</a></p>
+                        </div>
+          
+                    </div>
+                    <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
+                        <div class="singleClient_2">
+                            <h3>Нур-Султан</h3>
+                          <!--   <p>ул. Веселая</p> -->
                             <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
                             <p><a href="tel:666 888 000">666 888 000</a></p>
                         </div>

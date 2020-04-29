@@ -1,6 +1,13 @@
 .search {
     display: none !important;
 }
+.bgblack{
+        background: url(../images/bg/2.jpg) no-repeat center center / cover;
+}
+.ready {
+    background: url(../images/bg/contacts.png) no-repeat center center / cover;
+        background-position-y: 68%;
+}
 .videoWrap{
     margin-bottom: 0;
 }
@@ -16,6 +23,7 @@
 }
 .sec_title{
     text-align: center;
+    font-size: 35px;
 }
 .logo img{
     max-width: 80px;
@@ -33,6 +41,10 @@ a:focus{
     min-height: 215px;
     padding: 25px;
 }
+.back{
+    min-height: 215px;
+    padding: 25px;
+}
 .videoWrap{
     padding: 30px;
 }
@@ -46,9 +58,20 @@ a:focus{
     right: 0;
     left: 60px;
 }
+.singleClient_2{
+    padding-left: 20px;
+}
+.singleClient_fix{
+    width: 20%;
+}
+
 /*ABOUT*/
 .pageBanner {
     background: url(../images/bg/about.jpg) no-repeat center center / cover;
+}
+.testimoniTab ul li a span{
+    width: 150px;
+    height: 150px;
 }
 /*showcase*/
 .showcase{
@@ -56,4 +79,64 @@ a:focus{
 }
 .contacts_up{
     background: url(../images/bg/contacts.png) no-repeat center center / cover;
+}
+.container__showcase{
+    width: 100%;
+    max-width: 960px;
+}
+.red:after{
+        position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    content: '';
+    transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -webkit-transition: all 0.4s ease-out;
+  background: rgba(227, 30, 36, 0.8);
+}
+.ylw:after{
+    background: rgba(255, 228, 0, 0.8);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    content: '';
+    transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -webkit-transition: all 0.4s ease-out;
+}
+.purple:after{
+        position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    content: '';
+    transition: all 0.4s ease-out;
+    -moz-transition: all 0.4s ease-out;
+    -webkit-transition: all 0.4s ease-out;
+        background: rgba(124, 45, 132, 0.8);
+}
+    
+
+@media(max-width:960px) {
+    .singleClient_fix{
+         width: 50%;
+    }
+   
+}
+@media(max-width:480px) {
+    .singleClient_fix{
+         width: 100%;
+    }
+   
 }

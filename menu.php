@@ -20,7 +20,7 @@
                                         <li><a href="index3">Home 03</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="../../about">О нас</a></li>
+                                <li><a href="../../aboutus">О нас</a></li>
                                  <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="services">Service</a></li>
@@ -29,12 +29,12 @@
                                 </li> -->
                                   <li class="menu-item-has-children"><a href="#">Новости</a>
                                    <!-- <ul class="sub-menu">
-                                        <li><a href="portfolio">Portfolio v1</a></li>
-                                        <li><a href="portfolio2">Portfolio v2</a></li>
-                                        <li><a href="#">Portfolio Detail</a></li>
+                                        <li><a href="showcase">showcase v1</a></li>
+                                        <li><a href="showcase2">showcase v2</a></li>
+                                        <li><a href="#">showcase Detail</a></li>
                                     </ul>  -->
                                 </li>
-                                <li class="menu-item-has-children"><a href="../../portfolio">Витрина</a>
+                                <li class="menu-item-has-children"><a href="../../showcase">Витрина</a>
                                      <!-- <ul class="sub-menu">
                                         <li><a href="blog">Blog v1</a></li>
                                         <li><a href="blog2">Blog v2</a></li>

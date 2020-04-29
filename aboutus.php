@@ -108,7 +108,7 @@
         <!-- Agency Section -->
 
         <!-- Testimonial 2 Section -->
-        <section class="commonSection testimonial_2">
+        <section class="commonSection testimonial_2 bgblack">
             <div class="container">
                 <div class="row">
                     <div id="tabs" class="testimoniTab">
@@ -176,7 +176,7 @@
         <!-- Testimonial 2 Section -->
 
         <!-- Team Section -->
-        <section class="commonSection team">
+ <!--        <section class="commonSection team">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -193,12 +193,12 @@
                     <div class="tm_img">
                         <img src="images/team/1.jpg" alt="">
                         <div class="tm_overlay">
-                    <!--         <div class="team_social">
+                            <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
                                 <a href="#"><span>Twitter</span></a>
                                 <a href="#"><span>Youtube</span></a>
-                            </div> -->
-                           <!--  <a href="#" class="common_btn"><span>learn more</span></a> -->
+                            </div> 
+                            <a href="#" class="common_btn"><span>learn more</span></a> 
                         </div>
                     </div>
                     <div class="detail_TM">
@@ -206,76 +206,9 @@
                         <h6>должность</h6>
                     </div>
                 </div>
-                       <div class="singleTM">
-                    <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
-                        <div class="tm_overlay">
-                    <!--         <div class="team_social">
-                                <a href="#"><span>Facebook</span></a>
-                                <a href="#"><span>Twitter</span></a>
-                                <a href="#"><span>Youtube</span></a>
-                            </div> -->
-                           <!--  <a href="#" class="common_btn"><span>learn more</span></a> -->
-                        </div>
-                    </div>
-                    <div class="detail_TM">
-                        <h5>Человек 2</h5>
-                        <h6>должность</h6>
-                    </div>
-                </div>
-                      <div class="singleTM">
-                    <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
-                        <div class="tm_overlay">
-                    <!--         <div class="team_social">
-                                <a href="#"><span>Facebook</span></a>
-                                <a href="#"><span>Twitter</span></a>
-                                <a href="#"><span>Youtube</span></a>
-                            </div> -->
-                           <!--  <a href="#" class="common_btn"><span>learn more</span></a> -->
-                        </div>
-                    </div>
-                    <div class="detail_TM">
-                        <h5>Человек 3</h5>
-                        <h6>должность</h6>
-                    </div>
-                </div>
-                            <div class="singleTM">
-                    <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
-                        <div class="tm_overlay">
-                    <!--         <div class="team_social">
-                                <a href="#"><span>Facebook</span></a>
-                                <a href="#"><span>Twitter</span></a>
-                                <a href="#"><span>Youtube</span></a>
-                            </div> -->
-                           <!--  <a href="#" class="common_btn"><span>learn more</span></a> -->
-                        </div>
-                    </div>
-                    <div class="detail_TM">
-                        <h5>Человек 4</h5>
-                        <h6>должность</h6>
-                    </div>
-                </div>
-                <div class="singleTM">
-                    <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
-                        <div class="tm_overlay">
-                    <!--         <div class="team_social">
-                                <a href="#"><span>Facebook</span></a>
-                                <a href="#"><span>Twitter</span></a>
-                                <a href="#"><span>Youtube</span></a>
-                            </div> -->
-                           <!--  <a href="#" class="common_btn"><span>learn more</span></a> -->
-                        </div>
-                    </div>
-                    <div class="detail_TM">
-                        <h5>Человек 5</h5>
-                        <h6>должность</h6>
-                    </div>
-                </div>
-            </div>
-        </section>
+           
+        
+        </section> -->
         <!-- Team Section -->
 
         <!-- Our Work Section -->
@@ -312,8 +245,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Описание</h4>
-                        <h2 class="sec_title">Деятельности компании</h2>
+                        
+                        <h2 class="sub_title">Деятельности компании</h2>
+                        <h4 class="sec_title">мы решаем ваш вопрос по утилизации</h4>
                         <p class="sec_desc">
                             Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рекламных, до океана точках свой свое заглавных образ. Реторический предложения повстречался запятой! <br> Моей, жаренные запятой курсивных выйти подзаголовок оксмокс всеми.
                         </p>
@@ -323,9 +257,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <ul class="chooseUs_title">
-                                <li><a href="#tes_tab_1" data-toggle="tab">Раз</a></li>
-                                <li class="active"><a href="#tes_tab_2" data-toggle="tab">Два</a></li>
-                                <li><a href="#tes_tab_3" data-toggle="tab">Три</a></li>
+                                <li><a href="#tes_tab_1" data-toggle="tab">Сбор</a></li>
+                                <li class="active"><a href="#tes_tab_2" data-toggle="tab">транспортировка</a></li>
+                                <li><a href="#tes_tab_3" data-toggle="tab">переработка</a></li>
                             </ul>
                         </div>
                     </div>
