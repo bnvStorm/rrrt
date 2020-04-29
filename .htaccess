@@ -8,3 +8,8 @@ RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
+
+#errors pages
+ErrorDocument 404 /404.php
+ErrorDocument 500 /404.php
+

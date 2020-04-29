@@ -1,9 +1,8 @@
 <?php include 'head.php';?>
          <!-- SEO -->
-        <title>RRR Technology</title>
+        <title>Ошибка</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
-        <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/about"/>
+        <meta name="robots" content="noindex,nofollow">
         <!-- SEO -->
 
         <!-- Include All CSS here-->
