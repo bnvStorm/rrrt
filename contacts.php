@@ -87,7 +87,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12 noPadding">
-                        <div class="gmap" id="gmap_2"></div>
+                        <!-- <div class="gmap" id="gmap_2"></div> -->
+                        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A1db0a9f0e64dc90c19bbe9dfcc00824213e89d727bd3fed91870770ddb6dcd9f&amp;source=constructor" width="100%" height="479" frameborder="0"></iframe>
                     </div>
                 </div>
             </div>
