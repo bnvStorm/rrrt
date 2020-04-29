@@ -3,7 +3,7 @@
         <title>TRRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/portfolio_detail"/>
+        <link rel="canonical" href="https://trrr.kz/showcase1"/>
         <!-- SEO -->
         <!-- Include All CSS here-->
         <link rel="stylesheet" type="text/css" href="../../css/bootstrap.css"/>
@@ -85,10 +85,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-sm-7 col-md-8">
                         <div class="portDetailThumb">
-                            <img src="../../images/portfolio/7.jpg" alt=""/>
-                        </div>
-                        <div class="portDetailThumb">
-                            <img src="../../images/portfolio/8.jpg" alt=""/>
+                            <img src="../../images/portfolio/1.jpg" alt=""/>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-5 col-md-4">
@@ -157,21 +154,21 @@
                                 <img src="../../images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
-                                    <h4><a href="portfolio_detail">АКМ 1</a></h4>
+                                    <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
                                 <img src="../../images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
-                                    <h4><a href="portfolio_detail">АКМ 1</a></h4>
+                                    <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
                                 <img src="../../images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
-                                    <h4><a href="portfolio_detail">АКМ 1</a></h4>
+                                    <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                         </div>

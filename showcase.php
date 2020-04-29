@@ -149,37 +149,37 @@
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img src="images/portfolio/7.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Картон</a></h4>
                             </div>
                         </div>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Масло фритюрное</a></h4>
                             </div>
                         </div>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img src="images/portfolio/9.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">ПНД канистры</a></h4>
                             </div>
                         </div>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">стрэйч пленка</a></h4>
                             </div>
                         </div>
                     </div>

@@ -67,6 +67,10 @@ a:focus{
 .singleClient_fix{
     width: 20%;
 }
+.singlefolio img{
+    min-height: 290px;
+        max-width: 289px;
+}
 .about_bg{
      background: url(../images/slider/1_2.jpg) no-repeat center center / cover;
 }

@@ -106,7 +106,7 @@
                                  data-letterspacing="2"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >Тут может быть</div>
+                                 >Товарищество с ограниченной ответственностью </div>
                             <div class="tp-caption tp-resizeme normalWraping layer_2" 
 
                                  data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -127,7 +127,7 @@
                                  data-letterspacing="['4.4', '4.4', '2', '1', '1']"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >Ваш текст</div>
+                                 >«RRR technology»</div>
                        <!--      <div class="tp-caption tp-resizeme normalWraping layer_3"
 
                                  data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
