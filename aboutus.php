@@ -3,7 +3,7 @@
         <title>TRRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/about"/>
+        <link rel="canonical" href="https://trrr.kz/aboutus"/>
         <!-- SEO -->
 
         <!-- Include All CSS here-->
