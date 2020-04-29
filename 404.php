@@ -4,26 +4,6 @@
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="noindex,nofollow">
         <!-- SEO -->
-
-        <!-- Include All CSS here-->
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="css/owl.carousel.css"/>
-        <link rel="stylesheet" type="text/css" href="css/owl.theme.css"/>
-        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
-        <link rel="stylesheet" type="text/css" href="css/animate.css"/>
-        <link rel="stylesheet" type="text/css" href="css/magnific-popup.css"/>
-        <link rel="stylesheet" type="text/css" href="css/settings.css"/>
-        <link rel="stylesheet" type="text/css" href="css/slick.css"/>
-        <link rel="stylesheet" type="text/css" href="css/icons.css"/>
-        <link rel="stylesheet" type="text/css" href="css/preset.css"/>
-        <link rel="stylesheet" type="text/css" href="css/theme.css"/>
-        <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
-        <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange"/>
-        <link rel="stylesheet" type="text/css" href="css/site.addons.css">
-        <!-- End Include All CSS -->
-
-        <!-- Favicon Icon -->
-        <link rel="icon"  type="image/png" href="images/favicon.png">
     </head>
     <body>
         <!-- Preloading -->
