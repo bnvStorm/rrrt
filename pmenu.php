@@ -6,7 +6,7 @@
                     <div class="col-lg-12 text-left">
                         <div class="logo2">
                             <a href="index">
-                                <!-- <img src="images/logo.png" alt=""> -->
+                                <img src="images/logo.png" alt="">
                                 Логотип
                             </a>
                         </div>
