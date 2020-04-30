@@ -65,7 +65,7 @@
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/theme.css"/>
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/responsive.css"/>
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/presets/color1.css" id="colorChange"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/site.addons.css">
+<link rel="stylesheet" type="text/css" href="../../css/site.addons.css">
 <!-- End Include All CSS -->
 <!-- Favicon Icon -->
 <link rel="icon"  type="image/png" href="https://trrr.kz/images/favicon.png">

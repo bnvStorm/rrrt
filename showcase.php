@@ -47,12 +47,13 @@
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
-        <section class="pageBanner showcase_bg showcase">
+        <a href="pages/showcase/showcase1"><section class=
+        "pageBanner showcase_bg showcase">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <!-- <h4><a href="pages/showcase/showcase1">home</a> - portfolio</h4> -->
+                            <!-- <h4>home</a> - portfolio</h4> -->
                             <h2>Витрина продукции</h2>
                         </div>
                     </div>
@@ -75,94 +76,114 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
                             <img src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
-                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-гелевые</a></h4>
+                                <h4>АКБ свинцово-гелевые</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
-                                <h4><a href="pages/showcase/showcase1">Масло фритюрное</a></h4>
+                                <h4>Масло фритюрное</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
                             <img src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
-                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-кислотные</a></h4>
+                                <h4>АКБ свинцово-кислотные</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
                             <img src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">Макулатура</a></h4>
+                                <h4>Макулатура</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
                                 <a class="cate" href="#"> ( прозрачная и цветная)</a>
-                                <h4><a href="pages/showcase/showcase1">полиэтиленовая пленка </a></h4>
+                                <h4>полиэтиленовая пленка </h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
                             <img src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">Картон</a></h4>
+                                <h4>Картон</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
                             <img src="images/portfolio/7.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">Масло отработанное</a></h4>
+                                <h4>Масло отработанное</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">стрэйч пленка</a></h4>
+                                <h4>стрэйч пленка</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
                             <img src="images/portfolio/9.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПНД канистры</a></h4>
+                                <h4>ПНД канистры</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                               <div class="col-lg-12 col-sm-12 col-md-12">
+                        <a href="pages/showcase/showcase1">
                         <div class="singlefolio red all-window-red">
                             <img src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4>ПЭТ тара</h4>
                             </div>
                         </div>
+                        </a>
                     </div>
                 </div>
             </div>

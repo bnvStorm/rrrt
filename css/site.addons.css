@@ -165,6 +165,7 @@ a:focus{
   }  
 /*dialog*/
 .panel-collapse img{
+    width: 100%;
     max-width: 960px;
     margin: 20px 0;
 }
@@ -181,5 +182,7 @@ a:focus{
     .singleClient_fix{
          width: 100%;
     }
-   
+   .sub_title{
+    font-size: 25px;
+}
 }
