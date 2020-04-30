@@ -1,4 +1,5 @@
 <?php include 'head.php';?>
+
          <!-- SEO -->
         <title>RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
@@ -78,7 +79,7 @@
                             <img src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
-                                <h4><a href="pages/showcase/showcase1">АКМ 1</a></h4>
+                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-гелевые</a></h4>
                             </div>
                         </div>
                     </div>
@@ -87,7 +88,7 @@
                             <img src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
-                                <h4><a href="pages/showcase/showcase1">Другие акамуляторы</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Масло фритюрное</a></h4>
                             </div>
                         </div>
                     </div>
@@ -96,7 +97,7 @@
                             <img src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
-                                <h4><a href="pages/showcase/showcase1">Масло</a></h4>
+                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-кислотные</a></h4>
                             </div>
                         </div>
                     </div>
@@ -113,8 +114,8 @@
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
-                                <a class="cate" href="#">цветной и простой</a>
-                                <h4><a href="pages/showcase/showcase1">полиэтилен </a></h4>
+                                <a class="cate" href="#"> ( прозрачная и цветная)</a>
+                                <h4><a href="pages/showcase/showcase1">полиэтиленовая пленка </a></h4>
                             </div>
                         </div>
                     </div>
@@ -123,7 +124,7 @@
                             <img src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Картон</a></h4>
                             </div>
                         </div>
                     </div>
@@ -132,7 +133,7 @@
                             <img src="images/portfolio/7.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">Картон</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Масло отработанное</a></h4>
                             </div>
                         </div>
                     </div>
@@ -141,7 +142,7 @@
                             <img src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">Масло фритюрное</a></h4>
+                                <h4><a href="pages/showcase/showcase1">стрэйч пленка</a></h4>
                             </div>
                         </div>
                     </div>
@@ -154,12 +155,12 @@
                             </div>
                         </div>
                     </div>
-                              <div class="col-lg-4 col-sm-6 col-md-4">
-                        <div class="singlefolio red">
+                              <div class="col-lg-12 col-sm-12 col-md-12">
+                        <div class="singlefolio red all-window-red">
                             <img src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">стрэйч пленка</a></h4>
+                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
                             </div>
                         </div>
                     </div>

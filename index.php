@@ -294,7 +294,7 @@
         <!-- What We Do Section -->
 
         <!-- Portfolio Section -->
-        <section class="commonSection porfolio">
+   <section class="commonSection porfolio">
             <div class="container container__showcase">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -311,7 +311,7 @@
                             <img src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
-                                <h4><a href="pages/showcase/showcase1">АКМ 1</a></h4>
+                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-гелевые</a></h4>
                             </div>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                             <img src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
-                                <h4><a href="pages/showcase/showcase1">Другие акамуляторы</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Масло фритюрное</a></h4>
                             </div>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                             <img src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
-                                <h4><a href="pages/showcase/showcase1">Масло</a></h4>
+                                <h4><a href="pages/showcase/showcase1">АКБ свинцово-кислотные</a></h4>
                             </div>
                         </div>
                     </div>
@@ -346,8 +346,8 @@
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
-                                <a class="cate" href="#">цветной и простой</a>
-                                <h4><a href="pages/showcase/showcase1">полиэтилен </a></h4>
+                                <a class="cate" href="#"> ( прозрачная и цветная)</a>
+                                <h4><a href="pages/showcase/showcase1">полиэтиленовая пленка </a></h4>
                             </div>
                         </div>
                     </div>
@@ -356,10 +356,11 @@
                             <img src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4><a href="pages/showcase/showcase1">ПЭТ тара</a></h4>
+                                <h4><a href="pages/showcase/showcase1">Картон</a></h4>
                             </div>
                         </div>
-                    </div>
+                        </div>
+          
                 </div>
             </div>
         </section>
