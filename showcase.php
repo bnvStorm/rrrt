@@ -124,7 +124,7 @@
                         <div class="singlefolio ylw">
                             <img src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
-                                <a class="cate" href="#"> ( прозрачная и цветная)</a>
+                                <a class="cate"> ( прозрачная и цветная)</a>
                                 <h4>полиэтиленовая пленка </h4>
                             </div>
                         </div>
