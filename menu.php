@@ -27,7 +27,7 @@
                                         <li><a href="#">Service Detail</a></li>
                                     </ul>
                                 </li> -->
-                                  <li class="menu-item-has-children"><a href="../../news">Новости</a>
+                                  <!-- <li class="menu-item-has-children"><a href="../../news">Новости</a> -->
                                    <!-- <ul class="sub-menu">
                                         <li><a href="showcase">showcase v1</a></li>
                                         <li><a href="showcase2">showcase v2</a></li>

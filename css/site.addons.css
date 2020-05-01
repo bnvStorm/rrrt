@@ -74,8 +74,8 @@ a:focus{
 }
 .singlefolio img{
     min-height: 290px;
-
-        max-width: 289px;
+    max-width: 289px;
+    margin: auto;
 }
 .about_bg{
      background:url(../images/slider/1_2.jpg) no-repeat center center / cover;
