@@ -51,7 +51,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
-                            <h4><a href="#">Диалог</a></h4>
+                          <!--   <h4><a href="#">Диалог</a></h4> -->
                             <h2>Задавайте вопросы!</h2>
                         </div>
                     </div>

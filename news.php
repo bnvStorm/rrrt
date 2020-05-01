@@ -100,7 +100,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 col-md-4">
+         <!--            <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="latestBlogItem">
                             <div class="lbi_thumb">
                                 <img src="images/blog/3.jpg" alt="">
@@ -123,15 +123,15 @@
                                 <a class="learnM" href="pages/news/news1">Читать . . .</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="meipaly_paginations text-center">
                             <a class="prev" href="#"><i class="fa fa-angle-left"></i></a>
                             <span class="current">01</span>
-                            <a href="#">02</a>
-                            <a href="#">5</a>
+                            <!-- <a href="#">02</a>
+                            <a href="#">5</a> -->
                             <a class="next" href="#"><i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>

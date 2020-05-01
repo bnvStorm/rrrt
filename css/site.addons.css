@@ -3,6 +3,8 @@
 }
 .pageBanner {
     background: none;
+    min-height: 210px;
+    padding-top: 125px;
 }
 .bgblack{
         background: url(../images/bg/2.jpg) no-repeat center center / cover;
@@ -103,6 +105,13 @@ a:focus{
 .cont_bg{
      background: url(../images/slider/1_6.jpg) no-repeat center center / cover;
 }
+.tp-leftarrow,.tp-rightarrow{
+    display: none;
+}
+.panel-heading a{
+    width: 100%;
+    display: block;
+}
 /*ABOUT*/
 
 .testimoniTab ul li a span{
@@ -166,7 +175,7 @@ a:focus{
 /*dialog*/
 .panel-collapse img{
     width: 100%;
-    max-width: 960px;
+    max-width: 100%;
     margin: 20px 0;
 }
 .all-window-red img{

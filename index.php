@@ -108,7 +108,7 @@
                                  data-letterspacing="['4.4', '4.4', '2', '1', '1']"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >«RRR technology»</div>
+                                 >«RRR Technology»</div>
                        <!--      <div class="tp-caption tp-resizeme normalWraping layer_3"
 
                                  data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -705,9 +705,9 @@
                     <div class="col-lg-12 text-center">
                         <h4 class="sub_title">Свяжитесь с нами</h4>
                         <h2 class="sec_title">Напишите или позвоните</h2>
-                        <p class="sec_desc">
+                        <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p>
+                        </p> -->
                     </div>
                 </div>
                 <div class="row">
@@ -750,43 +750,43 @@
                 <div class="row">
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
-                            <h3>Усть-Каменогорск</h3>
+                            <h3>Нур-Султан</h3>
                            <!--  <p>ул. Колотушкина</p> -->
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
+                           <!--  <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
+                            <p><a href="tel:8 775 081 08 06">8 775 081 08 06</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Экибастуз</h3>
                        <!--      <p>ул.Молотушнкина</p> -->
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
+                            <!-- <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
+                            <p><a href="tel:8 701 921 11 71">8 701 921 11 71</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Костанай</h3>
                          <!--    <p>ул. Молодушкина</p> -->
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
+                          <!--   <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
+                            <p><a href="tel:8 705 450 29 41">8 705 450 29 41</a></p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Семей</h3>
                           <!--   <p>ул. Веселая</p> -->
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
+                            <!-- <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
+                            <p><a href="tel:8 747 743 16 11">8 747 743 16 11</a></p>
                         </div>
           
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
-                            <h3>Нур-Султан</h3>
+                            <h3>Усть-Каменогорск</h3>
                           <!--   <p>ул. Веселая</p> -->
-                            <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p>
-                            <p><a href="tel:123 456">123 456</a></p>
+                           <!--  <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
+                            <p><a href="tel:8 771 840 99 91">8 771 840 99 91</a></p>
                         </div>
                     </div>
                 </div>
