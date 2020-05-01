@@ -537,14 +537,14 @@ License URI:
         $('.mobilemenu').on('click', function () {
             var w = $(window).width();
             $(this).toggleClass('active');
-            $('.mainmenu > ul').slideToggle('slow');
+            $('.mainmenu > ul').slideToggle('fast');
     });
     if ($(window).width() < 768)
         {
             $('.mainmenu > ul li.menu-item-has-children > a').on('click', function (e) {
                 e.preventDefault();
                 $(this).parent().toggleClass('active');
-                $(this).parent().children('.sub-menu').slideToggle('slow');
+                $(this).parent().children('.sub-menu').slideToggle('fast');
             });
         }
     }
