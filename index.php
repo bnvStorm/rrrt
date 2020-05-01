@@ -53,7 +53,7 @@
                         <!-- MINIMUM SLIDE STRUCTURE -->
                         <li data-transition="random" data-masterspeed="1000">
                             <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
-                            <img src="images/slider/1_1.jpg" alt="Sky" class="rev-slidebg">
+                            <img class="lazyload" data-src="images/slider/1_1.jpg" alt="Sky" class="rev-slidebg">
                                  <div class="rs-background-video-layer"
                                        data-aspectratio="4:3"
                                        data-autoplay="true"
@@ -152,12 +152,12 @@
                             <div class="flipper">
                                 <div class="front">
                                     <!-- <i class="mei-web-design"></i> -->
-                                    <img src="images/icons/1.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/1.png" alt="">
                                     <h3>Работаем в регионах</h3>
                                 </div>
                                 <div class="back">
                                     <!-- <i class="mei-web-design"></i> -->
-                                    <img src="images/icons/blck/1.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/blck/1.png" alt="">
                                     <h3>Работаем в регионах</h3>
                                 </div>
                             </div>
@@ -168,12 +168,12 @@
                             <div class="flipper">
                                 <div class="front">
                                     <!-- <i class="mei-computer-graphic"></i> -->
-                                    <img src="images/icons/2.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/2.png" alt="">
                                     <h3>Моментальные выплаты</h3>
                                 </div>
                                 <div class="back">
                                     <!-- <i class="mei-computer-graphic"></i> -->
-                                    <img src="images/icons/blck/2.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/blck/2.png" alt="">
                                     <h3>Моментальные выплаты</h3>
                                 </div>
                             </div>
@@ -183,12 +183,12 @@
                         <a  class="icon_box_1 text-center">
                             <div class="flipper">
                                 <div class="front">
-                                    <img src="images/icons/3.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
                                     <h3>работа с физическими и юридическими лицами</h3>
                                 </div>
                                 <div class="back">
-                                    <img src="images/icons/blck/3.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/blck/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
                                     <h3>работа с физическими и юридическими лицами</h3>
                                 </div>
@@ -200,12 +200,12 @@
                             <div class="flipper">
                                 <div class="front">
                                     <!-- <i class="mei-development"></i> -->
-                                    <img src="images/icons/5.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/5.png" alt="">
                                     <h3>Сеть пунктов приема</h3>
                                 </div>
                                 <div class="back">
                                     <!-- <i class="mei-development"></i> -->
-                                    <img src="images/icons/blck/5.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/blck/5.png" alt="">
                                     <h3>Сеть пунктов приема</h3>
                                 </div>
                             </div>
@@ -216,12 +216,12 @@
                             <div class="flipper">
                                 <div class="front">
                                     <!-- <i class="mei-app-development"></i> -->
-                                    <img src="images/icons/6.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/6.png" alt="">
                                     <h3>Сотрудничаем с предприятиями всех форм собственности</h3>
                                 </div>
                                 <div class="back">
                                     <!-- <i class="mei-app-development"></i> -->
-                                    <img src="images/icons/blck/6.png" alt="">
+                                    <img class="lazyload" data-src="images/icons/blck/6.png" alt="">
                                     <h3>Сотрудничаем с предприятиями всех форм собственности</h3>
                                 </div>
                             </div>
@@ -256,10 +256,10 @@
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="ab_img1">
-                            <img src="images/home_1/2.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/home_1/2.jpg" alt=""/>
                         </div>
                         <div class="ab_img2">
-                            <img src="images/home_1/1.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/home_1/1.jpg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -281,7 +281,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-sm-12">
                         <div class="videoWrap">
-                            <img src="images/home_1/3.jpg" alt="">
+                            <img class="lazyload" data-src="images/home_1/3.jpg" alt="">
                             <div class="play_video">
                                 <a class="video_popup" href="https://www.youtube.com/watch?v=bPZlvkvK1Zc"><i class="fa fa-play"></i></a>
                                 <h2>Видео</h2>
@@ -310,7 +310,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/1.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
                                 <h4>АКБ свинцово-гелевые</h4>
@@ -321,7 +321,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/2.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
                                 <h4>Масло фритюрное</h4>
@@ -332,7 +332,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/3.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
                                 <h4>АКБ свинцово-кислотные</h4>
@@ -343,7 +343,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/4.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>Макулатура</h4>
@@ -354,7 +354,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/5.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
                                 <a class="cate"> ( прозрачная и цветная)</a>
                                 <h4>полиэтиленовая пленка </h4>
@@ -365,7 +365,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>Картон</h4>
@@ -419,7 +419,7 @@
                 <div class="row">
                     <div class="col-lg-12 col-sm-12">
                         <div class="CL_content">
-                            <img src="images/home_1/4.jpg" alt="">
+                            <img class="lazyload" data-src="images/home_1/4.jpg" alt="">
                             <div class="abc_inner">
                                 <div class="row">
                                     <div class="col-lg-5 col-sm-5 col-md-5">
@@ -458,7 +458,7 @@
             <div class="team_slider">
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/1.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -475,7 +475,7 @@
                 </div>
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/2.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/2.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -492,7 +492,7 @@
                 </div>
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/3.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/3.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -509,7 +509,7 @@
                 </div>
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/4.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/4.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -526,7 +526,7 @@
                 </div>
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/5.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/5.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -562,42 +562,42 @@
                         <div class="client_slider">
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/1.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/1.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/2.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/2.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/3.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/3.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/4.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/4.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/5.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/5.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/1.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/1.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/2.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/2.png" alt=""/>
                                 </a>
                             </div>
                             <div class="singleClient">
                                 <a href="#">
-                                    <img src="images/client/3.png" alt=""/>
+                                    <img class="lazyload" data-src="images/client/3.png" alt=""/>
                                 </a>
                             </div>
                         </div>
@@ -641,7 +641,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="latestBlogItem">
                             <div class="lbi_thumb">
-                                <img src="images/blog/1.jpg" alt="">
+                                <img class="lazyload" data-src="images/blog/1.jpg" alt="">
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">26 NOV</a>
@@ -653,7 +653,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="latestBlogItem">
                             <div class="lbi_thumb">
-                                <img src="images/blog/2.jpg" alt="">
+                                <img class="lazyload" data-src="images/blog/2.jpg" alt="">
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">20 NOV</a>
@@ -666,7 +666,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <div class="latestBlogItem">
                             <div class="lbi_thumb">
-                                <img src="images/blog/3.jpg" alt="">
+                                <img class="lazyload" data-src="images/blog/3.jpg" alt="">
                             </div>
                             <div class="lbi_details">
                                 <a href="#" class="lbid_date">16 NOV</a>
