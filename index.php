@@ -149,7 +149,7 @@
                 <div class="row custom_column">
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a class="icon_box_1 text-center">
-                            <div class="flipper">
+                            <div class="flipper fadeInLeft wow">
                                 <div class="front">
                                     <!-- <i class="mei-web-design"></i> -->
                                     <img class="lazyload" data-src="images/icons/1.png" alt="">
@@ -165,7 +165,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a  class="icon_box_1 text-center">
-                            <div class="flipper">
+                            <div class="flipper fadeInLeft wow">
                                 <div class="front">
                                     <!-- <i class="mei-computer-graphic"></i> -->
                                     <img class="lazyload" data-src="images/icons/2.png" alt="">
@@ -181,7 +181,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a  class="icon_box_1 text-center">
-                            <div class="flipper">
+                            <div class="flipper fadeInLeft wow">
                                 <div class="front">
                                     <img class="lazyload" data-src="images/icons/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a  class="icon_box_1 text-center">
-                            <div class="flipper">
+                            <div class="flipper fadeInLeft wow">
                                 <div class="front">
                                     <!-- <i class="mei-development"></i> -->
                                     <img class="lazyload" data-src="images/icons/5.png" alt="">
@@ -213,7 +213,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a href="#" class="icon_box_1 text-center">
-                            <div class="flipper">
+                            <div class="flipper fadeInLeft wow">
                                 <div class="front">
                                     <!-- <i class="mei-app-development"></i> -->
                                     <img class="lazyload" data-src="images/icons/6.png" alt="">
