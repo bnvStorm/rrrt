@@ -1,9 +1,9 @@
-<?php include '../../head.php';?>
+<?php include 'https://trrr.kz/head.php';?>
          <!-- SEO -->
         <title>RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/showcase1"/>
+        <link rel="canonical" href="https://trrr.kz/pages/showcase/showcase1"/>
         <!-- SEO -->
     </head>
     <body>
@@ -19,7 +19,7 @@
         </div>
         <!-- Preloading -->
 
-        <?php include '../../menu.php';?>
+        <?php include 'https://trrr.kz/menu.php';?>
 
         <!-- Search From -->
         <div class="searchFixed popupBG">
@@ -42,7 +42,7 @@
         <!-- Search From -->
 
         <!-- PopUP Menu -->
-        <?php include '../../pmenu.php';?>
+        <?php include 'https://trrr.kz/pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
@@ -66,7 +66,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-sm-7 col-md-8">
                         <div class="portDetailThumb">
-                            <img src="../../images/portfolio/1.jpg" alt=""/>
+                            <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-5 col-md-4">
@@ -132,21 +132,21 @@
                     <div class="col-lg-12">
                         <div class="related_slider">
                             <div class="singlefolio">
-                                <img src="../../images/portfolio/1.jpg" alt=""/>
+                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
                                     <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
-                                <img src="../../images/portfolio/1.jpg" alt=""/>
+                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
                                     <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
-                                <img src="../../images/portfolio/1.jpg" alt=""/>
+                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
                                   <!--   <a class="cate" href="#">Graphic</a> -->
                                     <h4><a href="showcase1">АКМ 1</a></h4>
@@ -160,7 +160,7 @@
         <!-- Related Portfolio Section -->
 
         <!-- Footer Section -->
-<?php include '../../footer.php';?>
+<?php include 'https://trrr.kz/footer.php';?>
         <!-- Footer Section -->
     </body>
 </html>

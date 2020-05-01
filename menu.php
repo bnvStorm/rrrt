@@ -5,7 +5,7 @@
                     <div class="col-lg-2 col-sm-2 col-md-2">
                         <div class="logo">
                             <a href="/" style="color: #fff;">
-                                <img src="../../images/logo.png" alt="">
+                                <img src="https://trrr.kz/images/logo.png" alt="">
                             </a>
                         </div>
                     </div>
@@ -13,28 +13,28 @@
                         <nav class="mainmenu text-center">
                             <ul>
                                 <li class="menu-item-has-children">
-                                    <a href="/">Главная</a>
+                                    <a href="https://trrr.kz">Главная</a>
                                     <!-- <ul class="sub-menu">
                                         <li><a href="index">Home 01</a></li>
                                         <li><a href="index2">Home 02</a></li>
                                         <li><a href="index3">Home 03</a></li>
                                     </ul> -->
                                 </li>
-                                <li><a href="../../aboutus">О нас</a></li>
+                                <li><a href="https://trrr.kz/aboutus">О нас</a></li>
                                  <!--<li class="menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="services">Service</a></li>
                                         <li><a href="#">Service Detail</a></li>
                                     </ul>
                                 </li> -->
-                                  <!-- <li class="menu-item-has-children"><a href="../../news">Новости</a> -->
+                                  <!-- <li class="menu-item-has-children"><a href="https://trrr.kz/news">Новости</a> -->
                                    <!-- <ul class="sub-menu">
                                         <li><a href="showcase">showcase v1</a></li>
                                         <li><a href="showcase2">showcase v2</a></li>
                                         <li><a href="#">showcase Detail</a></li>
                                     </ul>  -->
                                 </li>
-                                <li class="menu-item-has-children"><a href="../../showcase">Витрина</a>
+                                <li class="menu-item-has-children"><a href="https://trrr.kz/showcase">Витрина</a>
                                      <!-- <ul class="sub-menu">
                                         <li><a href="blog">Blog v1</a></li>
                                         <li><a href="blog2">Blog v2</a></li>
@@ -42,7 +42,7 @@
                                         <li><a href="blog_single">Blog Single</a></li>
                                     </ul>  -->
                                 </li>
-                                <li><a href="../../dialog">Диалог</a></li>
+                                <li><a href="https://trrr.kz/dialog">Диалог</a></li>
                                 <li><a href="https://trrr.kz/contacts">Контакты</a></li>
                             </ul>
                         </nav>

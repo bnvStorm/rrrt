@@ -70,12 +70,12 @@
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="agency_img1">
-                            <img src="images/about/1.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/about/1.jpg" alt=""/>
                         </div>
                     </div>
                     <div class="col-lg-12 col-sm-12">
                         <div class="agency_img2">
-                            <img src="images/about/2.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/about/2.jpg" alt=""/>
                         </div>
                         <div class="compay_date">
                             <h5>в</h5>
@@ -98,7 +98,7 @@
                             <ul class="slider_testimoial">
                                 <li class="active control_item">
                                     <a href="#tab_1" data-toggle="tab">
-                                        <span><img src="images/home_1/t1.jpg" alt=""/></span>
+                                        <span><img class="lazyload" data-src="images/home_1/t1.jpg" alt=""/></span>
                                         <div class="author_detail">
                                             <h5>Руководитель 1</h5>
                                             <h6>Директор</h6>
@@ -107,7 +107,7 @@
                                 </li>
                                 <li class="control_item">
                                     <a href="#tab_2" data-toggle="tab">
-                                        <span><img src="images/home_1/t2.jpg" alt=""/></span>
+                                        <span><img class="lazyload" data-src="images/home_1/t2.jpg" alt=""/></span>
                                         <div class="author_detail">
                                            <h5>Руководитель 3</h5>
                                             <h6>Директор</h6>
@@ -116,7 +116,7 @@
                                 </li>
                                 <li class="control_item">
                                     <a href="#tab_3" data-toggle="tab">
-                                        <span><img src="images/home_1/t3.jpg" alt=""/></span>
+                                        <span><img class="lazyload" data-src="images/home_1/t3.jpg" alt=""/></span>
                                         <div class="author_detail">
                                            <h5>Руководитель 3</h5>
                                             <h6>Директор</h6>
@@ -171,7 +171,7 @@
             <div class="team_slider">
                 <div class="singleTM">
                     <div class="tm_img">
-                        <img src="images/team/1.jpg" alt="">
+                        <img class="lazyload" data-src="images/team/1.jpg" alt="">
                         <div class="tm_overlay">
                             <div class="team_social">
                                 <a href="#"><span>Facebook</span></a>
@@ -194,7 +194,7 @@
         <!-- Our Work Section -->
 <!--         <section class="commonSection our_work">
             <div class="videoWrap_2">
-                <img src="images/about/3.jpg" alt="">
+                <img class="lazyload" data-src="images/about/3.jpg" alt="">
                 <div class="play_video">
                     <a class="video_popup" href="https://www.youtube.com/watch?v=A7ZkZazfvao"><i class="fa fa-play"></i></a>
                     <h2>Watch Video</h2>
@@ -263,14 +263,14 @@
                                 </div>
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img src="images/home_1/c1.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/home_1/c1.jpg" alt=""/>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade in active" id="tes_tab_2">
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img src="images/home_1/c2.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/home_1/c2.jpg" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-sm-7 col-md-7">
@@ -307,7 +307,7 @@
                                 </div>
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img src="images/home_1/c3.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/home_1/c3.jpg" alt=""/>
                                     </div>
                                 </div>
                             </div>
