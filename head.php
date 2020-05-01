@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html lang="ru">
 <head>
+  <style>.preloader{
+    display: none;
+  }</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
