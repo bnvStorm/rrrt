@@ -53,7 +53,7 @@
                         <!-- MINIMUM SLIDE STRUCTURE -->
                         <li data-transition="random" data-masterspeed="1000">
                             <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
-                            <img class="lazyload" data-src="images/slider/1_1.jpg" alt="Sky" class="rev-slidebg">
+                            <img src="images/slider/1_1.jpg" alt="Sky" class="rev-slidebg">
                                  <div class="rs-background-video-layer"
                                        data-aspectratio="4:3"
                                        data-autoplay="true"

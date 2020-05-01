@@ -78,7 +78,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/1.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
                                 <h4>АКБ свинцово-гелевые</h4>
@@ -89,7 +89,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/2.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
                                 <h4>Масло фритюрное</h4>
@@ -100,7 +100,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/3.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
                                 <h4>АКБ свинцово-кислотные</h4>
@@ -111,7 +111,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/4.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>Макулатура</h4>
@@ -122,7 +122,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/5.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
                                 <a class="cate"> ( прозрачная и цветная)</a>
                                 <h4>полиэтиленовая пленка </h4>
@@ -133,7 +133,7 @@
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/6.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>Картон</h4>
@@ -144,7 +144,7 @@
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red">
-                            <img src="images/portfolio/7.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/7.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>Масло отработанное</h4>
@@ -155,7 +155,7 @@
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio ylw">
-                            <img src="images/portfolio/8.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>стрэйч пленка</h4>
@@ -166,7 +166,7 @@
                               <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio purple">
-                            <img src="images/portfolio/9.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/9.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>ПНД канистры</h4>
@@ -177,7 +177,7 @@
                               <div class="col-lg-12 col-sm-12 col-md-12">
                         <a href="pages/showcase/showcase1">
                         <div class="singlefolio red all-window-red">
-                            <img src="images/portfolio/10.jpg" alt=""/>
+                            <img class="lazyload" data-src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
                                 <h4>ПЭТ тара</h4>

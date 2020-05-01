@@ -135,13 +135,13 @@
                       <!-- Содержимое 3 панели -->
                       <div class="panel-body">
                         <p>Михайловский рынок: <a href="tel:+7 708 439 54 00">+7 708 439 54 00</a>  <br>
-                            <img src="images/map/mih.jpg" alt=""> <br>
+                            <img class="lazyload" data-src="images/map/mih.jpg" alt=""> <br>
                             Рынок Kazameta: <a href="tel:+7 708 439 74 20">+7 708 439 74 20</a>  <br>
-                            <img src="images/map/kzmet.jpg" alt=""> <br>
-                            Рынок Буратино (Пришахтинск): <a href="tel:+7 708 439 84 64">+7 708 439 84 64</a> <br><img src="images/map/prishah.jpg" alt=""> <br>
-                            Супермаркет Ёжик (Пришахтинск): <a href="tel:+7 708 439 87 34">+7 708 439 87 34</a> <br><img src="images/map/ezhik.jpg" alt=""> <br>
+                            <img class="lazyload" data-src="images/map/kzmet.jpg" alt=""> <br>
+                            Рынок Буратино (Пришахтинск): <a href="tel:+7 708 439 84 64">+7 708 439 84 64</a> <br><img class="lazyload" data-src="images/map/prishah.jpg" alt=""> <br>
+                            Супермаркет Ёжик (Пришахтинск): <a href="tel:+7 708 439 87 34">+7 708 439 87 34</a> <br><img class="lazyload" data-src="images/map/ezhik.jpg" alt=""> <br>
                             улица Механическая, строение 1/1: <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a> <br>
-                            <img src="images/map/mech.jpg" alt=""> <br>
+                            <img class="lazyload" data-src="images/map/mech.jpg" alt=""> <br>
                             <br>
                             В ближайшее время будут установлены еще несколько пунктов приема по городу. Заходите на наш сайт чаще и будьте в курсе всех событий.
                 Обязательно созвонитесь с сотрудником пункта предварительно и задайте все интересующие вас вопросы. <br>
