@@ -52,20 +52,9 @@
 <meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
 <meta property="twitter:image" content="">
 <!-- Include All CSS here-->
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/bootstrap.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/owl.carousel.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/owl.theme.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/font-awesome.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/animate.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/magnific-popup.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/settings.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/slick.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/icons.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/preset.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/theme.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/responsive.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/presets/color1.css" id="colorChange"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/site.addons.css">
+<link rel="stylesheet" type="text/css" href="/css/libs.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/site.addons.css"/>
+
 <!-- End Include All CSS -->
 <!-- Favicon Icon -->
 <link rel="icon"  type="image/png" href="https://trrr.kz/images/favicon.png">

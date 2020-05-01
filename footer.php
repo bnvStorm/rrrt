@@ -47,32 +47,7 @@
         <!-- Bact To To -->
 
         <!-- Include All JS -->
-        <script src="https://trrr.kz/js/jquery.js"></script>
-        <script src="https://trrr.kz/js/bootstrap.min.js"></script>
-        <script src="https://trrr.kz/js/modernizr.custom.js"></script>
-        <script src="https://trrr.kz/js/gmaps.js"></script>
-        <script src="https://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-        <script src="https://trrr.kz/js/jquery.themepunch.revolution.min.js"></script>
-        <script src="https://trrr.kz/js/jquery.themepunch.tools.min.js"></script>
-        <!-- Rev slider Add on Start -->
-        <script src="https://trrr.kz/js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.carousel.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="https://trrr.kz/js/extensions/revolution.extension.video.min.js"></script>
-        <!-- Rev slider Add on End -->
-        <script src="https://trrr.kz/js/dlmenu.js"></script>
-        <script src="https://trrr.kz/js/jquery.magnific-popup.js"></script>
-        <script src="https://trrr.kz/js/mixer.js"></script>
-        <script src="https://trrr.kz/js/jquery.easing.1.3.js"></script>
-        <script src="https://trrr.kz/js/owl.carousel.js"></script>
-        <script src="https://trrr.kz/js/slick.js"></script>
-        <script src="https://trrr.kz/js/jquery.appear.js"></script>
-        <script src="https://trrr.kz/js/theme.js"></script>
+        <script src="/js/libs.min.js"></script>
         <!-- Include All JS -->
 
 
