@@ -165,7 +165,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a  class="icon_box_1 text-center">
-                            <div class="flipper fadeInLeft wow">
+                            <div class="flipper fadeInRight wow">
                                 <div class="front">
                                     <!-- <i class="mei-computer-graphic"></i> -->
                                     <img class="lazyload" data-src="images/icons/2.png" alt="">
@@ -197,7 +197,7 @@
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3">
                         <a  class="icon_box_1 text-center">
-                            <div class="flipper fadeInLeft wow">
+                            <div class="flipper fadeInRight wow">
                                 <div class="front">
                                     <!-- <i class="mei-development"></i> -->
                                     <img class="lazyload" data-src="images/icons/5.png" alt="">
@@ -237,9 +237,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-md-6 PR_79">
-                        <h4 class="sub_title">тут может быть</h4>
-                        <h2 class="sec_title MB_45">О компании</h2>
-                        <p class="sec_desc">
+                        <h4 class="sub_title wow zoomIn">тут может быть</h4>
+                        <h2 class="sec_title MB_45 wow zoomIn">О компании</h2>
+                        <p class="sec_desc wow fadeInUp">
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
@@ -255,10 +255,10 @@
                         <a class="common_btn red_bg" href="about" data-toggle="modal" data-target="#myModal"><span>Подробнее</span></a>
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
-                        <div class="ab_img1">
+                        <div class="ab_img1 wow fadeInLeft">
                             <img class="lazyload" data-src="images/home_1/2.jpg" alt=""/>
                         </div>
-                        <div class="ab_img2">
+                        <div class="ab_img2 wow fadeInRight">
                             <img class="lazyload" data-src="images/home_1/1.jpg" alt=""/>
                         </div>
                     </div>
@@ -299,8 +299,8 @@
             <div class="container container__showcase">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Виды</h4>
-                        <h2 class="sec_title">покупаемого сырья</h2>
+                        <h4 class="sub_title wow zoomIn">Виды</h4>
+                        <h2 class="sec_title wow zoomIn">покупаемого сырья</h2>
                    <!--      <p class="sec_desc">
                             Картинки,много картинок
                         </p> -->
@@ -309,7 +309,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio red">
+                        <div class="singlefolio wow fadeInLeft red">
                             <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПЭТ тара</a> -->
@@ -320,7 +320,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio ylw">
+                        <div class="singlefolio wow fadeInRight ylw">
                             <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
@@ -331,7 +331,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio purple">
+                        <div class="singlefolio wow fadeInLeft purple">
                             <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">ПНД канистры</a> -->
@@ -342,7 +342,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio red">
+                        <div class="singlefolio wow fadeInRight red">
                             <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
@@ -353,7 +353,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio ylw">
+                        <div class="singlefolio wow fadeInLeft ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
                                 <a class="cate"> ( прозрачная и цветная)</a>
@@ -364,7 +364,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
                         <a href="pages/showcase/showcase1">
-                        <div class="singlefolio purple">
+                        <div class="singlefolio wow fadeInRight purple">
                             <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
@@ -703,8 +703,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Свяжитесь с нами</h4>
-                        <h2 class="sec_title">Напишите или позвоните</h2>
+                        <h4 class="sub_title wow zoomIn">Свяжитесь с нами</h4>
+                        <h2 class="sec_title wow zoomIn">Напишите или позвоните</h2>
                         <!-- <p class="sec_desc">
                             We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
                         </p> -->
@@ -712,7 +712,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2 col-sm-12 col-md-10 col-md-offset-1">
-                        <form action="#" method="post" class="contactFrom" id="contactForm">
+                        <form action="#" method="post" class="contactFrom wow fadeInUpBig" id="contactForm">
                             <div class="row">
                                 <div class="col-lg-6 col-sm-6">
                                     <input class="input-form required" type="text" name="f_name" id="f_name" placeholder="Имя">
