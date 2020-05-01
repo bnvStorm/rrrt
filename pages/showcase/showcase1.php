@@ -1,4 +1,4 @@
-<?php include 'https://trrr.kz/head.php';?>
+<?php include '../../head.php';?>
          <!-- SEO -->
         <title>RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
@@ -19,7 +19,7 @@
         </div>
         <!-- Preloading -->
 
-        <?php include 'https://trrr.kz/menu.php';?>
+        <?php include '../../menu.php';?>
 
         <!-- Search From -->
         <div class="searchFixed popupBG">
@@ -42,7 +42,7 @@
         <!-- Search From -->
 
         <!-- PopUP Menu -->
-        <?php include 'https://trrr.kz/pmenu.php';?>
+        <?php include '../../pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Page Banner -->
@@ -160,7 +160,7 @@
         <!-- Related Portfolio Section -->
 
         <!-- Footer Section -->
-<?php include 'https://trrr.kz/footer.php';?>
+<?php include '../../footer.php';?>
         <!-- Footer Section -->
     </body>
 </html>
