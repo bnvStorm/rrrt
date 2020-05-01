@@ -27,4 +27,4 @@
 <!-- End Include All CSS -->
 <!-- Favicon Icon -->
 <link rel="icon"  type="image/png" href="https://trrr.kz/images/favicon.png">
-<!-- <script src="https://trrr.kz/js/lazy.js" async=""></script> -->
+<script src="https://trrr.kz/js/lazy.js" async=""></script>

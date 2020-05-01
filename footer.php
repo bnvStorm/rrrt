@@ -48,9 +48,6 @@
 
         <!-- Include All JS -->
         <script src="/js/libs.min.js"></script>
-        <script>
-        new WOW().init();
-        </script>
         <!-- Include All JS -->
         <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-164363587-2"></script>
