@@ -277,15 +277,15 @@
         </div>
                 </section>
                        <!-- Contact Section -->
-        <section class="commonSection ContactPage" id="ContactPage">
+              <section class="commonSection ContactPage" id="ContactPage">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Свяжитесь с нами</h4>
-                        <h2 class="sec_title">Напишите или позвоните</h2>
-                        <!-- <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p> -->
+                        <h4 class="sub_title">Свяжитесь с нами!</h4>
+                        <h2 class="sec_title">Напишите или позвоните:</h2>
+                        <h3 class="sec_title">
+                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                        </h3><br>
                     </div>
                 </div>
                 <div class="row">
@@ -309,6 +309,10 @@
                                 </div>
                             </div>
                             <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
+                            <br><br>
+                            <p class="sec_desc">
+                                Или заполните форму справа. Ответ придет быстрее!
+                            </p>
                         </form>
                     </div>
                 </div>

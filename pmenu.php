@@ -7,7 +7,7 @@
                         <div class="logo2">
                             <a href="https://trrr.kz">
                                 <!-- <img src="images/logo.png" alt=""> -->
-                                Логотип
+                                <!-- Логотип -->
                             </a>
                         </div>
                     </div>
