@@ -52,7 +52,7 @@
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                            <!--  <h4><a href="#">Контакты</a></h4> -->
-                            <h2>Свяжитесь с нами</h2>
+                            <h4>Центральный офис компании находится по адресу: <br> 100019, Караганда, улица Механическая, строение 1/1</h4>
                         </div>
                     </div>
                 </div>
@@ -87,6 +87,9 @@
                     </div>
                 </div> -->
                <div class="row">
+                <p class="sec_desc" style="text-align: center;">
+                    Телефоны официальных представителей компании в городах Казахстана:
+                </p>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
                         <div class="singleClient_2">
                             <h3>Нур-Султан</h3>
@@ -129,6 +132,13 @@
                         </div>
                     </div>
                 </div>
+                    <p class="sec_desc" style="text-align: center;">
+                    Центральный офис компании находится в Караганде по адресу: 100019, Караганда, улица Механическая, строение 1/1
+                    <br>
+                    Время работы офиса: с 09.00 до 18.00, обед с 13.00 до 14.00
+                    <br>
+                    Выходной: суббота, воскресение.
+                </p>
             </div>
         </section>
         <!-- Button trigger modal -->
@@ -137,11 +147,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Свяжитесь с нами</h4>
-                        <h2 class="sec_title">Напишите или позвоните</h2>
-                        <p class="sec_desc">
-                            Самый быстрый способ связаться с нами<br> это позвонить по указанным номерам
-                        </p>
+                        <h4 class="sub_title">Свяжитесь с нами!</h4>
+                        <h2 class="sec_title">Напишите или позвоните:</h2>
+                        <h3 class="sec_title">
+                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                        </h3><br>
                     </div>
                 </div>
                 <div class="row">
@@ -165,6 +175,10 @@
                                 </div>
                             </div>
                             <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
+                            <br><br>
+                            <p class="sec_desc">
+                                Или заполните форму справа. Ответ придет быстрее!
+                            </p>
                         </form>
                     </div>
                 </div>

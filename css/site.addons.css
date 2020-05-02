@@ -1,6 +1,20 @@
 .search {
     display: none !important;
 }
+.header_01{
+    padding: 10px;
+}
+.header_01 .row{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: center;
+}
+.logo,.mainmenu ul li,.navigator{
+    padding-bottom:  10px;
+}
 .pageBanner {
     background: none;
     min-height: 210px;
@@ -31,7 +45,7 @@
     font-size: 35px;
 }
 .logo img{
-    max-width: 80px;
+    max-width: 120px;
 }
 a:focus{
     color: #E62B4A;
@@ -181,11 +195,22 @@ a:focus{
 .all-window-red img{
     max-width: 100%;
 }
+.singlefolio .folioHover h4{
+    font-size: 18px;
+}
+.singlefolio:hover .folioHover{
+        left: 20px;
+}
+.ylw .folioHover h4,.ylw .folioHover a.cate{
+    color: #000;
+}
 @media(max-width:960px) {
     .singleClient_fix{
          width: 50%;
     }
-   
+   .logo img{
+    max-width: 80px;
+}
 }
 @media(max-width:480px) {
     .singleClient_fix{

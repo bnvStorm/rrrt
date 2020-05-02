@@ -22,7 +22,7 @@
 <meta property="twitter:image" content="">
 <!-- Include All CSS here-->
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/libs.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://trrr.kz/css/site.addons.css"/>
+<link rel="stylesheet" type="text/css" href="../css/site.addons.css"/>
 
 <!-- End Include All CSS -->
 <!-- Favicon Icon -->

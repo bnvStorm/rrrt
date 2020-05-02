@@ -54,7 +54,7 @@
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                             <!-- <h4>home</a> - portfolio</h4> -->
-                            <h2>Витрина продукции</h2>
+                            <h2>Витрина</h2>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
             <div class="container container__showcase">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Виды</h4>
-                        <h2 class="sec_title">покупаемого сырья</h2>
+                        <h4 class="sub_title">Виды вторичного сырья,</h4>
+                        <h2 class="sec_title">с которыми работает наша компания</h2>
                    <!--      <p class="sec_desc">
                             Картинки,много картинок
                         </p> -->
@@ -124,8 +124,8 @@
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
-                                <a class="cate"> ( прозрачная и цветная)</a>
-                                <h4>полиэтиленовая пленка </h4>
+                                <a class="cate">полиэтиленовая пленка</a>
+                                <h4>прозрачная и цветная</h4>
                             </div>
                         </div>
                         </a>
@@ -158,7 +158,7 @@
                             <img class="lazyload" data-src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4>стрэйч пленка</h4>
+                                <h4>стрэйч-пленка</h4>
                             </div>
                         </div>
                         </a>
@@ -169,7 +169,7 @@
                             <img class="lazyload" data-src="images/portfolio/9.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4>ПНД канистры</h4>
+                                <h4>ПНД-канистры</h4>
                             </div>
                         </div>
                         </a>
@@ -180,7 +180,7 @@
                             <img class="lazyload" data-src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
                                 <!-- <a class="cate" href="#">Картинки</a> -->
-                                <h4>ПЭТ тара</h4>
+                                <h4>ПЭТ-тара</h4>
                             </div>
                         </div>
                         </a>

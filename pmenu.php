@@ -31,7 +31,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-xs-12 text-left">
                         <ul class="footer__contacts text-left">
-                            <li>Телефон: <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a></li>
+                            <li>Телефон: <a href="tel:+7 708 439 87 54" style="color:#fff;">+7 708 439 87 54</a></li>
                             <li>Email: vs@qwmo.net</li>
                             <li>Адрес: 100019, Республика Казахстан, Карагандинская область, г. Караганда, ул. Механическая, строение 1/1</li>
                         </ul>

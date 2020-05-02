@@ -21,28 +21,8 @@
 
         <?php include 'menu.php';?>
 
-        <!-- Search From -->
-<!--         <div class="searchFixed popupBG">
-            <div class="container-fluid">
-                <a href="" id="sfCloser" class="sfCloser"></a>
-                <div class="searchForms">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 col-lg-offset-2">
-                                <form method="post" action="#">
-                                    <input type="text" name="s" class="searchField" placeholder="Search here..."/>
-                                    <button type="submit"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- Search From -->
-
         <!-- PopUP Menu -->
-<?php include 'pmenu.php';?>
+        <?php include 'pmenu.php';?>
         <!-- PopUP Menu -->
 
         <!-- Revolution Slider -->
@@ -69,7 +49,7 @@
                                        data-volume="mute">
                                 
                                        </div>
-                            <div class="tp-caption tp-resizeme normalWraping layer_1" 
+                            <!-- <div class="tp-caption tp-resizeme normalWraping layer_1" 
 
                                  data-frames='[{"delay":1300,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
                                  {"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
@@ -87,7 +67,7 @@
                                  data-letterspacing="2"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >Товарищество с ограниченной ответственностью </div>
+                                 >Товарищество с ограниченной ответственностью </div> -->
                             <div class="tp-caption tp-resizeme normalWraping layer_2" 
 
                                  data-frames='[{"delay":1600,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -108,7 +88,7 @@
                                  data-letterspacing="['4.4', '4.4', '2', '1', '1']"
                                  data-color="#FFF"
                                  data-textAlign="center"
-                                 >«RRR Technology»</div>
+                                 >Инновации <br> в сфере сбора и<br> переработки <br> вторичного сырья</div>
                        <!--      <div class="tp-caption tp-resizeme normalWraping layer_3"
 
                                  data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},
@@ -139,8 +119,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="sub_title red_color">Мы специализируемся</h2>
-                        <h4 class="sec_title white">на</h4>
+                        <h2 class="sub_title red_color">Наша деятельность</h2>
+                       <!--  <h4 class="sec_title white">на</h4> -->
                  <!--        <p class="sec_desc color_aaa">
                             и тут тоже
                         </p> -->
@@ -169,12 +149,12 @@
                                 <div class="front">
                                     <!-- <i class="mei-computer-graphic"></i> -->
                                     <img class="lazyload" data-src="images/icons/2.png" alt="">
-                                    <h3>Моментальные выплаты</h3>
+                                    <h3>Моментальные выплаты <br> наличными или на карту банка</h3>
                                 </div>
                                 <div class="back">
                                     <!-- <i class="mei-computer-graphic"></i> -->
                                     <img class="lazyload" data-src="images/icons/blck/2.png" alt="">
-                                    <h3>Моментальные выплаты</h3>
+                                    <h3>Моментальные выплаты <br> наличными или на карту банка</h3>
                                 </div>
                             </div>
                         </a>
@@ -185,12 +165,12 @@
                                 <div class="front">
                                     <img class="lazyload" data-src="images/icons/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
-                                    <h3>работа с физическими и юридическими лицами</h3>
+                                    <h3>Работаем с физическими и юридическими лицами</h3>
                                 </div>
                                 <div class="back">
                                     <img class="lazyload" data-src="images/icons/blck/3.png" alt="">
                                     <!-- <i class="mei-development-1"></i> -->
-                                    <h3>работа с физическими и юридическими лицами</h3>
+                                    <h3>Работаем с физическими и юридическими лицами</h3>
                                 </div>
                             </div>
                         </a>
@@ -252,7 +232,7 @@
                            тут может быть очень много вашего текста (серьезно)
                            тут может быть очень много вашего текста (серьезно)
                         </p>
-                        <a class="common_btn red_bg" href="about" data-toggle="modal" data-target="#myModal"><span>Подробнее</span></a>
+                        <!-- <a class="common_btn red_bg" href="about" data-toggle="modal" data-target="#myModal"><span>Подробнее</span></a> -->
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="ab_img1">
@@ -299,8 +279,8 @@
             <div class="container container__showcase">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Виды</h4>
-                        <h2 class="sec_title">покупаемого сырья</h2>
+                        <h4 class="sub_title">Виды вторичного сырья,</h4>
+                        <h2 class="sec_title">с которыми работает наша компания</h2>
                    <!--      <p class="sec_desc">
                             Картинки,много картинок
                         </p> -->
@@ -356,8 +336,8 @@
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
-                                <a class="cate"> ( прозрачная и цветная)</a>
-                                <h4>полиэтиленовая пленка </h4>
+                                <a class="cate">полиэтиленовая пленка </a>
+                                <h4>прозрачная и цветная</h4>
                             </div>
                         </div>
                         </a>
@@ -703,11 +683,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Свяжитесь с нами</h4>
-                        <h2 class="sec_title">Напишите или позвоните</h2>
-                        <!-- <p class="sec_desc">
-                            We are committed to providing our customers with exceptional service while<br> offering our employees the best training.
-                        </p> -->
+                        <h4 class="sub_title">Свяжитесь с нами!</h4>
+                        <h2 class="sec_title">Напишите или позвоните:</h2>
+                        <h3 class="sec_title">
+                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                        </h3><br>
                     </div>
                 </div>
                 <div class="row">
@@ -731,6 +711,10 @@
                                 </div>
                             </div>
                             <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
+                            <br><br>
+                            <p class="sec_desc">
+                                Или заполните форму справа. Ответ придет быстрее!
+                            </p>
                         </form>
                     </div>
                 </div>
@@ -790,6 +774,13 @@
                         </div>
                     </div>
                 </div>
+                <p class="sec_desc" style="text-align: center;">
+                    Центральный офис компании находится в Караганде по адресу: 100019, Караганда, улица Механическая, строение 1/1
+                    <br>
+                    Время работы офиса: с 09.00 до 18.00, обед с 13.00 до 14.00
+                    <br>
+                    Выходной: суббота, воскресение.
+                </p>
             </div>
         </section>
         <!-- Button trigger modal -->

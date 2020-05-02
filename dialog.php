@@ -47,12 +47,12 @@
 
         <!-- Page Banner -->
         <section class="pageBanner dialog_bg">
-            <div class="container">
+            <div class="container" style="padding-bottom: 15px;">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                           <!--   <h4><a href="#">Диалог</a></h4> -->
-                            <h2>Задавайте вопросы!</h2>
+                            <h2>Отвечаем на ваши вопросы:</h2>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                 <section class="commonSection qasec">
                     <div class="container">
                         <div class="row">
-                          <div class="sec_title"> Вопрос - ответ </div> 
+                          <!-- <div class="sec_title"> Вопрос - ответ </div>  -->
                 
                 <div class="panel-group" id="accordion">
                   <!-- 1 панель -->
