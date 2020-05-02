@@ -119,7 +119,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="sub_title red_color">Наша деятельность</h2>
+                        <h2 class="sub_title red_color" style="margin-bottom: 20px;">Наша деятельность</h2>
                        <!--  <h4 class="sec_title white">на</h4> -->
                  <!--        <p class="sec_desc color_aaa">
                             и тут тоже
