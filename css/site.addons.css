@@ -219,6 +219,9 @@ a:focus{
    .sub_title{
     font-size: 25px;
 }
+.tp-caption{
+    margin-top: 235px;
+}
 }
 @media (max-width: 767px){
 .navigator {
