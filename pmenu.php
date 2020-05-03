@@ -39,8 +39,8 @@
                     <div class="col-lg-6 col-sm-6 col-xs-12 col-xs-12">
                         <div class="popUp_social text-right">
                             <ul>
-                                <!-- <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li> -->
+                                <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
+                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
                                 <!-- <li><a href="#"><i class="fa fa-youtube-play"></i>Youtube</a></li> -->
                             </ul>
                         </div>

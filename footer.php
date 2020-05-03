@@ -39,6 +39,16 @@
                             © RRR technology 2020
                         </div>
                     </div>
+                           <div class="col-lg-12 col-sm-12 col-md-12">
+                        <aside class="widget social_widget">
+                            <h3 class="widget_title">Соц.сети</h3>
+                            <ul>
+                                <li><a href="#"><i class="fa fa-instagram"></i>Instagram</a></li>
+                                <li><a href="#"><i class="fa fa-facebook-square"></i>Facebook</a></li>
+                    
+                            </ul>
+                        </aside>
+                    </div>
                 </div>
             </div>
         </footer>
