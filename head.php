@@ -14,6 +14,10 @@
 <meta property="og:title" content="TRRR Technology">
 <meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
 <meta property="og:image" content="">
+<meta property="og:site_name" content="RRRb Technology">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504">
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://trrr.kz/">
