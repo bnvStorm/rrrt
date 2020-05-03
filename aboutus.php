@@ -18,29 +18,7 @@
             </div>
         </div>
         <!-- Preloading -->
-        <?php include 'menu.php';?>
-
-        <!-- Search From -->
-<!--         <div class="searchFixed popupBG">
-            <div class="container-fluid">
-                <a href="" id="sfCloser" class="sfCloser"></a>
-                <div class="searchForms">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-8 col-lg-offset-2">
-                                <form method="post" action="#">
-                                    <input type="text" name="s" class="searchField" placeholder="Search here..."/>
-                                    <button type="submit"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- Search From -->
-
-        
+        <?php include 'menu.php';?>      
         <!-- PopUP Menu -->
         <?php include 'pmenu.php';?>
         <!-- PopUP Menu -->
@@ -64,25 +42,14 @@
         <section class="commonSection">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-sm-6 col-md-6">
-                        <h4 class="sub_title">Наша компания</h4>
-                        <h2 class="sec_title">была создана</h2>
-                    </div>
-                    <div class="col-lg-6 col-sm-6 col-md-6">
-                        <div class="agency_img1">
-                            <img class="lazyload" data-src="images/about/1.jpg" alt=""/>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-sm-12">
-                        <div class="agency_img2">
-                            <img class="lazyload" data-src="images/about/2.jpg" alt=""/>
-                        </div>
-                        <div class="compay_date">
-                            <h5>в</h5>
-                            <h2>1990 году</h2>
-                        </div>
-                    </div>
-                </div>
+                <p>
+                    Наша компания вышла на рынок вторичного сырья в 2018 году. В своем активе имеем собственные производственные и складские помещения, в которых работает команда специалистов по переработке, прессованию и отгрузке продукции потребителям.
+Пилотный проект по сбору вторичного сырья у физических лиц реализуется пока в Караганде (сеть приемных пунктов). Но в будущем планируется уже отлаженный механизм внедрить и в других городах Казахстана.
+Компания активно работает с представителями малого и среднего бизнеса, начиная от магазинов шаговой доступности, ресторанов и автомастерских до производственных предприятий. В год компания отрабатывает более 200 долгосрочных договоров, счет исполнения разовых заявок переваливает за тысячу.
+Крепкие деловые связи с предприятиями, которым необходимо вторичное сырье, доказывает, что этот рынок нуждается в многократном увеличении товарных потоков. Наша компания – молодая, но сделано уже немало! 
+Готовы к рассмотрению любых ваших предложений. Спокойно реагируем на замечания и критику, следуем пожеланиям партнеров, развиваем гибкую политику в отношении наших клиентов.
+
+                </p>
             </div>
         </section>
         <!-- Agency Section -->
@@ -130,19 +97,19 @@
                             <div class="tab-content clearfix">
                                 <div class="tab-pane fade in active testi_con" id="tab_1">
                                     <p>
-                                        О руководителе
+                                        Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
                                     <span>25 нояб, 2020</span>
                                 </div>
                                 <div class="tab-pane fade testi_con" id="tab_2">
                                             <p>
-                                        О руководителе 2
+                                       Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
                                     <span>25 нояб, 2020</span>
                                 </div>
                                 <div class="tab-pane fade testi_con" id="tab_3">
                                            <p>
-                                        О руководителе 3
+                                       Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
                                     <span>25 нояб, 2020</span>
                                 </div>
@@ -154,71 +121,6 @@
             </div>
         </section>
         <!-- Testimonial 2 Section -->
-
-        <!-- Team Section -->
- <!--        <section class="commonSection team">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 text-center">
-                        <h4 class="sub_title">Наша команда</h4>
-                        <h2 class="sec_title">профессионалы в своем деле</h2>
-                        <p class="sec_desc">
-                            Описание
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="team_slider">
-                <div class="singleTM">
-                    <div class="tm_img">
-                        <img class="lazyload" data-src="images/team/1.jpg" alt="">
-                        <div class="tm_overlay">
-                            <div class="team_social">
-                                <a href="#"><span>Facebook</span></a>
-                                <a href="#"><span>Twitter</span></a>
-                                <a href="#"><span>Youtube</span></a>
-                            </div> 
-                            <a href="#" class="common_btn"><span>learn more</span></a> 
-                        </div>
-                    </div>
-                    <div class="detail_TM">
-                        <h5>Человек 1</h5>
-                        <h6>должность</h6>
-                    </div>
-                </div>
-           
-        
-        </section> -->
-        <!-- Team Section -->
-
-        <!-- Our Work Section -->
-<!--         <section class="commonSection our_work">
-            <div class="videoWrap_2">
-                <img class="lazyload" data-src="images/about/3.jpg" alt="">
-                <div class="play_video">
-                    <a class="video_popup" href="https://www.youtube.com/watch?v=A7ZkZazfvao"><i class="fa fa-play"></i></a>
-                    <h2>Watch Video</h2>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-sm-6">
-                    </div>
-                    <div class="col-lg-6 col-sm-6">
-                        <div class="ab_detail_wrap">
-                            <h4 class="sub_title">the only design you need</h4>
-                            <h2 class="sec_title">Make amazing websites without touching cod</h2>
-                            <p class="sec_desc">
-                                Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices, 
-                                dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum
-                                dolors sit amet elit magnis amet ultrices purus aliquet.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
-        <!-- Our Work Section -->
 
         <!-- Why Choose Section -->
         <section class="commonSection chooseUs">
@@ -263,14 +165,14 @@
                                 </div>
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img class="lazyload" data-src="images/home_1/c1.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/about/2.jpg" alt=""/>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade in active" id="tes_tab_2">
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img class="lazyload" data-src="images/home_1/c2.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/about/3.jpg" alt=""/>
                                     </div>
                                 </div>
                                 <div class="col-lg-7 col-sm-7 col-md-7">
@@ -307,7 +209,7 @@
                                 </div>
                                 <div class="col-lg-5 col-sm-5 col-md-5">
                                     <div class="chose_img">
-                                        <img class="lazyload" data-src="images/home_1/c3.jpg" alt=""/>
+                                        <img class="lazyload" data-src="images/about/1.jpg" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -323,7 +225,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-9 col-sm-8 col-md-9">
-                        <h2 class="sec_title white">Приглашаем к сотрудничеству! Хватит терять деньги!</h2>
+                        <h2 class="sec_title white">Приглашаем к сотрудничеству! <br> Хватит терять деньги!</h2>
                     </div>
                     <div class="col-lg-3 col-sm-4 col-md-3 text-right">
                         <a class="common_btn" href="contacts"><span>Контакты</span></a>

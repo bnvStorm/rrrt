@@ -61,15 +61,15 @@
         <!-- Page Banner -->
 
         <!-- Portfolio Detail Section -->
-        <section class="commonSection porfolioDetail">
+        <section class="showcase-page commonSection porfolioDetail">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8 col-sm-7 col-md-8">
+                    <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="portDetailThumb">
                             <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-5 col-md-4">
+                    <div class="col-lg-6 col-sm-6 col-md-6">
                         <div class="singlePortfoio_content">
                             <h3>Описание</h3>
                             <p>
@@ -117,7 +117,7 @@
         <!-- Portfolio Detail Section -->
 
         <!-- Related Portfolio Section -->
-        <section class="commonSection relatedPortfolio">
+        <section class="commonSection relatedPortfolio" style="margin-bottom: 100px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -134,21 +134,21 @@
                             <div class="singlefolio">
                                 <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
-                                  <!--   <a class="cate" href="#">Graphic</a> -->
+                              
                                     <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
                                 <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
-                                  <!--   <a class="cate" href="#">Graphic</a> -->
+                               
                                     <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>
                                    <div class="singlefolio">
                                 <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
                                 <div class="folioHover">
-                                  <!--   <a class="cate" href="#">Graphic</a> -->
+                                
                                     <h4><a href="showcase1">АКМ 1</a></h4>
                                 </div>
                             </div>

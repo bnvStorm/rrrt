@@ -133,6 +133,9 @@ a:focus{
     height: 150px;
 }
 /*showcase*/
+/*.showcase-page{
+    height: 100vh;
+}*/
 .container__showcase{
     width: 100%;
     max-width: 960px;
