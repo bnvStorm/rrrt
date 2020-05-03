@@ -6,13 +6,13 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $msg = $_POST['message'];
 
-$to = 'layerdrops@gmail.com';
+$to = 'vsa@qwmo.net';
 $subject = 'Meipaly User Query';
 
-$message = '<strong>Name : </strong>'.$f_name.' '. $l_name .'<br/><br/>';
+$message = '<strong>Имя : </strong>'.$f_name.' '. $l_name .'<br/><br/>';
 $message .= '<strong>Email : </strong>'.$email.'<br/><br/>';
 if($phone != ''):
-    $message .= '<strong>Phone : </strong>'.$phone.'<br/><br/>';
+    $message .= '<strong>Телефон : </strong>'.$phone.'<br/><br/>';
 endif;
 
 $message .= '<br/>'.$msg.'<br/>';

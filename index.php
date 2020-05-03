@@ -217,7 +217,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-sm-6 col-md-6 PR_79">
-                        <h4 class="sub_title">О компании</h4>
+                        <!-- <h4 class="sub_title">О компании</h4> -->
                      <!--    <h2 class="sec_title MB_45">О компании</h2> -->
                         <p class="sec_desc">
                       ТОО «RRR Technology» представляет на рынке Казахстана инновационную технологию замкнутого цикла на рынке вторичного сырья.
@@ -282,7 +282,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
@@ -293,7 +293,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
@@ -304,7 +304,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
@@ -315,7 +315,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
@@ -326,7 +326,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
@@ -337,7 +337,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="pages/showcase/showcase1">
+                        <a href="#">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
@@ -706,7 +706,7 @@
                             </div>
                             <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
                             <br><br>
-                            <p class="sec_desc">
+                            <p class="sec_desc sec_desc-big">
                                 Или заполните форму справа. Ответ придет быстрее!
                             </p>
                         </form>

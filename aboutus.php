@@ -99,19 +99,19 @@
                                     <p>
                                         Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
-                                    <span>25 нояб, 2020</span>
+                                   <!--  <span>25 нояб, 2020</span> -->
                                 </div>
                                 <div class="tab-pane fade testi_con" id="tab_2">
                                             <p>
                                        Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
-                                    <span>25 нояб, 2020</span>
+                                  <!--   <span>25 нояб, 2020</span> -->
                                 </div>
                                 <div class="tab-pane fade testi_con" id="tab_3">
                                            <p>
                                        Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
                                     </p>
-                                    <span>25 нояб, 2020</span>
+                                    <!-- <span>25 нояб, 2020</span> -->
                                 </div>
                                 
                             </div>
@@ -219,7 +219,47 @@
             </div>
         </section>
         <!-- Why Choose Section -->
-
+        <section class="commonSection ContactPage" id="ContactPage">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h4 class="sub_title">Свяжитесь с нами!</h4>
+                        <h2 class="sec_title">Напишите или позвоните:</h2>
+                        <h3 class="sec_title">
+                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                        </h3><br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-sm-12 col-md-10 col-md-offset-1">
+                        <form action="#" method="post" class="contactFrom" id="contactForm">
+                            <div class="row">
+                                <div class="col-lg-6 col-sm-6">
+                                    <input class="input-form required" type="text" name="f_name" id="f_name" placeholder="Имя">
+                                </div>
+                                <div class="col-lg-6 col-sm-6">
+                                    <input class="input-form required" type="text" name="l_name" id="l_name" placeholder="Фамилия">
+                                </div>
+                                <div class="col-lg-6 col-sm-6">
+                                    <input class="input-form required" type="email" name="email" id="email" placeholder="Email">
+                                </div>
+                                <div class="col-lg-6 col-sm-6">
+                                    <input class="input-form" type="text" name="phone" id="phone" placeholder="Телефон">
+                                </div>
+                                <div class="col-lg-12 col-sm-12">
+                                    <textarea class="input-form required" name="con_message" id="con_message" placeholder="Ваше сообщение"></textarea>
+                                </div>
+                            </div>
+                            <button class="common_btn red_bg" type="submit" id="con_submit"><span>Отправить</span></button>
+                            <br><br>
+                            <p class="sec_desc sec_desc-big">
+                                Или заполните форму справа. Ответ придет быстрее!
+                            </p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Ready Section -->
         <section class="commonSection ready">
             <div class="container">

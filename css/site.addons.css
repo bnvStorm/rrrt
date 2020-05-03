@@ -31,7 +31,7 @@
     margin-bottom: 0;
 }
 .ready{
-    margin-top: 200px;
+    margin-top: 20px;
 }
 .footer_1{
 	padding-top: 30px;
@@ -126,11 +126,27 @@ a:focus{
     width: 100%;
     display: block;
 }
+.ab_img1{
+    top: -80px;
+}
+.ab_img2{
+    top: 30px;
+}
+.sec_desc-big,.wh_choose{
+    font-size: 25px;
+}
 /*ABOUT*/
-
+.tab-content > .active {
+    display: flex;
+    align-items: center;
+}
 .testimoniTab ul li a span{
     width: 150px;
     height: 150px;
+}
+.testi_con p{
+    font-size: 16px;
+    line-height: 32px;
 }
 /*showcase*/
 /*.showcase-page{
@@ -215,13 +231,51 @@ a:focus{
     max-width: 80px;
 }
 }
-@media(max-width:480px) {
+@media(max-width:640px) {
+    .ab_img2{
+        display: none;
+    }
+    .ab_img1{
+        margin-top: 100px;
+    }
+    .ab_agency{
+        padding-bottom: 30px;
+    }
+    .sub_title{
+        font-size: 40px;
+    }
+    .sec_title{
+        font-size: 30px;
+    }
+    .commonSection{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .tab-content > .active {
+    flex-direction: column;
+}
+.commonSection .text-right{
+    display: flex;
+    justify-content: center;
+}
+}
+    @media(max-width:480px) {
     .singleClient_fix{
          width: 100%;
     }
    .sub_title{
-    font-size: 25px;
+    font-size: 22px;
+    text-align: center;
 }
+    .sec_title{
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 5px;
+}
+.sec_desc-big, .wh_choose{
+font-size: 18px;
+    }
+
 .tp-caption{
     margin-top: 235px;
 }
