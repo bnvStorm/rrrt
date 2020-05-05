@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://trrr.kz/">
 <meta property="og:title" content="TRRR Technology">
 <meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="og:image" content="https://trrr.lz/images/trrr.png">
+<meta property="og:image" content="https://trrr.kz/images/trrr.png">
 <meta property="og:site_name" content="RRRb Technology">
 <meta property="og:locale" content="ru_RU">
 <meta property="og:image:width" content="968">
@@ -23,7 +23,7 @@
 <meta property="twitter:url" content="https://trrr.kz/">
 <meta property="twitter:title" content="TRRR Technology">
 <meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="twitter:image" content="https://trrr.lz/images/trrr.png">
+<meta property="twitter:image" content="https://trrr.kz/images/trrr.png">
 <!-- Include All CSS here-->
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/libs.min.css"/>
 <link rel="stylesheet" type="text/css" href="../css/site.addons.css"/>
