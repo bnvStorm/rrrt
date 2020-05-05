@@ -8,22 +8,26 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta content="#fff" name="theme-color">
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website">
+
+<meta property="og:title" content="RRR Technology">
+<meta property="og:type" content="article">
 <meta property="og:url" content="https://trrr.kz/">
-<meta property="og:title" content="TRRR Technology">
+<meta property="og:image" content="https://trrr.kz/images/trrr.jpg">
+<meta property="og:site_name" content="RRR Technology">
+<!-- <meta property="fb:admins" content="">  -->
 <meta property="og:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="og:image" content="https://trrr.kz/images/trrr.png">
-<meta property="og:site_name" content="RRRb Technology">
 <meta property="og:locale" content="ru_RU">
-<meta property="og:image:width" content="968">
-<meta property="og:image:height" content="504">
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://trrr.kz/">
-<meta property="twitter:title" content="TRRR Technology">
-<meta property="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
-<meta property="twitter:image" content="https://trrr.kz/images/trrr.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<!-- <meta name="twitter:site" content="@Freepik_Vectors">
+<meta name="twitter:creator" content="@Freepik_Vectors"> -->
+<meta name="twitter:title" content="RRR Technology">
+<meta name="twitter:image:src" content="https://trrr.kz/images/trrr.jpg">
+<meta name="twitter:url" content="https://trrr.kz/">
+<meta name="twitter:description" content="Лидер на рынке вторичного сырья в Казахстане">
+<!-- <meta property="og:image:width" content="968">
+<meta property="og:image:height" content="504"> -->
+
 <!-- Include All CSS here-->
 <link rel="stylesheet" type="text/css" href="https://trrr.kz/css/libs.min.css"/>
 <link rel="stylesheet" type="text/css" href="../css/site.addons.css"/>
