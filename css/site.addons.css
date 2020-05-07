@@ -12,6 +12,7 @@
     display: flex;
     align-items: center;
 }
+
 .logo,.mainmenu ul li,.navigator{
     padding-bottom:  10px;
 }
@@ -291,6 +292,16 @@ a:focus{
     .singleClient_fix{
          width: 100%;
     }
+    .rev_slider_wrapper{
+    left: 0 !important;
+}
+
+.singleClient_2{
+    border: 2px solid #e62b4a;
+}
+.singleClient_2:hover{
+    border: 0px solid #e62b4a;
+}
    .sub_title{
     font-size: 22px;
     text-align: center;

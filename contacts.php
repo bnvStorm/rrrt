@@ -63,16 +63,7 @@
       
 
         <!-- Contact Map Section -->
-        <section class="gmapsection">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-12 noPadding">
-                        <!-- <div class="gmap" id="gmap_2"></div> -->
-                        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A1db0a9f0e64dc90c19bbe9dfcc00824213e89d727bd3fed91870770ddb6dcd9f&amp;source=constructor" width="100%" height="479" frameborder="0"></iframe>
-                    </div>
-                </div>
-            </div>
-        </section>
+  
         <!-- Contact Map Section -->
 
         <section class="commonSection client_2">
@@ -91,45 +82,47 @@
                     Телефоны официальных представителей компании в городах Казахстана:
                 </p>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
-                        <div class="singleClient_2">
+                        <a href="tel:8 775 081 08 06">
+                            <div class="singleClient_2">
                             <h3>Нур-Султан</h3>
                            <!--  <p>ул. Колотушкина</p> -->
                            <!--  <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
-                            <p><a href="tel:8 775 081 08 06">8 775 081 08 06</a></p>
+                            <p>8 775 081 08 06</p>
                         </div>
+                    </a>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
-                        <div class="singleClient_2">
+                       <a href="tel:8 701 921 11 71"> <div class="singleClient_2">
                             <h3>Экибастуз</h3>
                        <!--      <p>ул.Молотушнкина</p> -->
                             <!-- <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
-                            <p><a href="tel:8 701 921 11 71">8 701 921 11 71</a></p>
-                        </div>
+                            <p>8 701 921 11 71</p>
+                        </div></a>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
-                        <div class="singleClient_2">
+                        <a href="tel:8 705 450 29 41"><div class="singleClient_2">
                             <h3>Костанай</h3>
                          <!--    <p>ул. Молодушкина</p> -->
                           <!--   <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
-                            <p><a href="tel:8 705 450 29 41">8 705 450 29 41</a></p>
-                        </div>
+                            <p>8 705 450 29 41</p>
+                        </div></a>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
-                        <div class="singleClient_2">
+                       <a href="tel:8 747 743 16 11"> <div class="singleClient_2">
                             <h3>Семей</h3>
                           <!--   <p>ул. Веселая</p> -->
                             <!-- <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
-                            <p><a href="tel:8 747 743 16 11">8 747 743 16 11</a></p>
-                        </div>
+                            <p>8 747 743 16 11</p>
+                        </div></a>
           
                     </div>
                     <div class="col-lg-3 col-sm-6 col-md-3 singleClient_fix">
-                        <div class="singleClient_2">
+                        <a href="tel:8 771 840 99 91"><div class="singleClient_2">
                             <h3>Усть-Каменогорск</h3>
                           <!--   <p>ул. Веселая</p> -->
                            <!--  <p><a href="mailto:needhelp@meipaly.com">needhelp@meipaly.com</a></p> -->
-                            <p><a href="tel:8 771 840 99 91">8 771 840 99 91</a></p>
-                        </div>
+                            <p>8 771 840 99 91</p>
+                        </div></a>
                     </div>
                 </div>
                     <p class="sec_desc" style="text-align: center;">
@@ -139,6 +132,16 @@
                     <br>
                     Выходной: суббота, воскресение.
                 </p>
+            </div>
+        </section>
+              <section class="gmapsection">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12 noPadding">
+                        <!-- <div class="gmap" id="gmap_2"></div> -->
+                        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A1db0a9f0e64dc90c19bbe9dfcc00824213e89d727bd3fed91870770ddb6dcd9f&amp;source=constructor" width="100%" height="479" frameborder="0"></iframe>
+                    </div>
+                </div>
             </div>
         </section>
         <!-- Button trigger modal -->
