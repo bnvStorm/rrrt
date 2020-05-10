@@ -7,7 +7,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta content="#fff" name="theme-color">
+  <meta content="#000" name="theme-color">
 
 <meta property="og:title" content="RRR Technology">
 <meta property="og:type" content="article">
