@@ -13,8 +13,11 @@
     align-items: center;
 }
 
-.logo,.mainmenu ul li,.navigator{
+.mainmenu ul li,.navigator{
     padding-bottom:  10px;
+}
+.logo{
+    padding-bottom: 0;
 }
 .pageBanner {
     background: none;
