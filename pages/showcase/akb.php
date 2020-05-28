@@ -52,7 +52,7 @@
                     <div class="col-lg-12">
                         <div class="banner_content text-center">
                          <!--    <h4><a href="#">home</a> - portfolio</h4> -->
-                            <h2>АКМ 1</h2>
+                            <h2>АКБ свинцово-гелевые</h2>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         </div> -->
                     </div>
                 </div>
-                <div class="row">
+          <!--       <div class="row">
                     <div class="col-lg-12">
                         <div class="nextprevPagination">
                             <div class="row">
@@ -111,13 +111,13 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- Portfolio Detail Section -->
 
         <!-- Related Portfolio Section -->
-        <section class="commonSection relatedPortfolio" style="margin-bottom: 100px;">
+        <section class="commonSection relatedPortfolio" style="margin-bottom: 0px;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -131,27 +131,34 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="related_slider">
-                            <div class="singlefolio">
-                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
-                                <div class="folioHover">
-                              
-                                    <h4><a href="showcase1">АКМ 1</a></h4>
-                                </div>
+                                        <a href="../../pages/showcase/maslo.php">
+                        <div class="singlefolio ylw">
+                            <img class="lazyload" data-src="../../images/portfolio/2.jpg" alt=""/>
+                            <div class="folioHover">
+                                <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
+                                <h4>Масло фритюрное</h4>
                             </div>
-                                   <div class="singlefolio">
-                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
-                                <div class="folioHover">
-                               
-                                    <h4><a href="showcase1">АКМ 1</a></h4>
-                                </div>
+                        </div>
+                        </a>
+                           <a href="../../pages/showcase/makulatura.php">
+                        <div class="singlefolio red">
+                            <img class="lazyload" data-src="../../images/portfolio/4.jpg" alt=""/>
+                            <div class="folioHover">
+                                <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
+                                <h4>Макулатура</h4>
                             </div>
-                                   <div class="singlefolio">
-                                <img class="lazyload" data-src="https://trrr.kz/images/portfolio/1.jpg" alt=""/>
-                                <div class="folioHover">
-                                
-                                    <h4><a href="showcase1">АКМ 1</a></h4>
-                                </div>
+                        </div>
+                        </a>
+                                                 <a href="../../pages/showcase/akb2.php">
+                        <div class="singlefolio purple">
+                            <img class="lazyload" data-src="../../images/portfolio/3.jpg" alt=""/>
+                            <div class="folioHover">
+                                <!-- <a class="cate" href="#">прозрачная и цветная </a> -->
+                                <h4>АКБ свинцово-кислотные</h4>
                             </div>
+                        </div>
+                        </a>
+                                           
                         </div>
                     </div>
                 </div>

@@ -282,7 +282,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/akb.php">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
@@ -293,7 +293,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/maslo.php">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
@@ -304,7 +304,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/akb2.php">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
@@ -315,7 +315,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/akb.php">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
@@ -326,7 +326,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/plenka.php">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
@@ -337,7 +337,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="#">
+                        <a href="pages/showcase/carton.php">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
