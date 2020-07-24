@@ -76,7 +76,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/akb.php">
+                        <a href="https://trrr.kz/pages/showcase/akb">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/1.jpg" alt=""/>
                             <div class="folioHover">
@@ -87,7 +87,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/maslo.php">
+                        <a href="https://trrr.kz/pages/showcase/maslo">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
@@ -98,7 +98,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/akb2.php">
+                        <a href="https://trrr.kz/pages/showcase/akb2">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
@@ -109,7 +109,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/makulatura.php">
+                        <a href="https://trrr.kz/pages/showcase/makulatura">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
@@ -120,7 +120,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/plenka.php">
+                        <a href="https://trrr.kz/pages/showcase/plenka">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/5.jpg" alt=""/>
                             <div class="folioHover">
@@ -131,7 +131,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/carton.php">
+                        <a href="https://trrr.kz/pages/showcase/carton">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/6.jpg" alt=""/>
                             <div class="folioHover">
@@ -142,7 +142,7 @@
                         </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/maslo2.php">
+                        <a href="https://trrr.kz/pages/showcase/maslo2">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="images/portfolio/7.jpg" alt=""/>
                             <div class="folioHover">
@@ -153,7 +153,7 @@
                         </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/strechplenka.php">
+                        <a href="https://trrr.kz/pages/showcase/strechplenka">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="images/portfolio/8.jpg" alt=""/>
                             <div class="folioHover">
@@ -164,7 +164,7 @@
                         </a>
                     </div>
                               <div class="col-lg-4 col-sm-6 col-md-4">
-                        <a href="https://trrr.kz/pages/showcase/canistri.php">
+                        <a href="https://trrr.kz/pages/showcase/canistri">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="images/portfolio/9.jpg" alt=""/>
                             <div class="folioHover">
@@ -175,7 +175,7 @@
                         </a>
                     </div>
                               <div class="col-lg-12 col-sm-12 col-md-12">
-                        <a href="https://trrr.kz/pages/showcase/tara.php">
+                        <a href="https://trrr.kz/pages/showcase/tara">
                         <div class="singlefolio red all-window-red">
                             <img class="lazyload" data-src="images/portfolio/10.jpg" alt=""/>
                             <div class="folioHover">
