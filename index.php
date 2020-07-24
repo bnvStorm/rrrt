@@ -673,7 +673,7 @@
 
         
         <!-- Contact Section -->
-        <section class="commonSection ContactPage" id="ContactPage">
+<!--         <section class="commonSection ContactPage" id="ContactPage">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -713,7 +713,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
                 <section class="commonSection client_2">
             <div class="container">
 <!--                 <div class="row">
