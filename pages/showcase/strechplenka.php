@@ -1,9 +1,9 @@
 <?php include '../../head.php';?>
          <!-- SEO -->
-        <title>RRR Technology</title>
+        <title>Прием и утилизация стрейчпленки в Караганде | RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/pages/showcase/showcase1"/>
+        <link rel="canonical" href="https://trrr.kz/pages/showcase/strechplenka"/>
         <!-- SEO -->
     </head>
     <body>

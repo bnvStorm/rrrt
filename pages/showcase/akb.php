@@ -1,9 +1,9 @@
 <?php include '../../head.php';?>
          <!-- SEO -->
-        <title>RRR Technology</title>
-        <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
+        <title>Утилизация аккумуляторов АКБ | RRR Technology</title>
+        <meta name="description" content="Утилизация аккумуляторов АКБ в ">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/pages/showcase/showcase1"/>
+        <link rel="canonical" href="https://trrr.kz/pages/showcase/akb"/>
         <!-- SEO -->
     </head>
     <body>

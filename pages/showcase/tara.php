@@ -1,9 +1,9 @@
 <?php include '../../head.php';?>
          <!-- SEO -->
-        <title>RRR Technology</title>
-        <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
+        <title>Прием и утилизация пластиковой тары и бутылок в Караганде | RRR Technology</title>
+        <meta name="description" content="Осуществляем прием и утилизацию ПЭТ-тары и пластиковых бутылок в Караганде и области.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/pages/showcase/showcase1"/>
+        <link rel="canonical" href="https://trrr.kz/pages/showcase/tara"/>
         <!-- SEO -->
     </head>
     <body>
