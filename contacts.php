@@ -1,9 +1,9 @@
 <?php include 'head.php';?>
          <!-- SEO -->
-        <title>RRR Technology</title>
+        <title>Контакты, телефоны, адрес, реквизиты RRR Technology</title>
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
-        <link rel="canonical" href="https://trrr.kz/contact"/>
+        <link rel="canonical" href="https://trrr.kz/contacts"/>
         <!-- SEO -->
     </head>
     <body>

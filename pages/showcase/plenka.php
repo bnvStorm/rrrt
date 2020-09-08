@@ -131,7 +131,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="related_slider">
-                                        <a href="../../pages/showcase/maslo.php">
+                                        <a href="../../pages/showcase/maslo">
                         <div class="singlefolio ylw">
                             <img class="lazyload" data-src="../../images/portfolio/2.jpg" alt=""/>
                             <div class="folioHover">
@@ -140,7 +140,7 @@
                             </div>
                         </div>
                         </a>
-                           <a href="../../pages/showcase/maslo.php">
+                           <a href="../../pages/showcase/maslo">
                         <div class="singlefolio red">
                             <img class="lazyload" data-src="../../images/portfolio/4.jpg" alt=""/>
                             <div class="folioHover">
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                         </a>
-                                                 <a href="../../pages/showcase/akb2.php">
+                                                 <a href="../../pages/showcase/akb2">
                         <div class="singlefolio purple">
                             <img class="lazyload" data-src="../../images/portfolio/3.jpg" alt=""/>
                             <div class="folioHover">
