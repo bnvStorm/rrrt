@@ -43,9 +43,9 @@
                         <aside class="widget social_widget">
                             <h3 class="widget_title">Соц.сети</h3>
                             <ul>
-                                <li><a href="https://www.instagram.com/trrr.kz/"><i class="fa fa-instagram"></i>Instagram</a></li>
-                                <li><a href="https://www.facebook.com/3Rtechnology.kz"><i class="fa fa-facebook-square"></i>Facebook</a></li>
-                                <li><a href="https://ok.ru/profile/576223886196 "><i class="fab fa-odnoklassniki-square"></i>OK</a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/trrr.kz/"><i class="fa fa-instagram"></i>Instagram</a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/3Rtechnology.kz"><i class="fa fa-facebook-square"></i>Facebook</a></li>
+                                <li><a target="_blank" href="https://ok.ru/profile/576223886196 "><i class="fab fa-odnoklassniki-square"></i>OK</a></li>
                     
                             </ul>
                         </aside>
