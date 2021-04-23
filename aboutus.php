@@ -1,10 +1,6 @@
 <?php include 'head.php';?>
          <!-- SEO -->
-<<<<<<< HEAD
-        <title>О компании RRR Technology</title>
-=======
         <title>О компании RRR Technology. Утилизация и переработка вторсырья</title>
->>>>>>> 210c775... update aboutus
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <link rel="canonical" href="https://trrr.kz/aboutus"/>
