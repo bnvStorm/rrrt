@@ -153,7 +153,7 @@
                         <h4 class="sub_title">Свяжитесь с нами!</h4>
                         <h2 class="sec_title">Напишите или позвоните:</h2>
                         <h3 class="sec_title">
-                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                           <a href="tel:+7 708 439 71 03">+7 708 439 71 03</a>
                         </h3><br>
                     </div>
                 </div>

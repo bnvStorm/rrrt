@@ -1,6 +1,10 @@
 <?php include 'head.php';?>
          <!-- SEO -->
+<<<<<<< HEAD
         <title>О компании RRR Technology</title>
+=======
+        <title>О компании RRR Technology. Утилизация и переработка вторсырья</title>
+>>>>>>> 210c775... update aboutus
         <meta name="description" content="Лидер на рынке вторичного сырья в Казахстане.">
         <meta name="robots" content="index,follow">
         <link rel="canonical" href="https://trrr.kz/aboutus"/>
@@ -42,6 +46,7 @@
         <section class="commonSection">
             <div class="container">
                 <div class="row">
+
                 <p>
                     Наша компания вышла на рынок вторичного сырья в 2018 году. В своем активе имеем собственные производственные и складские помещения, в которых работает команда специалистов по переработке, прессованию и отгрузке продукции потребителям.
 Пилотный проект по сбору вторичного сырья у физических лиц реализуется пока в Караганде (сеть приемных пунктов). Но в будущем планируется уже отлаженный механизм внедрить и в других городах Казахстана.
@@ -58,65 +63,14 @@
         <section class="commonSection testimonial_2 bgblack">
             <div class="container">
                 <div class="row">
-                    <div id="tabs" class="testimoniTab">
-                        <div class="col-lg-5 col-sm-5">
-                            <h4 class="sub_title color_aaa">Наши</h4>
-                            <h2 class="sec_title white">Специалисты</h2>
-                            <ul class="slider_testimoial">
-                                <li class="active control_item">
-                                    <a href="#tab_1" data-toggle="tab">
-                                        <span><img class="lazyload" data-src="images/home_1/t1.jpg" alt=""/></span>
-                                        <div class="author_detail">
-                                            <h5>Лилия МАРУКОВА</h5>
-                                            <!-- <h6>Директор</h6> -->
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="control_item">
-                                    <a href="#tab_2" data-toggle="tab">
-                                        <span><img class="lazyload" data-src="images/home_1/t2.jpg" alt=""/></span>
-                                        <div class="author_detail">
-                                           <h5>Сергей ИВАНОВ</h5>
-                                           <!--  <h6>Директор</h6> -->
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="control_item">
-                                    <a href="#tab_3" data-toggle="tab">
-                                        <span><img class="lazyload" data-src="images/home_1/t3.jpg" alt=""/></span>
-                                        <div class="author_detail">
-                                           <h5>Артём КАЛМЫКОВ</h5>
-                                            <!-- <h6>Директор</h6> -->
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-7 col-sm-7">
-                            <div class="dots_owl"></div>
-                            <div class="tab-content clearfix">
-                                <div class="tab-pane fade in active testi_con" id="tab_1">
-                                    <p>
-                                        Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
-                                    </p>
-                                   <!--  <span>25 нояб, 2020</span> -->
-                                </div>
-                                <div class="tab-pane fade testi_con" id="tab_2">
-                                            <p>
-                                       Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
-                                    </p>
-                                  <!--   <span>25 нояб, 2020</span> -->
-                                </div>
-                                <div class="tab-pane fade testi_con" id="tab_3">
-                                           <p>
-                                       Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
-                                    </p>
-                                    <!-- <span>25 нояб, 2020</span> -->
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
+                    <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h3 class="sub_title color_aaa"></h3>
+                        <h2 class="sec_title white"> Бесплатная Консультация</h2>
+                        <p>
+                            Наши специалисты проводят бесплатное консультирование заказчиков, сопровождают долгосрочные проекты, помогут решить любые вопросы и проблемы, связанные со сбором и транспортировкой вторичного сырья, оперативно обрабатывают разовые заявки, а также учитывают все пожелания заказчиков. Свяжитесь с нами любым удобным для вас способом и получите первую консультацию..
+                        </p>
+                        <a class="common_btn" href="contacts"><span>Контакты</span></a>
+                    </div>       
                 </div>
             </div>
         </section>
@@ -226,7 +180,7 @@
                         <h4 class="sub_title">Свяжитесь с нами!</h4>
                         <h2 class="sec_title">Напишите или позвоните:</h2>
                         <h3 class="sec_title">
-                           <a href="tel:+7 708 439 87 54">+7 708 439 87 54</a>
+                           <a href="tel:+7 708 439 71 03">+7 708 439 71 03</a>
                         </h3><br>
                     </div>
                 </div>
